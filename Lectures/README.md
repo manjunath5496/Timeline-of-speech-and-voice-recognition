@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Introduction to Computers and Engineering Problem Solving</a></li>
-<li><a href="#course2">Reading Poetry</a></li>
+<li><a href="#course2">Uncertainty in Engineering</a></li>
 <li><a href="#course3">Introduction to Drama</a></li>
 <li><a href="#course4">Shakespeare</a></li>
 <li><a href="#course5">The Film Experience</a></li>
@@ -280,5 +280,42 @@
 </tbody>
 </table>
 </br>
+<h2 id="course2">Uncertainty in Engineering</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Events and their probability (<a href="notes_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Random variables: discrete distributions (<a href="notes_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Random variables: continuous distributions (<a href="notes_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Random vectors (<a href="notes_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Functions of random variables and vectors (<a href="notes_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Second-moment characterization of random variables and vectors; second-moment (SM) and first-order second-moment (FOSM) propagation of uncertainty (<a href="notes_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conditional second-moment analysis (<a href="notes_07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Selected distribution models (<a href="notes_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Point and interval estimation of distribution parameters (<a href="notes_09.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
