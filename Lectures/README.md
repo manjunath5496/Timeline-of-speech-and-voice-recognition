@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Introduction to Computers and Engineering Problem Solving</a></li>
 <li><a href="#course2">Uncertainty in Engineering</a></li>
-<li><a href="#course3">Introduction to Drama</a></li>
+<li><a href="#course3">Computing and Data Analysis for Environmental Applications</a></li>
 <li><a href="#course4">Shakespeare</a></li>
 <li><a href="#course5">The Film Experience</a></li>
 <li><a href="#course6">Forms of Western Narrative</a></li>
@@ -319,3 +319,251 @@
 </tbody>
 </table>
 </br>
+<h2 id="course3">Computing and Data Analysis for Environmental Applications</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course Introduction (<a href="class03_1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Descriptive Statistics (<a href="class03_2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Probablility (<a href="class03_3.pdf">PDF</a>)</td>
+<td>virtual.m (<a href="virtual.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Joint Probability, Independence, Repeated Trials (<a href="class03_4.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Combinatorial Methods for Deriving Probabilities (<a href="class03_5.pdf">PDF</a>)</td>
+<td>combinatorial_example.pdf (<a href="combinatorial_examples.pdf">PDF</a>)<br />balls.m (<a href="balls.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conditional Probability and Baye's Theorem (<a href="class03_6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Random Variables and Probability Distributions (<a href="class03_7.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Expectation, Functions of a Random Variable (<a href="class03_8.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Risk</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Some Common Probability Distributions (<a href="class03_10.pdf">PDF</a>)</td>
+<td>cdffit.m (<a href="cdffit.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td>Multivariate Probability (<a href="class03_11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Functions of Many Random Variables</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Populations and Samples (<a href="class03_13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Estimation (<a href="class03_14.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Confidence Intervals (<a href="class03_15.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Testing Hypotheses about a Single Population (<a href="class03_16.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Testing Hypotheses about&nbsp;Two Populations (<a href="class03_17.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Small Sample Statistics (<a href="class03_18.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Analysis of Variance (<a href="class03_19_20.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Analysis of Variance (contd.)&nbsp;(<a href="class03_19_20.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Multifactor Analysis of Variance (<a href="class03_21.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Linear Regression (<a href="class03_22.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Analyzing Regression Results (<a href="class03_23.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1&nbsp;&nbsp; (<a href="ps03_1.pdf">PDF</a>)</td>
+<td>pset1_p1_03.m (<a href="pset1_p1_03.m">M</a>)<br />pset1_p2_03.m (<a href="pset1_p2_03.m">M</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;2 (<a href="ps03_2.pdf">PDF</a>)</td>
+<td>pset03_2.m (<a href="pset03_2.m">M</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;3 (<a href="ps03_3.pdf">PDF</a>)</td>
+<td>transport.m (<a href="transport.m">M</a>)<br />ozone.m (<a href="ozone.m">M</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;4 (<a href="ps03_4.pdf">PDF</a>)</td>
+<td>cdffit.m (<a href="cdffit.m">M</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;5 (<a href="ps03_5.pdf">PDF</a>)</td>
+<td>pset5_p1.m (<a href="pset5_p1.m">M</a>)<br />pset5_p2.m (<a href="pset5_p2.m">M</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="ps03_6.pdf">PDF</a>)</td>
+<td>ps6_p1.m (<a href="ps6_p1.m">M</a>)<br />ps6_p2.m (<a href="ps6_p2.m">M</a>)<br />ps6_p3.m (<a href="ps6_p3.m">M</a>)<br />ps6_p4.m (<a href="ps6_p4.m">M</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;7 (<a href="ps03_7.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>Boston_precip.txt (<a href="Boston_precip.txt">TXT</a>)<br />MWRA1.txt (<a href="MWRA1.txt">TXT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;8 (<a href="ps03_8.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>lowercharles.txt (<a href="lowercharles.txt">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;9 (<a href="ps03_9.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>lowercharles.txt (<a href="lowercharles.txt">TXT</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">YEAR</th>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>2003</td>
+<td>Practice Quiz 1 (with solutions) (<a href="quiz03_review_1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2003</td>
+<td>Quiz 1 (with solutions) (<a href="quiz03_1_solution.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>2003</td>
+<td>Quiz 2 (with solutions) (<a href="quiz03_2_solution.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2003</td>
+<td>Quiz 3 (<a href="Quiz03_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>2002</td>
+<td>Quiz 1 (<a href="quiz02_1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2002</td>
+<td>Quiz 2 (with solutions) (<a href="quiz02_2_solution.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>2002</td>
+<td>Quiz 3 (<a href="quiz02_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2001</td>
+<td>Quiz 1 (<a href="quiz01_1.pdf">PDF</a>)</td>
+<td>Quiz01_1_1.m (<a href="Quiz01_1_1.m">M</a>)<br />Quiz01_1_2.m (<a href="Quiz01_1_2.m">M</a>)<br />Quiz01_1_3.m (<a href="Quiz01_1_3.m">M</a>)<br />Quiz01_1_4.m (<a href="Quiz01_1_4.m">M</a>)<br />Quiz01_1_5.m (<a href="Quiz01_1_5.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td>2001</td>
+<td>Quiz 2 (with solutions) (<span class="instruction"><a href="quiz01_2sol.pdf">PDF</a></span>)</td>
+<td>Quiz01_2sol.m (<a href="Quiz01_2sol.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2001</td>
+<td>Practice Quiz 3 (with solutions) (<a href="practice01_3sol.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>2001</td>
+<td>Another Practice Quiz 3 (with solutions) (<a href="quiz01_3sol.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2000</td>
+<td>Quiz 1 (<a href="quiz00_1.pdf">PDF</a>)</td>
+<td>Quiz00_1.m (<a href="Quiz00_1.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td>2000</td>
+<td>Quiz 2 (<a href="quiz00_2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2000</td>
+<td>Quiz 3 (<a href="quiz00_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
