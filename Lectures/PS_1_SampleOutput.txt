@@ -1,0 +1,30 @@
+Line Antenna:
+The magnetic inductance for distance 0.1 is 2.0005776346651243E-8
+The magnetic inductance for distance 0.15000000000000002 is 1.3337184231100828E-8
+The magnetic inductance for distance 0.2 is 1.0002888173325622E-8
+The magnetic inductance for distance 0.25 is 8.002310538660497E-9
+The magnetic inductance for distance 0.3 is 6.668592115550415E-9
+
+Coil Antenna: 
+The magnetic inductance for distance 0.1 is 4.44416611975745E-6
+The mutual inductance for distance 0.1 is 0.0015165007415912334
+The magnetic inductance for distance 0.15000000000000002 is 2.1454096820157315E-6
+The mutual inductance for distance 0.15000000000000002 is 9.307839755441774E-4
+The magnetic inductance for distance 0.2 is 1.124294979086894E-6
+The mutual inductance for distance 0.2 is 5.686534030409811E-4
+The magnetic inductance for distance 0.25 is 6.439145933477356E-7
+The mutual inductance for distance 0.25 is 3.5854137521323937E-4
+The magnetic inductance for distance 0.3 is 3.974983018831652E-7
+The mutual inductance for distance 0.3 is 2.354717897844851E-4
+
+Rectangular Antenna:
+The magnetic inductance for distance 0.1 is 7.054226507216426E-8
+The mutual inductance for distance 0.1 is 6.593577521633058E-8
+The magnetic inductance for distance 0.15000000000000002 is 4.06838834766281E-8
+The mutual inductance for distance 0.15000000000000002 is 5.085255448170757E-8
+The magnetic inductance for distance 0.2 is 2.407306653912442E-8
+The mutual inductance for distance 0.2 is 4.160084240878246E-8
+The magnetic inductance for distance 0.25 is 1.4929997739262498E-8
+The mutual inductance for distance 0.25 is 3.527738567272751E-8
+The magnetic inductance for distance 0.3 is 9.717091368373462E-9
+The mutual inductance for distance 0.3 is 3.065838954360308E-8
