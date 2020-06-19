@@ -20,7 +20,7 @@
 <li><a href="#course19">Airline Schedule Planning</a></li>
 <li><a href="#course20">Computer Algorithms in Systems Engineering</a></li>
 <li><a href="#course21">Transportation Systems Analysis: Demand and Economics</a></li>
-<li><a href="#course22">Modern Drama</a></li>
+<li><a href="#course22">Introduction to Transportation Systems</a></li>
 <li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
 <li><a href="#course24">Popular Narrative: Masterminds</a></li>
 <li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
@@ -2684,5 +2684,142 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course22">Introduction to Transportation Systems</h2>
+
+<table>
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Introduction / Concepts / Principles</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Introduction</p>
+<p>Transportation as a Complex Socio-Technical System (<a href="4/lect1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Transportation Systems Components (<a href="4/lect2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>30 Key Points (<a href="4/lect3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Class Discussion Based on Article Distributed (<a href="4/lect4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling / Demand / Equilibrium (<a href="4/lect5_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modeling / Demand / Equilibrium (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Costing (<a href="4/lect7_8.pdf">PDF - 4.0 MB</a>) (Courtesy of Carl D. Martland. Used with permission.)</p>
+<p>Guest Lecturer: Carl Martland, MIT</p>
+</td>
+</tr>
+<tr class="row">
+<td>Costing (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Traveler Transportation</strong></td>
+</tr>
+<tr class="row">
+<td>Traveler Level of Service (<a href="4/lect9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Urban Transportation and the Land-Use Connection</p>
+<p>Mobility vs. Accessibility</p>
+<p>Urban Form (<a href="4/lect10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Urban Public Transportation (<a href="4/lect11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Urban Public Transportation (cont.) (<a href="4/lect12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Intercity Traveler Transportation</p>
+<p>High-Speed Rail</p>
+<p>International Contrasts (<a href="4/lect13_14.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Freight Transportation / Logistics</strong></td>
+</tr>
+<tr class="row">
+<td>Introduction to Freight / LOS / Logistics</td>
+</tr>
+<tr class="alt-row">
+<td>LOS / Logistics (cont.) (<a href="4/lect15_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modes and their Characteristics &mdash; Costs / Service / Operations</td>
+</tr>
+<tr class="alt-row">
+<td>Operations / Operating Plans / Strategic Plans</td>
+</tr>
+<tr class="row">
+<td>Freight Intermodalism / International Transportation</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Themes</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p>Project Evaluation and Finance (<a href="4/lect19.pdf">PDF</a>) (Courtesy of Carl D. Martland. Used with permission.)</p>
+<p>Guest Lecturer: Carl Martland, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Public Policy Issues &mdash; Privatization (<a href="4/lect20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transportation Technologies &mdash; Their Role and Limitations (<a href="4/lect21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Transportation in Developing Countries</p>
+<p>Megacities &mdash; Mexico City (Demand Revisited) (<a href="4/lect22.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Public Policy Issues:</p>
+<p>Sustainable Development</p>
+<p>Sustainable Transportation</p>
+<p>Transportation and Regional Economic Development</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Large Scale Infrastructure System &mdash; The New York City Subway (<a href="4/lect24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Public Policy Issues &mdash; Safety</p>
+<p>Guest Lecturer: Joseph Coughlin, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Summary</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p>Class Summary and Wrap-up</p>
+<p>Review of Major Concepts</p>
+<p>Student Evaluations and Comments (<a href="4/lect26.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
 </br>
 
