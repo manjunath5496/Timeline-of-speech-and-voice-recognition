@@ -27,7 +27,7 @@
 <li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
 <li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
 <li><a href="#course28">Foundations of Software Engineering</a></li>
-<li><a href="#course29">Learning from the Past: Drama, Science, Performance</a></li>
+<li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
 
 
 </ul>
@@ -3685,3 +3685,19 @@
 </tbody>
 </table>
 </br>
+<h2 id="course29">Transportation Policy and Environmental Limits</h2>
+<p>The two instructors for the course lecture on each topic covered in class, and their lectures are presented here.</p>
+<p>Lecture 2 - Tragedy of the Concrete Commons (Joe Coughlin) (<a href="7/lec2joe.pdf">PDF</a>)</p>
+<p>Lecture 3 - Managed Conflict (Joe Coughlin) (<a href="7/lec3joe.pdf">PDF</a>); Commons Problem (Fred Salvucci) (<a href="7/lec3fred.pdf">PDF</a>)</p>
+<p>Lecture 4 - Who to Regulate (Joe Coughlin) (<a href="7/lec4joe.pdf">PDF</a>); Clean Air Act, Pollution, and Technology (Fred Salvucci) (<a href="7/lec4fred.pdf">PDF</a>)</p>
+<p>Lecture 5 - Pricing for Change (Joe Coughlin) (<a href="7/lec5joe.pdf">PDF</a>); Congestion Pricing (Fred Salvucci) (<a href="7/lec5fred.pdf">PDF</a>)</p>
+<p>Lecture 6 - Nature of Congressional Process (Fred Salvucci) (<a href="7/lec6fred.pdf">PDF</a>)</p>
+<p>Lecture 7 - Logan Runway Case (Joe Coughlin) (<a href="7/lec7joe.pdf">PDF</a>); Kierkegaard: Pattern Breaks (Fred Salvucci) (<a href="7/lec7fred.pdf">PDF</a>)</p>
+
+</br>
+
+
+
+
+
+
