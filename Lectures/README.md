@@ -18,7 +18,7 @@
 <li><a href="#course17">Transportation Flow Systems</a></li>
 <li><a href="#course18">Carrier Systems</a></li>
 <li><a href="#course19">Airline Schedule Planning</a></li>
-<li><a href="#course20">The New Spain:1977-Present</a></li>
+<li><a href="#course20">Computer Algorithms in Systems Engineering</a></li>
 <li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
 <li><a href="#course22">Modern Drama</a></li>
 <li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
@@ -2333,4 +2333,173 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Computer Algorithms in Systems Engineering</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Databases</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Database: Entity-relationship modeling</td>
+<td>(<a href="4/MIT1_204S10_lec01.pdf">PDF</a>)</td>
+<td>(<a href="4/1204Lecture1.vpp">VPP</a>)</td>
+</tr>
+<tr class="row">
+<td>Database: Normalization, SQL basics</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT1_204S10_lec02.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Database: SQL joins, views, subqueries</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT1_204S10_lec03.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="4/Lecture3Examples.sql">SQL</a>)</p>
+<p>(<a href="4/Lecture3CreateDB.sql">SQL</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Database: JDBC</td>
+<td>(<a href="4/MIT1_204S10_lec04.pdf">PDF</a>)</td>
+<td>(<a href="4/lec04.zip">ZIP</a>) (This ZIP file contains: 11 .java files.)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Data Structures</strong></td>
+</tr>
+<tr class="row">
+<td>Algorithms: Analysis, complexity</td>
+<td>(<a href="4/MIT1_204S10_lec05.pdf">PDF</a>)</td>
+<td>(<a href="4/lec05.zip">ZIP</a>) (This ZIP file contains: 6 .java files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Stacks, queues, trees, dictionaries</td>
+<td>(<a href="4/MIT1_204S10_lec06.pdf">PDF</a>)</td>
+<td>(<a href="4/lec06.zip">ZIP</a>) (This ZIP file contains: 10 .java files.)</td>
+</tr>
+<tr class="row">
+<td>Graphs</td>
+<td>(<a href="4/MIT1_204S10_lec07.pdf">PDF</a>)</td>
+<td>(<a href="4/lec07.zip">ZIP</a>) (This ZIP file contains: 4 .java files and 1 .txt file.)</td>
+</tr>
+<tr class="alt-row">
+<td>Heaps, sets</td>
+<td>(<a href="4/MIT1_204S10_lec08.pdf">PDF</a>)</td>
+<td>(<a href="4/lec08.zip">ZIP</a>) (This ZIP file contains: 1 .java file.)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Divide-and-Conquer and Greedy Algorithms</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Divide-conquer: Binary search, quicksort, selection</td>
+<td>(<a href="4/MIT1_204S10_lec09.pdf">PDF</a>)</td>
+<td>(<a href="4/lec09.zip">ZIP</a>) (This ZIP file contains: 4 .java files.)</td>
+</tr>
+<tr class="row">
+<td>Greedy: Knapsack, job sequence</td>
+<td>(<a href="4/MIT1_204S10_lec10.pdf">PDF</a>)</td>
+<td>(<a href="4/lec10.zip">ZIP</a>) (This ZIP file contains: 2 .java files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Greedy: Minimum spanning trees</td>
+<td>(<a href="4/MIT1_204S10_lec11.pdf">PDF</a>)</td>
+<td>(<a href="4/lec11.zip">ZIP</a>) (This ZIP file contains: 4 .java files.)</td>
+</tr>
+<tr class="row">
+<td>Greedy/dynamic programming: Shortest paths</td>
+<td>(<a href="4/MIT1_204S10_lec12.pdf">PDF</a>)</td>
+<td>(<a href="4/lec12.zip">ZIP</a>) (This ZIP file contains: 4 .java files and 1 .txt file.)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Dynamic Programming</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Priniciple of optimality, resource allocation</td>
+<td>(<a href="4/MIT1_204S10_lec13.pdf">PDF</a>)</td>
+<td>(<a href="4/lec13.zip">ZIP</a>) (This ZIP file contains: 1 .java file.)</td>
+</tr>
+<tr class="row">
+<td>Job scheduling, graph/tree generation</td>
+<td>(<a href="4/MIT1_204S10_lec14.pdf">PDF</a>)</td>
+<td>(<a href="4/lec14.zip">ZIP</a>) (This ZIP file contains: 2 .java files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Knapsack problem, set representation</td>
+<td>(<a href="4/MIT1_204S10_lec15.pdf">PDF</a>)</td>
+<td>(<a href="4/lec15.zip">ZIP</a>) (This ZIP file contains: 3 .java files.)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Branch-and-Bound</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Branch and bound: Backtrack method, knapsack problem</td>
+<td>(<a href="4/MIT1_204S10_lec16.pdf">PDF</a>)</td>
+<td>(<a href="4/lec16.zip">ZIP</a>) (This ZIP file contains: 2 .java files.)</td>
+</tr>
+<tr class="row">
+<td>Branch and bound: General method, facility location</td>
+<td>(<a href="4/MIT1_204S10_lec17.pdf">PDF</a>)</td>
+<td>(<a href="4/lec17.zip">ZIP</a>) (This ZIP file contains: 4 .java files and 2 .txt files.)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Linear and Nonlinear Optimization</strong></td>
+</tr>
+<tr class="row">
+<td>Continuous constrained nonlinear optimization</td>
+<td>(<a href="4/MIT1_204S10_lec18.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Network equilibrium</td>
+<td>(<a href="4/MIT1_204S10_lec19.pdf">PDF</a>)</td>
+<td>(<a href="4/lec19.zip">ZIP</a>) (This ZIP file contains: 2 .java files.)</td>
+</tr>
+<tr class="row">
+<td>Linear systems</td>
+<td>(<a href="4/MIT1_204S10_lec20.pdf">PDF</a>)</td>
+<td>(<a href="4/lec20.zip">ZIP</a>) (This ZIP file contains: 5 .java files and 1 .txt file.)</td>
+</tr>
+<tr class="alt-row">
+<td>Continuous unconstrained nonlinear optimization</td>
+<td>(<a href="4/MIT1_204S10_lec21.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="4/lec21a.zip">ZIP A</a>) (This ZIP file contains: 4 .java files.)</p>
+<p>(<a href="4/lec21b.zip">ZIP B</a>) (This ZIP file contains: 3 .java files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Unconstrained methods: Amoeba, BFGS, demand model estimation</td>
+<td>(<a href="4/MIT1_204S10_lec22.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="4/lec22.zip">ZIP</a>) (This ZIP file contains: 4 .java files and 1 .zip file.)</p>
+<p>(<a href="4/lec22_BFGS.zip">ZIP</a>) (This ZIP file contains: 6 .java files.)&nbsp;</p>
+<p>(<a href="4/lec22_LP.zip">ZIP</a>) (This ZIP file contains: 1 .dll file and 1 .java file.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Approximate Queues and Network Designs</strong></td>
+</tr>
+<tr class="row">
+<td>Analytic approximations: Network design</td>
+<td>(<a href="4/MIT1_204S10_lec23.pdf">PDF</a>)</td>
+<td>(<a href="4/lec23.zip">ZIP</a>) (This ZIP file contains: 2 .java files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Approximate queuing analysis</td>
+<td>(<a href="4/MIT1_204S10_lec24.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
