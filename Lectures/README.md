@@ -11,7 +11,7 @@
 <li><a href="#course10">Structural Engineering Design</a></li>
 <li><a href="#course11">Solid Mechanics</a></li>
 <li><a href="#course12">Engineering Mechanics I</a></li>
-<li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
+<li><a href="#course13">Project Management</a></li>
 <li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
 <li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
 <li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
@@ -1863,6 +1863,99 @@
 <p>Lectures 16-26 (<a href="2/variables2.pdf">PDF</a>)</p>
 <p>Lectures 27-37 (<a href="2/variables3.pdf">PDF</a>)</p>
 </br>
+<h2 id="course13">Project Management</h2>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="2/MIT1_040s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction II (<a href="2/MIT1_040s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Project organization and contracts (<a href="2/MIT1_040s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Construction finance (<a href="2/MIT1_040s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Working the globe<br />Guest lecture: Fred Berger (<a href="2/MIT1_040s09_lec05_berger.pdf">PDF - 1.4MB</a>) (Courtesy of Fredric Berger and The Louis Berger Group, Inc. Used with permission.)</p>
+<p>Privatization (<a href="2/MIT1_040s09_lec05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Public-private partnerships in financing of infrastructure (<a href="2/MIT1_040s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Private finance initiative (<a href="2/MIT1_040s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Project finance (<a href="2/MIT1_040s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How to get involved in private finance (<a href="2/MIT1_040s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Case studies I</td>
+</tr>
+<tr class="row">
+<td>Case studies II</td>
+</tr>
+<tr class="alt-row">
+<td>Risk analysis</td>
+</tr>
+<tr class="row">
+<td>Risk management</td>
+</tr>
+<tr class="alt-row">
+<td>Project financial evaluation<br />Guest lecture: Massood Samii, Southern New Hampshire University (<a href="2/MIT1_040s09_lec14.pdf">PDF</a>) (Courtesy of Massood Samii. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>Cost benefit analysis<br />Guest lecture: Massood Samii, Southern New Hampshire University (<a href="2/MIT1_040s09_lec15.pdf">PDF</a>) (Courtesy of Massood Samii. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>Guest lecture: Massood Samii, Southern New Hampshire University</td>
+</tr>
+<tr class="row">
+<td>
+<p>Capital program management<br />Guest lecture: Chris Gordon, Harvard University (<a href="2/MIT1_040s09_lec17.pdf">PDF - 9.8MB</a>) (Courtesy of Chris Gordon. Used with permission.)</p>
+<p>Construction site visit</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Project organization I (<a href="2/MIT1_040s09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The World of Skanksa and The Road Ahead<br />Guest lecture: Jim Becker, Skansa AB (<a href="2/MIT1_040s09_lec19.pdf">PDF - 3.7MB</a>) (Courtesy of Jim Becker. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>Project organization II (<a href="2/MIT1_040s09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Project control</td>
+</tr>
+<tr class="alt-row">
+<td>Project management engineering, procurement and construction (<a href="2/MIT1_040s09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Identifying and covering risks&mdash;current trends (<a href="2/MIT1_040s09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Masdar City: Zero Carbon, Zero Waste: 'Someday is Today'<br />Guest lecture: Khaled Awad</p>
+<p>Project uncertainty management (<a href="2/MIT1_040s09_lec24.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Term project presentations</td>
+</tr>
+</tbody>
+</table>
+</br>
