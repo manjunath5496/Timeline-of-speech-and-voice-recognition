@@ -45,7 +45,7 @@
 <li><a href="#course44">Atmospheric Chemistry</a></li>
 <li><a href="#course45">Aquatic Chemistry</a></li>
 <li><a href="#course46">Database, Internet, and Systems Integration Technologies</a></li>
-<li><a href="#course43">Environmental Microbiology</a></li>
+<li><a href="#course47">Environmental Engineering Masters of Engineering Project</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Computers and Engineering Problem Solving</h2>
@@ -5343,5 +5343,12 @@
 <p><a href="10/MIT1_264JF13_F12_Q2.pdf">Fall 2012 Quiz 2 (PDF)</a></p>
 <p><a href="10/MIT1_264JF13_F12_Q2_sol.pdf">Fall 2012 Quiz 2 solutions (PDF)</a></p>
 </br>
+<h2 id="course47">Environmental Engineering Masters of Engineering Project</h2>
 
+<p>Nepal Water Project Final Presentation (<a href="10/NepalFinalPresentation.pdf">PDF</a>)</p>
+<p>Nepal Water Project Final Report (<a href="10/NepalGroupFinalReport2003Water.pdf">PDF</a>)</p>
+<p>CRABS Final Project Report (<a href="10/crabs_freport.pdf">PDF</a>)</p>
+<p>Drugstore Cowboys Final Presentation (<a href="10/dstore_fnl_pt.pdf">PDF</a>)</p>
+<p>Drugstore Cowboys Final Project Report (<a href="10/final_preport.pdf">PDF -&nbsp;1.9 MB</a>)</p>
 
+</br>
