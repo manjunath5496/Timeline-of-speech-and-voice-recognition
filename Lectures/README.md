@@ -35,6 +35,13 @@
 <li><a href="#course34">Waste Containment and Remediation Technology</a></li>
 <li><a href="#course35">Soil Behavior</a></li>
 <li><a href="#course36">Public Transportation Systems</a></li>
+<li><a href="#course37">Transit Management</a></li>
+<li><a href="#course31">The Impact of Globalization on the Built Environment</a></li>
+<li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
+<li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
+<li><a href="#course34">Waste Containment and Remediation Technology</a></li>
+<li><a href="#course35">Soil Behavior</a></li>
+<li><a href="#course36">Public Transportation Systems</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -4238,6 +4245,123 @@
 </tr>
 <tr class="row">
 <td><a href="7/MIT1_258JS17_lec24.pdf">Baumol's Disease&mdash;guest lecture by Frederick Salvucci (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<h2 id="course37">Transit Management</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Transit Industry Status</td>
+<td>Lecture 1 (<a href="8/lect01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Organizational Models</td>
+<td>
+<p>Lecture 2 (<a href="8/lect02.pdf">PDF</a>)</p>
+<p>Lecture 3 (<a href="8/lect03.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Contracting</p>
+<p>Guest Lecturer: Fred Salvucci, MIT (Lec #4)</p>
+<p>Guest Lecturer: John Attanucci, MIT (Lec #5-6)</p>
+</td>
+<td>
+<p>Lecture 4 (<a href="8/lect04fs.pdf">PDF</a>)</p>
+<p>Lecture 5-6 (<a href="8/lect0506ja.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Term Paper Presentations and Discussions</td>
+<td headers="tbl882id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Performance Measurement</p>
+<p>Guest Lecturer: John Attanucci, MIT (Lec #7)</p>
+</td>
+<td>
+<p>Lecture 7 (<a href="8/lect07ja.pdf">PDF</a>)</p>
+<p>Lecture 8 (<a href="8/lect08.pdf">PDF</a>)</p>
+<p>Lecture 9 (<a href="8/lect09.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Strategic Management and Planning</p>
+<p>Guest Lecturer: Fred Salvucci, MIT (Lec #10)</p>
+</td>
+<td>Lecture 10 (<a href="8/lect10fs.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Finance and Budget</p>
+<p>Guest Lecturer: Richard H. Doyle, Federal Transit Authority (Lec #12)</p>
+</td>
+<td>
+<p>Lecture 11a (<a href="8/lect11a.pdf">PDF</a>)</p>
+<p>Lecture 11b (<a href="8/lect11b.pdf">PDF</a>)</p>
+<p>Lecture 12 (<a href="8/lect12rd.pdf">PDF</a>)</p>
+<p>Lecture 13 (<a href="8/lect13.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Fare Policy and Technology</p>
+<p>Guest Lecturer: Dan Fleishman, TranSystems (Lec #14)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Marketing</p>
+<p>Guest Lecturer: Karla Karash, TranSystems (Lec #15)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Labor Relations</p>
+<p>Guest Lecturer: Fred Salvucci, MIT (Lec #16)</p>
+</td>
+<td>
+<p>Lecture 16 (<a href="8/lect16fs.pdf">PDF</a>)</p>
+<p>Lecture 17 (<a href="8/lect17.pdf">PDF</a>)</p>
+<p>Lecture 18 (<a href="8/lect18.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Workforce Planning</td>
+<td>
+<p>Lecture 19-20 (<a href="8/lect1920.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Safety / Security, Transit Maintenance, and Information Systems</p>
+<p>Guest Lecturer: Susan Altshuler, MBTA (Lec #23)</p>
+<p>Guest Lecturer: John Attanucci, MIT (Lec #24)</p>
+</td>
+<td>
+<p>Lecture 21 (<a href="8/lect21.pdf">PDF</a>)</p>
+<p>Lecture 22 (<a href="8/lect22.pdf">PDF</a>)</p>
+<p>Lecture 24 (<a href="8/lect24ja.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Term Paper Presentations</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
