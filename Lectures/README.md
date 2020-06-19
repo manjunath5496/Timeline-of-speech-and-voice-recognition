@@ -37,7 +37,7 @@
 <li><a href="#course36">Public Transportation Systems</a></li>
 <li><a href="#course37">Transit Management</a></li>
 <li><a href="#course38">Water Resource Systems</a></li>
-<li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
+<li><a href="#course39">Water Quality Control</a></li>
 <li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
 <li><a href="#course34">Waste Containment and Remediation Technology</a></li>
 <li><a href="#course35">Soil Behavior</a></li>
@@ -4500,7 +4500,72 @@
 </tbody>
 </table>
 </br>
-
-
-
+<h2 id="course39">Water Quality Control</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Molecular Diffusion<br /><br />Random Walk Processes<br /><br />Application to Solar Ponds</td>
+<td>Molecular Diffusion (<a href="9/chapter1lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Turbulent Advection and Diffusion<br /><br />1-, 2-, and 3-D Models of Concentration Distributions from Point, Line, and Plane Sources<br /><br />Instantaneous and Continuous Discharges<br /><br />Applications to Water and Air Pollution</td>
+<td>Turbulent Diffusion (<a href="9/chapter2lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Spatial Averaging<br /><br />Longitudinal Dispersion in Steady and Unsteady Flows<br /><br />Applications to Rivers</td>
+<td>Spatial Averaging (<a href="9/chapter3lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mixing in Estuaries and Embayments<br /><br />Tidal Motion, Salinity Intrusion<br /><br />Flushing and Residence Time Concepts<br /><br />Field Tracer Studies</td>
+<td>Estuarine Mixing (<a href="9/chapter4lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>First Quiz</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Reactor Tanks (Fully Mixed, Dispersed Flow, and Plug Flow)<br /><br />Models of Reservoirs and Ponds<br /><br />Applications</td>
+<td>Reactor Vessels (<a href="9/chapter5lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Initial Mixing (Jets and Plumes; Ocean Outfalls)<br /><br />Applications</td>
+<td>Initial Mixing (<a href="9/chapter6lecture.pdf">PDF - 3.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Surface Boundary Processes: Exchange of Mass, Momentum, and Thermal Energy<br /><br />Thermal Stratification in Lakes and Reservoirs<br /><br />Models of Oil Spill Trajectory<br /><br />Gas Exchange</td>
+<td>Surface Processes (<a href="9/chapter8lecture.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bottom Boundary Processes: Sediment Erosion/Deposition<br /><br />Discrete and Flocculant Settling<br /><br />Sorption Processes<br /><br />Sediment-Water Exchange</td>
+<td>Sediment-Water Exchange (<a href="9/chapter9lecture.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Carbon, Nutrient, and Oxygen Cycles<br /><br />Dissolved Oxygen in Rivers and&nbsp;Estuaries</td>
+<td>Dissolved Oxygen (<a href="9/chapter7lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Numerical Models of Hydrodynamics and Water Quality and their Linkage in 1-, 2-, and 3-D<br /><br />Model Selection/Assessment<br /><br />Case Studies</td>
+<td>Water Quality Models (<a href="9/chapter10lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Second Quiz</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Student Presentations</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
