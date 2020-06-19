@@ -31,7 +31,7 @@
 <li><a href="#course30">Urban Transportation Planning</a></li>
 <li><a href="#course31">The Impact of Globalization on the Built Environment</a></li>
 <li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
-<li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
+<li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
 <li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
 <li><a href="#course28">Foundations of Software Engineering</a></li>
 <li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
@@ -3849,3 +3849,96 @@
 </table>
 
 </br>
+<h2 id="course33">E-Commerce and the Internet in Real Estate and Construction</h2>
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">LEC&nbsp;#</th>
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">CASES</th>
+<th id="col4" scope="col">COMMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">1</td>
+<td headers="col2">Course Overview: E-Business Strategies<br /><br />Issues in Real Estate, Design, Construction (<a href="7/1ebusistrategies.pdf">PDF</a>)</td>
+<td headers="col3">None</td>
+<td headers="col4">This session introduces the fundamental business structure of the construction industry, considers the major strategic issues facing firms, and introduces several present barriers to industry structural change. Also discussed will be the general thrust of the course and match with students&rsquo; interests.</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">2</td>
+<td headers="col2">Industry Value System; Strategy Review<br /><br />How Information Gives You Competitive Advantage</td>
+<td headers="col3"><a href="http://businessdirectory.bizjournals.com/boston/construction/964997/george-b-h--macomber-company-inc.html"><em>George B. H. Macomber Co.</em></a><br /><br />"George B. H. Macomber Company: 1990." Harvard Business School Note 9-191-120.</td>
+<td headers="col4">
+<p>The objective of this class session is to refresh students on the major elements of the value system in real estate and construction, and to refresh students on the key elements in the analysis of competitive strategy. In particular, these elements can be applied to the ways in which information technology helps firms compete.</p>
+<p>The case is more than a decade old, but most of the issues are relevant today. The case is a good starting point for illustrating these concepts.</p>
+<p>The balance of the coursework expects that all analyses of technologies and business models refer to back to a) the real world circumstances of the real estate and construction value system, and b) the basic strategy tools that help determines whether ideas and firms succeed or fail in the marketplace.</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="col1">3</td>
+<td headers="col2">3D Modeling; Scaling Up a CAD Solution</td>
+<td headers="col3"><em>The Beck Group: DESTINI</em></td>
+<td headers="col4">There are many ways to create value in the AEC Value System. There are also many ways to accept risk, or to shed it. There is theoretical benefit to collaboration, but it's not clear who drives collaboration or who receives the most benefit. This case covers a response by an at-risk real estate and construction firm seeking to be on the leading edge of technology adoption. What are the issues?</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">4</td>
+<td headers="col2">Supply Chain Management and Optimization<br /><br />Industry Transformation<br /><br />Disruptive Technologies<br /><br />Disruptive Business Models (<a href="7/4_supply_chain.pdf">PDF</a>)</td>
+<td headers="col3"><em>Wal-Mart<br />World Co., Ltd.<br /><br /></em>"Supply Chain Management at World Co., Ltd." Harvard Business School Note 9-601-072.</td>
+<td headers="col4">
+<p>The case is based on retail garment sales in Japan, with one of the leading clothing manufacturers in the world. Many of the issues don&rsquo;t apply to construction at all. However, some of the coordination and optimization ideas could apply quite well &ndash; if one could imagine an entity with a role like that of World Co.</p>
+<p>"Competing on Capabilities" generalizes some of the learning, and shows how it was in place a decade ago to help propel Wal-Mart to the top of the retail world.</p>
+<p>Supply chain optimization has immense potential to help drive efficiencies, margins, and competitive advantage in real estate and construction. What kinds of business entities and what kinds of strategies would be necessary to make use of these kinds of tools?</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="col1">5</td>
+<td headers="col2">Knowing a Winning Business Idea When You See One<br /><br />Writing a Business Plan</td>
+<td headers="col3"><em>Collaborative Structures</em>&nbsp;(<a href="7/5colstrproform.pdf">PDF</a>)</td>
+<td headers="col4">
+<p>Although this case also involves the instructor John Macomber, it represents a good opportunity to a) understand the evolution of strategic thinking in the decade since the George B. H. Macomber Company case, b) consider the concepts in the reading to evaluate whether or not this is a good idea from a market point of view; and c) look at a professionally prepared business plan for an ongoing business that was seeking tens of millions of dollars.</p>
+<p>In the second portion of the Collaborative Structures discussion, we will transition from the basic strategic and business idea and into how the opportunity was communicated. The learning intent is to give students the tools and vocabulary to cover many of the tactical business planning issues that go with executing on a great strategic idea or on a great technology.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">6</td>
+<td headers="col2">Aligning Incentives - Part One<br /><br />Aligning Incentives for Supply Chain Efficiency</td>
+<td headers="col3"><em>Blockbuster Video</em>&nbsp;(Turning the Supply Chain into a Revenue Chain)</td>
+<td headers="col4">
+<p>Many technologies exist that purport to make things more efficient, or to help people to share information. But what if the various businesses in the value system don't want to share information because it's not in their best interest to do so under the current contract structure? This is a source of much resistance in the real estate, design, and construction industries.</p>
+<p>Are there ways in which the players can be incented to work in the same direction, to increase profitability for all? This is the model explored in the reading. If such a contract or incentive structure is invented, presumably this will open the floodgates to adoption of technologies that reward sharing and efficiency.</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="col1">7</td>
+<td headers="col2">Aligning Incentives - Part Two<br /><br />Using Game Theory to Shape Strategy</td>
+<td headers="col3"><em>Regency Plaza</em></td>
+<td headers="col4">
+<p>This case is adapted from a real construction project in Boston. Note that the structure of the customization of the dozens of condominiums amounts to a repeat-play game in classical game theory, as most of the participants are repeated each time. Note that the current structure does not seem to find an equilibrium with optimum value created for the system - and in fact costs money to almost everyone.</p>
+<p>The objective of this class is to use a real life real estate and construction example to illustrate ways in which game can be proposed which helps everyone to act as if their interests are aligned.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">8</td>
+<td headers="col2">Alliances and Franchising Knowledge Management</td>
+<td headers="col3"><em>Colliers and the Technology Solution</em></td>
+<td headers="col4">
+<p>The Real Estate, Construction, and Design industries are very fragmented, and for many reasons they are likely to remain so. Scarce resources that inhibit economies of scale include capital requirements, project management requirements, and new work acquisition requirements.</p>
+<p>It's possible that new technologies, or the expansion of knowledge gleaned from old technologies, may respond better to a franchise or alliance model than to a large company model or to an every-man-for-himself model.</p>
+<p>The Colliers case explores some of the benefits and drawbacks of a franchising / alliance model. While the core technology, Lotus Notes, has progressed substantially in the ensuing years and is no longer directly relevant, the concepts of how to use the power and the independence of the members still very much apply.</p>
+<p>In the Andersen Consulting case, the issue in more depth: how to manage this knowledge. Remembering what has been learned by a firm or by a group of people should be a source of competitive advantage. Many of the technologies discussed to date in the course, as well as the vast amounts of data that are captured in their use, should in concept be aggregated and used to provide advantage. In industries like system integration (Andersen's forte), this clearly is true. Will it be true in real estate and construction?</p>
+<p>If so, what are the key elements in a successful knowledge management strategy?</p>
+<p>Andersen Consulting was not included in the demise of Arthur Andersen &amp; Co., having already been spun off as&nbsp;<a href="http://www.accenture.com/us-en/company/Pages/index.aspx">Accenture</a>.</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="col1">9</td>
+<td headers="col2">Procurement and Exchanges<br /><br />Emerging E-Business Models<br /><br />Exploiting the Virtual Value Chain<br /><br />Consideration for Companies and Careers (<a href="7/9concludeoutline.pdf">PDF</a>)</td>
+<td headers="col3"><em>Freemarkets.com</em></td>
+<td headers="col4">Early e-commerce efforts paid great attention to procurement, auctions, exchanges, and many other business models. Most successes to date have been with existing companies like&nbsp;<a href="http://www.grainger.com/Grainger/wwg/start.shtml">Grainger</a>&nbsp;or&nbsp;<a href="https://www.fidelity.com/">Fidelity</a>. Notable new successes include eBay, the world's online marketplace. What are some of the other avenues along this line of reasoning?</td>
+</tr>
+</tbody>
+</table>
+</br>
+
