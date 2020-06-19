@@ -48,7 +48,7 @@
 <li><a href="#course47">Environmental Engineering Masters of Engineering Project</a></li>
 <li><a href="#course48">Chemicals in the Environment: Fate and Transport</a></li>
 <li><a href="#course49">Design for Sustainability</a></li>
-<li><a href="#course46">Database, Internet, and Systems Integration Technologies</a></li>
+<li><a href="#course50">From Nano to Macro: Introduction to Atomistic Modeling Techniques</a></li>
 <li><a href="#course47">Environmental Engineering Masters of Engineering Project</a></li>  
   
   
@@ -5459,5 +5459,80 @@
 
 </br>
 
+<h2 id="course50">From Nano to Macro: Introduction to Atomistic Modeling Techniques</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to Mechanics of Materials (<a href="12/lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Classical Molecular Dynamics (<a href="12/lec02.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Mechanics of Ductile Materials (<a href="12/lec03.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dynamic Fracture of Brittle Materials (<a href="12/lec04.pdf">PDF - 6.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>The Cauchy-Born Rule (<a href="12/lec05.pdf">PDF - 2.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mechanics of Biological Materials (<a href="12/lec06.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to The Problem Set (<a href="12/lec07.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Size Effects in Deformation of Materials (<a href="12/lec08.pdf">PDF - 3.3 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Final Project Introduction (<a href="12/project_intro.pdf">PDF</a>)</p>
+<p>Problem A (<a href="12/project_a.pdf">PDF</a>)</p>
+<p>Problem B (<a href="12/project_b.pdf">PDF</a>)</p>
+<p>Problem C (<a href="12/project_c.pdf">PDF</a>)</p>
+<h3 class="subsubhead">For Problem C</h3>
+<p>Initial structure (<a href="12/geometry_start.pdb">PDB</a>) This is the initial structure (obtained from Protein Data Bank; after processing).<br />Structure file (<a href="12/out.psf">PSF</a>)<br />Initial fix.pdb file (specify fixed atoms) (<a href="12/fix.pdb">PBD</a>)<br />Initial smd.pdb file (specify atoms that are being pulled) (<a href="12/smd.pdb">PDB</a>)</p>
+<h3 class="subsubhead">Simulation Results</h3>
+<p>CMDF - Log file run mode I (short) (<a href="12/xrunmodeishort.xyz">XYZ</a>) This .xyz file shows a sequence of crack propagation (1,000 steps, as in the example script given above). Frequency of snapshot writing, time step etc. is the same in all examples, and equal to the example script. You may directly load this file into VMD and carry out the analysis.</p>
+<p>CMDF - Log file run mode II (<a href="12/all.xyz">XYZ</a>) Log file for 2,000 step mode II (shear run).</p>
+<p>CMDF - xyz file - mode II, shear (<a href="12/xrunshear.xyz">XYZ</a>) This .xyz file shows a sequence of 2,000 steps under shear loading. Frequency of snapshot writing, time step etc. is the same in all examples, and equal to the example script.</p>
+<p>NAMD - Initial geometry for pulling (<a href="12/1gk6s.coor">COOR</a>)</p>
+<p>NAMD - tensile deformation 0.002 rate (F-x-curve) (<a href="12/fxcurve_002.jpg">JPG</a>)</p>
+<p>NAMD - tensile deformation 0.001 rate (<a href="12/out_small_001.dcd">DCD</a>)</p>
+<p>NAMD - tensile deformation 0.0005 rate (F-x-curve) (<a href="12/fxcurve_005.jpg">JPG</a>)</p>
+<p>NAMD - tensile deformation 0.0005 rate (<a href="12/out_small_005.dcd">DCD</a>)</p>
+<p>NAMD - bending load (force-displacement plot) (<a href="12/bending_load.jpg">JPG</a>)</p>
+<p>NAMD - bending load (<a href="12/out_small_bending_load.dcd">DCD</a>)</p>
+<p>NAMD - tensile deformation 0.002 rate (data file for force-displacement plot) (<a href="12/sim1.dat">DAT</a>) NOTE: Order of columns: Displacement (in Angstrom), force (in pN). This applies to all .dat files.</p>
+<p>NAMD - tensile deformation 0.001 rate (data file for force-displacement plot) (<a href="12/sim2.dat">DAT</a>)</p>
+<p>NAMD - tensile deformation 0.0005 rate (data file for force-displacement plot) (<a href="12/sim3.dat">DAT</a>)</p>
+<p>NAMD - bending deformation (data file for force-displacement plot) (<a href="12/bending.dat">DAT</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="12/ps1.pdf">PDF</a>)</td>
+<td>(<a href="12/ps1_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="12/ps2.pdf">PDF</a>)</td>
+<td>(<a href="12/ps2_solution.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
