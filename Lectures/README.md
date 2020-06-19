@@ -28,7 +28,13 @@
 <li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
 <li><a href="#course28">Foundations of Software Engineering</a></li>
 <li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
-
+<li><a href="#course30">Urban Transportation Planning</a></li>
+<li><a href="#course24">Transportation Systems</a></li>
+<li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
+<li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
+<li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
+<li><a href="#course28">Foundations of Software Engineering</a></li>
+<li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -3696,8 +3702,15 @@
 
 </br>
 
+<h2 id="course30">Urban Transportation Planning</h2>
 
-
-
+<p>Lecture 1:&nbsp;<a href="7/MIT1_252JF16_Lec1.pdf">The Planning Method (PDF)</a></p>
+<p>Lecture 2:&nbsp;<a href="7/MIT1_252JF16_Lec2.pdf">Thumbnail History of Boston (PDF - 1.2MB)</a></p>
+<p>Lecture 4:&nbsp;<a href="7/MIT1_252JF16_Lec4.pdf">Highway Revolt: Rebellion or Revolution? (PDF)</a></p>
+<p>Lecture 5:&nbsp;<a href="7/MIT1_252JF16_Lec5.pdf">Spending Other People's Money (PDF)</a></p>
+<p>Lecture 9:&nbsp;<a href="7/MIT1_252JF16_Lec9.pdf">Environmental Concerns (PDF)</a></p>
+<p>Lecture 11:&nbsp;<a href="7/MIT1_252JF16_Lec11.pdf">Parking (PDF)</a></p>
+<p>Lecture 14:&nbsp;<a href="7/MIT1_252JF16_Lec14.pdf">Parting Thoughts (PDF)</a></p>
+</br>
 
 
