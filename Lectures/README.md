@@ -30,7 +30,7 @@
 <li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
 <li><a href="#course30">Urban Transportation Planning</a></li>
 <li><a href="#course31">The Impact of Globalization on the Built Environment</a></li>
-<li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
+<li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
 <li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
 <li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
 <li><a href="#course28">Foundations of Software Engineering</a></li>
@@ -3790,4 +3790,62 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course32">Strategic Management in the Design and Construction Value Chain</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">CASES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="gray-row">
+<td headers="col2">Purpose of Strategic Planning<br /><br />Industry Value System - Structure (<a href="7/st_01_intro.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Steps in Planning<br /><br />Industry Value System - Risk and Reward (<a href="7/st_poland_a2_mot.pdf">PDF</a>)</td>
+<td headers="col3"><em>Poland's A2 Motorway</em><br /><br />Fundamentals of the Economic Deal (<a href="7/pol_a2_mway_must.xls">XLS</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Market Segmentation:&nbsp;How to Analyze? (<a href="7/st_03_market_seg.pdf">PDF</a>)</td>
+<td headers="col3"><em>Young Canada</em><br /><br />Possible Market Segmentation Matrix for Young Canada Dock Builders (<a href="7/y_can_market_seg.xls">XLS</a>)<br /><br />Lessons Learned Regarding Firm Value Chain and Market Segmentation Tools (<a href="7/strtgc_managmnt.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Segment Attractiveness: Where to Compete?<br /><br />Generic Strategies (<a href="7/st_04_seg_attrac.pdf">PDF</a>)</td>
+<td headers="col3"><em>SOHO China</em><br /><br />Possible Market Segmentation Matrix - Overlay (<a href="7/soho_msegoverley.xls">XLS</a>)<br /><br />Possible Market Segmentation Matrix - Shell (<a href="7/soho_mseg_shell.xls">XLS</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Firm Value Chain 1<br /><br />What Drives a Low - Cost Strategy (<a href="7/st_05_cost_leade.pdf">PDF</a>)</td>
+<td headers="col3"><em>Arborite</em><br /><br />Market Segmentation Framework (<a href="7/ar_msegframework.xls">XLS</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Firm Value Chain 2<br /><br />What Drives a Differentiation Strategy (<a href="7/st_06_diffe_kone.pdf">PDF</a>)</td>
+<td headers="col3"><em>KONE: The Monospace Launch in Germany</em></td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Issues in Vertical Integration: How Much Risk Do You Want? (<a href="7/st_07_vert_integ.pdf">PDF</a>)</td>
+<td headers="col3"><em>Savannah West<br /></em><br />Sample Pro - Forma (<a href="7/sav_west_gsdamdp.xls">XLS</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Changing the Game: How Information Gives You Competitive Advantage (<a href="7/st_08_info_advan.pdf">PDF</a>)<br /><br />Strategy in Fragmented Industries (<a href="7/st_08_it_st_frag.pdf">PDF</a>)</td>
+<td headers="col3"><em>Otisline</em></td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Strategy, Leadership, and Choices</td>
+<td headers="col3"><em>Del Webb, Inc.</em></td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Disruptive Technology, Industry Selection and Career Strategies</td>
+<td headers="col3"><em>B2Bilt</em><br /><br />Tovar, M.L., K. Cacace, and S. Matsushima. "B2Bilt - A Study of Changes in Building Industry Processes." Harvard Design School Case Study, Center for Design Informatics, 2002. CDI#020405-044.</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Review of Core Concepts in 1.46 (<a href="7/st_11_review.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 </br>
