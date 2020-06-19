@@ -2,7 +2,7 @@
 <li><a href="#course1">Introduction to Computers and Engineering Problem Solving</a></li>
 <li><a href="#course2">Uncertainty in Engineering</a></li>
 <li><a href="#course3">Computing and Data Analysis for Environmental Applications</a></li>
-<li><a href="#course4">Shakespeare</a></li>
+<li><a href="#course4">Project Evaluation</a></li>
 <li><a href="#course5">The Film Experience</a></li>
 <li><a href="#course6">Forms of Western Narrative</a></li>
 <li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
@@ -565,5 +565,132 @@
 </tbody>
 </table>
 </br>
+<h2 id="course4">Project Evaluation</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and motivation; Initial discussion of project</td>
+<td>(<a href="MIT1_011S11_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to public and private projects, evaluation methods and project evaluation checklists</td>
+<td>(<a href="MIT1_011S11_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stakeholder analysis and multi-attribute analysis</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Project costs and revenues; Stakeholder perspectives (public vs. private)</td>
+<td>(<a href="MIT1_011S11_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Time value of money; Equivalence relationships</td>
+<td>(<a href="MIT1_011S11_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discount rates, minimally acceptable rate of return (MARR), rate of return on investment (IRR)</td>
+<td>(<a href="MIT1_011S11_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Benefit cost analysis; Comparing alternatives; Financial and economic analysis</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Financing</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Case: Panama Canal</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>High speed rail (HSR) case</td>
+<td>(<a href="MIT1_011S11_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Term projects from previous years</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz review</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Quiz (open-book, open-note)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>HSR Case (cont.)</td>
+<td>(<a href="MIT1_011S11_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to uncertainty, stakeholder analysis and Mitchell framework</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Dealing with uncertainty</td>
+<td>(<a href="MIT1_011S11_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dealing with uncertainty: Decision trees</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Dealing with uncertainty: Real options</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Case: Spent nuclear fuel, transportation to Yucca Mountain, Nevada</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Project evaluation in developing countries, Case: Pure Home Water in Africa</p>
+<p>Guest lecturer: Susan Murcott</p>
+</td>
+<td>(<a href="MIT1_011S11_lec20.pdf">PDF - 8.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Public private partnerships</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Infrastructure banks</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Project presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Project presentations (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Project presentations (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Wrap-up and summary</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</br>
+
+<p>Sydney Opera House (<a href="MIT1_011S11_proj_ex01.pdf">PDF - 1.8MB</a>)</p>
+<p>Atlanta BeltLine (<a href="MIT1_011S11_proj_ex02.pdf">PDF</a>)</p>
+
+</br>
+
+
+
 
 
