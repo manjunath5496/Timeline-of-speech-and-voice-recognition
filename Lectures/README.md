@@ -39,7 +39,7 @@
 <li><a href="#course38">Water Resource Systems</a></li>
 <li><a href="#course39">Water Quality Control</a></li>
 <li><a href="#course40">Environmental Engineering Applications of Geographic Information Systems</a></li>
-<li><a href="#course34">Waste Containment and Remediation Technology</a></li>
+<li><a href="#course41">Groundwater Hydrology</a></li>
 <li><a href="#course35">Soil Behavior</a></li>
 <li><a href="#course36">Public Transportation Systems</a></li>
 
@@ -4580,4 +4580,59 @@
 
 </br>
 
-
+<h2 id="course41">Groundwater Hydrology</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="gray-row">
+<td headers="col2">Course Introduction, Water Balance Equation (<a href="8/1_72_lecture_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Aquifers, Porosity, and Darcy's Law (<a href="8/1_72_lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Hydraulic Head and Fluid Potential (<a href="8/1_72_lecture_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Continuity and Flow Nets (<a href="8/1_72_lecture_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Groundwater Flow Patterns (<a href="8/1_72_lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Groundwater/Surface Water Interactions (<a href="8/1_72_lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Transient Systems and Groundwater Storage (<a href="8/1_72_lecture_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Pump Test Analysis (<a href="8/1_72_lecture_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Numerical Modeling of Groundwater Flow (<a href="8/1_72_lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Superposition (<a href="8/1_72_lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Solute Transport in Groundwater (<a href="8/1_72_lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Soil Moisture I (<a href="8/1_72_lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Soil Moisture II (<a href="8/1_72_lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">Natural Tracers (<a href="8/natural_tracers.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">Hydraulic Conductivity: The Permeater (<a href="8/permeametersys.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
