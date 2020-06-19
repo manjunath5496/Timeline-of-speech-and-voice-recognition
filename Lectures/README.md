@@ -22,7 +22,7 @@
 <li><a href="#course21">Transportation Systems Analysis: Demand and Economics</a></li>
 <li><a href="#course22">Introduction to Transportation Systems</a></li>
 <li><a href="#course23">Probability and Statistics in Engineering</a></li>
-<li><a href="#course24">Popular Narrative: Masterminds</a></li>
+<li><a href="#course24">Transportation Systems</a></li>
 <li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
 <li><a href="#course26">Comedy</a></li>
 <li><a href="#course27">Small Wonders: Media, Modernity, and the Moment: Experiments in Time</a></li>
@@ -2917,6 +2917,171 @@
 </tbody>
 </table>
 </br>
+<h2 id="course24">Transportation Systems</h2>
+<table>
+<thead>
+<tr>
+<th id="tbl790id0_1" scope="col">2004 LECTURE NOTES</th>
+<th id="tbl790id0_2" scope="col">2002 FULL NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="tbl790id0_0"><strong>Block I: Introduction / Philosophy / Basic Transportation Systems Concepts</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl790id0_1">Introduction: Context, Concepts, and Characterization (<a href="5/fa04_lecture1.pdf">PDF</a>)</td>
+<td headers="tbl790id0_2">Introduction: Context, Concepts, and Characterization (<a href="5/trans_sys_chap01.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl790id0_1">Transportation System Components: An Internal and External Perspective (<a href="5/fa04_lectures2_3.pdf">PDF</a>)</td>
+<td headers="tbl790id0_2">
+<p>Transportation System Components: An Internal Perspective (<a href="5/trans_sys_chap02.pdf">PDF</a>)</p>
+<p>Transportation System Components: An External Perspective (<a href="5/trans_sys_chap03.pdf">PDF</a>)</p>
+<p>The Customer and Level-of-Service (<a href="5/trans_sys_chap04.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl790id0_1">Article for Discussion (<a href="5/fa04_lex4.pdf">PDF</a>)</td>
+<td headers="tbl790id0_2">Networks (<a href="5/trans_sys_chap05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl790id0_1">Transportation Systems: 30 Key Points (<a href="5/fa04_lex5.pdf">PDF</a>)</td>
+<td headers="tbl790id0_2">
+<p>Transportation Systems: Key Points 1-10 (<a href="5/trans_sys_chap06.pdf">PDF</a>)</p>
+<p>Transportation Systems: Key Points 11-17 (<a href="5/trans_sys_chap07.pdf">PDF</a>)</p>
+<p>Transportation Systems: Key Points 18-24 (<a href="5/trans_sys_chap08.pdf">PDF</a>)</p>
+<p>Transportation Systems: Key Points 25-30 (<a href="5/trans_sys_chap09.pdf">PDF</a>)</p>
+<p>Models and Frameworks (<a href="5/trans_sys_chap10.pdf">PDF</a>)</p>
+<p>Modeling Concepts (<a href="5/trans_sys_chap11.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl790id0_0"><strong>Block II: Freight Transportation</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl790id0_1">Freight (<a href="5/fa04_lex7fwd.pdf">PDF</a>)<br /><br />Rail Freight&nbsp;(<a href="5/fa04_lex9.pdf">PDF</a>)</td>
+<td headers="tbl790id0_2">
+<p>The Logistics System and Freight Level-of-Service (<a href="5/trans_sys_chap12.pdf">PDF</a>)</p>
+<p>Railroads: Introductory Concepts (<a href="5/trans_sys_chap13.pdf">PDF</a>)</p>
+<p>Railroad Operations (<a href="5/trans_sys_chap14.pdf">PDF</a>)</p>
+<p>Railroad Terminals: P-MAKE Analysis to Predict Network Performance (<a href="5/trans_sys_chap15.pdf">PDF</a>)</p>
+<p>Car Costs and Level-of-Service (<a href="5/trans_sys_chap16.pdf">PDF</a>)</p>
+<p>The Kwon Model--Power, Freight Car Fleet Size, and Service Priorities: A Simulation Application (<a href="5/trans_sys_chap17.pdf">PDF</a>)</p>
+<p>Measuring Origin-Destination Service and Other Rail Issues (<a href="5/trans_sys_chap18.pdf">PDF</a>)</p>
+<p>Trucking (<a href="5/trans_sys_chap18.pdf">PDF</a>)</p>
+<p>Ocean Shipping, International Freight, and Freight Summary (<a href="5/trans_sys_chap20.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl790id0_0"><strong>Block III: Traveler Transportation</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl790id0_1">Traveler Transportation and Summary (<a href="5/fa04_lex11fwd.pdf">PDF</a>)</td>
+<td headers="tbl790id0_2">
+<p>Traveler Transportation: Introduction (<a href="5/trans_sys_chap21.pdf">PDF</a>)</p>
+<p>Commuting, Non-work Travel and Safety, and Some Transportation History (<a href="5/trans_sys_chap.pdf">PDF</a>)</p>
+<p>Traveler Level-of-Service (<a href="5/trans_sys_chap22.pdf">PDF</a>)</p>
+<p>Intelligent Transportation Systems&nbsp;(<a href="5/trans_sys_chap24.pdf">PDF</a>)</p>
+<p>The Urban Transportation Planning Process and Real-Time&nbsp;Network Control (<a href="5/trans_sys_chap25.pdf">PDF</a>)</p>
+<p>Traffic Signals and Other Control Measures (<a href="5/trans_sys_chap26.pdf">PDF</a>)</p>
+<p>Deterministic Queuing (<a href="5/trans_sys_chap27.pdf">PDF</a>)</p>
+<p>Urban Public Transportation (<a href="5/trans_sys_chap28.pdf">PDF</a>)</p>
+<p>Intercity Traveler Transportation: Air (<a href="5/trans_sys_chap29.pdf">PDF</a>)</p>
+<p>Intercity Traveler Transportation: Rail (<a href="5/trans_sys_chap30.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Block IV: Summary</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl790id0_1">Summary</td>
+<td headers="tbl790id0_2">Summary (<a href="5/summary.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl728id0_1" scope="col">ASSIGNMENTS</th>
+<th id="tbl728id0_2" scope="col">SOLUTIONS</th>
+<th id="tbl728id0_3" scope="col">STUDENT&nbsp;EXAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>2004</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl728id0_1">Assignment 1 (<a href="5/04assn1.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">Philippe Bonnefoy (<a href="5/a1bonnefoy.pdf">PDF</a>)<br /><br />Rebecca Fearing (<a href="5/a1fearing.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl728id0_1">Assignment 2A (<a href="5/04assn2a.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl728id0_1">Assignment 2B (<a href="5/04assn2b.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl728id0_1">Assignment 3 (<a href="5/04assn3.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">3A Solutions (<a href="5/04a_3a_sols.xls">XLS</a>)<br /><br />3B Solutions (<a href="5/04a_3b_sols.xls">XLS</a>)</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>2003</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl728id0_1">Assignment 3 (<a href="5/03assn3.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>2002</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl728id0_1">Assignment 1 (<a href="5/f02_asst1.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl728id0_1">Assignment 2: Introduction&nbsp;(<a href="5/f02_asst2intro.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl728id0_1">Assignment 2A (<a href="5/f02_asst2a.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl728id0_1">Assignment 2B (<a href="5/f02_asst2b.pdf">PDF</a>)</td>
+<td headers="tbl728id0_2">&nbsp;</td>
+<td headers="tbl728id0_3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>2001</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 3 (<a href="5/f01_asst3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>2000</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 3 (<a href="5/f00_asst3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
