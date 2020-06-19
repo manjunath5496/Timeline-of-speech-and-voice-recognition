@@ -19,7 +19,7 @@
 <li><a href="#course18">Carrier Systems</a></li>
 <li><a href="#course19">Airline Schedule Planning</a></li>
 <li><a href="#course20">Computer Algorithms in Systems Engineering</a></li>
-<li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
+<li><a href="#course21">Transportation Systems Analysis: Demand and Economics</a></li>
 <li><a href="#course22">Modern Drama</a></li>
 <li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
 <li><a href="#course24">Popular Narrative: Masterminds</a></li>
@@ -2503,3 +2503,186 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Transportation Systems Analysis: Demand and Economics</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Introduction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction</td>
+<td>(<a href="MIT1_201JF08_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Demand</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Overview of consumer theory</td>
+<td>(<a href="MIT1_201JF08_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Discrete choice analysis I</td>
+<td>(<a href="MIT1_201JF08_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discrete choice analysis II</td>
+<td>(<a href="MIT1_201JF08_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Travel demand modeling</td>
+<td>(<a href="MIT1_201JF08_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Freight demand</td>
+<td>(<a href="MIT1_201JF08_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Public transportation</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Organizational models</p>
+<p>(Courtesy of John Attanucci. Used with permission.)</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Path choice models</p>
+<p>(Courtesy of John Attanucci and Nigel Wilson. Used with permission.)</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>The firm and its costs</strong></td>
+</tr>
+<tr class="row">
+<td>Theory of the firm</td>
+<td>(<a href="MIT1_201JF08_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transportation costs</td>
+<td>(<a href="MIT1_201JF08_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Midterm exam</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Pricing</strong></td>
+</tr>
+<tr class="row">
+<td>Pricing of transportation services: theory and practice I</td>
+<td>(<a href="MIT1_201JF08_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pricing of transportation services: theory and practice II</td>
+<td>(<a href="MIT1_201JF08_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>The maritime and port sector</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Analysis of the maritime and port sector I and II</p>
+<p>Guest lectures: Hilde Meersman and Eddy Van de Voorde, Department of Transport and Regional Economics, University of Antwerp</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Revenue forecasting and management</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Transportation revenue forecasting: theory and models</td>
+<td>(<a href="MIT1_201JF08_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Airline revenue management I: flight leg and network models</p>
+<p>Guest lecture: Peter Belobaba, MIT International Center for Air Transportation (MIT ICAT)</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Airline revenue management II: impact of fare simplification on revenue management (RM) models</p>
+<p>Guest lecture: Peter Belobaba, MIT ICAT</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Finance, regulation, and competition</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Project finance I</p>
+<p>Guest lecture: Jon Bottom, CRA International</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Project finance II</p>
+<p>Guest lecture: Jon Bottom, CRA International</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Project finance III</p>
+<p>Regulation of transportation industries</p>
+<p>Guest lectures: Jon Bottom, CRA International</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Project evaluation and programming</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Project evaluation and programming I</p>
+<p>Guest lecture: Lance Neumann, Cambridge Systematics, Inc.</p>
+</td>
+<td>(<a href="1.201_f08_lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Project evaluation and programming II</p>
+<p>Guest lecture: Lance Neumann, Cambridge Systematics, Inc.</p>
+</td>
+<td>(<a href="1.201_f08_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Developing countries</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p>Developing country urban mobility: the sustainable development imperative</p>
+<p>Guest lecture: Chris Zegras, MIT Department of Urban Studies and Planning</p>
+</td>
+<td>(<a href="MIT1_201JF08_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mobility demand in developing countries: some examples</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Intelligent transportation systems, conclusion</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Intelligent transportation systems and the impact of traveler information; emerging themes in transportation economics and policy</td>
+<td>(<a href="MIT1_201JF08_lec26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
