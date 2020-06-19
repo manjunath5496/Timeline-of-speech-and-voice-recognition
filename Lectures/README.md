@@ -6,7 +6,7 @@
 <li><a href="#course5">Ecology I: The Earth System</a></li>
 <li><a href="#course6">Ecology II: Engineering for Sustainability</a></li>
 <li><a href="#course7">Transport Processes in the Environment</a></li>
-<li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
+<li><a href="#course8">Engineering Mechanics II</a></li>
 <li><a href="#course9">Ethnic Literature in America</a></li>
 <li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
 <li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
@@ -1109,3 +1109,136 @@
 </table>
 
 </br>
+<h2 id="course8">Engineering Mechanics II</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Subject Outline, Fluid Concepts, The Continuum Hypothesis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Description of Fluid Flow, Conservation Laws (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture2.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Hydrostatics, Forces on Plane and Curved Surfaces (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture3.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Manometry, Stability of Dams and Gates (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture4.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Mass and Volume Conservation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stream Function, Velocity Potential, Flownet Construction (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture6.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>The Bernoulli Equation for Ideal Fluids (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Application of Mass Conservation and Bernoulli (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conservation Laws for Finite Control Volumes, Reynolds Transport Theorem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conservation of Momentum for Finite Control Volumes (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Applications of Momentum (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Bernoulli Equation from Energy Considerations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Special Forms and Interpretations of the Bernoulli Equation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture13.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Laminar Flow, Shear Stresses in Fluids (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture14.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Velocity Distribution in Laminar Flows, Turbulence, The Reynolds Number (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pipe Friction Losses, Moody Diagram, Minor Losses (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture16.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Pipe Flow Analysis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pump Specification and Requirements (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture18.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Turbines and Windmills (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Drag Forces on Immersed Bodies (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture20.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Lift Forces on Immersed Bodies (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture21.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fluid Mechanics of Pitching</td>
+</tr>
+<tr class="row">
+<td>Uniform Open Channel Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture23.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Uniform Open Channel Flow Computations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bernoulli Principle in Open Channel Flow, Specific Head-Depth Diagram (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Application of Specific Head in Open Channel Flow, Super- and Sub-critical Flows (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture26.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Momentum Principle in Open Channel Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Application of Momentum Principle in Open Channel Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture28.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Gradually Varied Open Channel Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture29.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gradually Varied Flow Profiles (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture30.pdf">PDF - 2.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Discharge From Lakes and Under Gates (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture31.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Further Examples of Gradually Varied Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture32.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Unsteady Flow in Open Channels, Kinematic Waves (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture33.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Flood Routing (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture34.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Differential Analysis of Fluid Flow, Navier-Stokes Equations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture35_36.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>The following files are sample tests along with their solutions, as well as past final exams for the course.</p>
+<p>Test 1 with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/test1_solutions.pdf">PDF - 1.0 MB</a>)</p>
+<p>Test 2 with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/test2_solutions.pdf">PDF - 1.2 MB</a>)</p>
+<p>Text 3 with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/test3_solutions.pdf">PDF - 1.1 MB</a>)</p>
+<p>Final Exam with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/final_solutions.pdf">PDF - 2.9 MB</a>)</p>
+<h2 class="subhead">Sample Exams</h2>
+<p>Sample Test 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/sampletest_1.pdf">PDF</a>)</p>
+<p>Sample Test 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/sampletest_2.pdf">PDF - 1.9 MB</a>)</p>
+<p>Sample Test 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/sampletest_3.pdf">PDF - 1.7 MB</a>)</p>
+<p>Sample Test 4 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/sampletest_4.pdf">PDF - 1.0 MB</a>)</p>
+<p>Study Aids for the Final Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/final_aid.pdf">PDF - 1.2 MB</a>)</p>
+<p>2004 Final Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/final2004.pdf">PDF - 2.4 MB</a>)</p>
+<p>2005 Final Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/final2005.pdf">PDF - 2.2 MB</a>)</p>
+
+</br>
+
