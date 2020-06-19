@@ -41,7 +41,7 @@
 <li><a href="#course40">Environmental Engineering Applications of Geographic Information Systems</a></li>
 <li><a href="#course41">Groundwater Hydrology</a></li>
 <li><a href="#course42">A Sustainable Transportation Plan for MIT</a></li>
-<li><a href="#course36">Public Transportation Systems</a></li>
+<li><a href="#course43">Environmental Microbiology</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -4718,5 +4718,29 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course43">Environmental Microbiology</h2>
+
+<p>Lecture 1 - History of Microbiology (<a href="10/9_9_04.pdf">PDF</a>)</p>
+<p>Lecture 2 - Microorganisms (<a href="10/9_14_04.pdf">PDF</a>)</p>
+<p>Lecture 3 - Cell-wall Surface and Internal Structures (<a href="10/9_16_04.pdf">PDF</a>)</p>
+<p>Lecture 4 - Genetic Elements, Chromosomes, Organization in Prokaryotes, and Plasmids (<a href="10/9_21_04.pdf">PDF</a>)</p>
+<p>Lecture 5 - Transposable Genetic Elements (<a href="10/9_23_04.pdf">PDF</a>)</p>
+<p>Lecture 6 - Fate of Transferred DNA (<a href="10/9_28_04.pdf">PDF</a>)</p>
+<p>Lecture 7 - Metabolism, Biosynthesis, and Assimilation of Inorganic Nutrients (<a href="10/9_30_04.pdf">PDF</a>)</p>
+<p>Lecture 8 - Biosynthesis and Fueling, and Central Metabolism (<a href="10/10_5_04.pdf">PDF</a>)</p>
+<p>Lecture 9 - Fermentation and Respiration (<a href="10/10_7_04.pdf">PDF</a>)</p>
+<p>Lecture 10 - Electron Accepters and Energetic Considerations (<a href="10/10_12_04.pdf">PDF</a>)</p>
+<p>Lecture 11 - Peripheral Metabolism (<a href="10/10_14_04.pdf">PDF</a>)</p>
+<p>Lecture 12 - Autotrophy, CO<sub>2</sub>-Fixation, Phototrophy, and Lithotrophy (<a href="10/10_19_04.pdf">PDF</a>)</p>
+<p>Lecture 13 - Chemolithotrophic Organisms and Biogeochemical Cycles (<a href="10/10_21_04.pdf">PDF</a>)</p>
+<p>Lecture 14 - Regulation and Microbial Ecology (<a href="10/10_28_04.pdf">PDF</a>)</p>
+<p>Lecture 15 - Melting Curves, PCR, and Cloning (<a href="10/11_02_04.pdf">PDF</a>)</p>
+<p>Lecture 16 - Estimation of Diversity (<a href="10/11_04_04.pdf">PDF</a>)</p>
+<p>Lecture 17 - Microbial Activity in the Environment, and Growth and Biodegradation (<a href="10/11_09_04.pdf">PDF</a>)</p>
+<p>Lecture 18 - Microbial Population Interactions (<a href="10/11_18_04.pdf">PDF</a>)</p>
+<p>Lecture 19 - Predation and Microbial Community Structure (<a href="10/11_23_04.pdf">PDF</a>)</p>
+<p>Lecture 20 - Organic Pollutants and Factors Affecting Biodegradation (<a href="10/11_30_04.pdf">PDF</a>)</p>
+<p>Lecture 21 - Indicator Organisms (<a href="10/12_09_04.pdf">PDF</a>)</p>
 </br>
 
