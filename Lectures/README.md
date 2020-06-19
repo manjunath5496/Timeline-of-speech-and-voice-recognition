@@ -38,7 +38,7 @@
 <li><a href="#course37">Transit Management</a></li>
 <li><a href="#course38">Water Resource Systems</a></li>
 <li><a href="#course39">Water Quality Control</a></li>
-<li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
+<li><a href="#course40">Environmental Engineering Applications of Geographic Information Systems</a></li>
 <li><a href="#course34">Waste Containment and Remediation Technology</a></li>
 <li><a href="#course35">Soil Behavior</a></li>
 <li><a href="#course36">Public Transportation Systems</a></li>
@@ -4568,4 +4568,16 @@
 </tbody>
 </table>
 </br>
+<h2 id="course40">Environmental Engineering Applications of Geographic Information Systems</h2>
+
+<p>Introduction to GIS (<a href="8/lec1.pdf">PDF</a>)</p>
+<p>Map Layout and Cartography (<a href="8/lec3.pdf">PDF</a>)</p>
+<p>Map Projections (<a href="8/lec5.pdf">PDF - 2.0 MB</a>)</p>
+<p>Digital Elevation Models (<a href="8/lec6.pdf">PDF</a>)</p>
+<p>Assembling a Cost-Distance Model (<a href="8/lec10.pdf">PDF</a>)</p>
+<p>Vector Processing (<a href="8/vectorprocessing.pdf">PDF</a>)</p>
+<p>Final Project Ideas (<a href="8/gisproject.pdf">PDF</a>)</p>
+
+</br>
+
 
