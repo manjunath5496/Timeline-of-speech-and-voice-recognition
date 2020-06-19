@@ -3364,5 +3364,263 @@
 </table>
 </br>
 <h2 id="course27">Masters of Engineering Concepts of Engineering Practice</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SPEAKERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Subject introduction, resume writing (<a href="6/lec_01.pdf">PDF</a>)</td>
+<td>E. Adams</td>
+</tr>
+<tr class="row">
+<td>The MIT career services</td>
+<td>D. Rosencrans</td>
+</tr>
+<tr class="alt-row">
+<td>Technical writing (<a href="6/lec_02.pdf">PDF</a>)</td>
+<td>E. Adams and D. Levey</td>
+</tr>
+<tr class="alt-row">
+<td>Project evaluation 1 (<a href="6/lec_03.pdf">PDF</a>)</td>
+<td>E. Adams</td>
+</tr>
+<tr class="alt-row">
+<td>Boston's water distribution system as a black box: impact on water quality and effect of ozone</td>
+<td>W. Sung (MWRA)</td>
+</tr>
+<tr class="row">
+<td>Getting work (<a href="6/lec_04_wv.pdf">PDF 1</a>) (<a href="6/lec_04_ps.pdf">PDF 2</a>)</td>
+<td>W. Vicens (CDM) and P. Shanahan</td>
+</tr>
+<tr class="row">
+<td>Oral presentation</td>
+<td>E. Adams</td>
+</tr>
+<tr class="row">
+<td>Mullholland's dream</td>
+<td><em>Cadillac Desert: Mulholland's Dream (Water and the Transformation of Nature)</em></td>
+</tr>
+<tr class="alt-row">
+<td>Project evaluation 2; in-class discussion</td>
+<td>A. Chow and E. Adams</td>
+</tr>
+<tr class="alt-row">
+<td>Integrated engineering design and construction</td>
+<td>J. P. Chakar (Buro Happold)</td>
+</tr>
+<tr class="row">
+<td>Project management 1 (<a href="6/lec_07.pdf">PDF</a>)</td>
+<td>C. Ho (Arup)</td>
+</tr>
+<tr class="row">
+<td>Project evaluation 3 (<a href="6/lec_08.pdf">PDF - 1.4 MB</a>)</td>
+<td>S. Murcott</td>
+</tr>
+<tr class="row">
+<td>Issues in the structural engineering of tall buildings</td>
+<td>R. McNamara (McNamara/Salvia)</td>
+</tr>
+<tr class="alt-row">
+<td>Project management 2 (<a href="6/lec_09.pdf">PDF</a>)</td>
+<td>C. Ho (Arup)</td>
+</tr>
+<tr class="alt-row">
+<td>Live design: mitigating extreme events</td>
+<td>G. Dasgupta (Columbia University)</td>
+</tr>
+<tr class="row">
+<td>Job placement (<a href="6/lec_10_do.pdf">PDF 1</a>) (<a href="6/lec_10_mw.pdf">PDF 2</a>)</td>
+<td>D. Orton (VHB) and M. Wiseheart (PowerAdvocate)</td>
+</tr>
+<tr class="row">
+<td>Project management 3</td>
+<td>E. Adams</td>
+</tr>
+<tr class="row">
+<td>Water reclamation and recycling projects in California</td>
+<td>M. Van Horne (RMC Water and Environmental)</td>
+</tr>
+<tr class="alt-row">
+<td>Engineering and construction industry 1 (<a href="6/lec_12.pdf">PDF</a>)</td>
+<td>C. Helliwell</td>
+</tr>
+<tr class="alt-row">
+<td>Engineering and construction industry 2 (<a href="6/lec_13.pdf">PDF</a>)</td>
+<td>C. Helliwell</td>
+</tr>
+<tr class="alt-row">
+<td>Mulch biowalls for enhanced bioremediation</td>
+<td>J. Travers (Parsons)</td>
+</tr>
+<tr class="row">
+<td>Chase an engineer; group discussion</td>
+<td>E. Adams</td>
+</tr>
+<tr class="row">
+<td>Engineering and construction industry 3</td>
+<td>C. Helliwell</td>
+</tr>
+<tr class="row">
+<td>Green buildings at MIT; presentations</td>
+<td>W. Henry</td>
+</tr>
+<tr class="alt-row">
+<td>Negotiation 1</td>
+<td>A. Chow and E. Adams</td>
+</tr>
+<tr class="alt-row">
+<td>Negotiation 2</td>
+<td>E. Adams and A. Chow</td>
+</tr>
+<tr class="alt-row">
+<td>Expectations for a structural engineering graduate</td>
+<td>E. Nelson</td>
+</tr>
+<tr class="row">
+<td>Professional ethics 1: basis for decision making; student skits (<a href="6/lec_18.pdf">PDF</a>)</td>
+<td>E. Adams</td>
+</tr>
+<tr class="row">
+<td>The first steps after a failure</td>
+<td>D. Peraza (Exponent)</td>
+</tr>
+<tr class="alt-row">
+<td>Professional ethics 2: student debates on case studies</td>
+<td>E. Adams and A. Chow</td>
+</tr>
+<tr class="alt-row">
+<td>Untitled</td>
+<td>D. Farnsworth (Arup)</td>
+</tr>
+<tr class="alt-row">
+<td>Final proposals (to client); student presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Student presentations (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSN&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+<th scope="col">ASSIGNED&nbsp;DATES</th>
+<th scope="col">DUE&nbsp;DATES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>
+<p>a) Write resume draft</p>
+<p>b) Final resume</p>
+</td>
+<td>&nbsp;</td>
+<td>L1</td>
+<td>
+<p>a) S1</p>
+<p>b) S2</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>
+<p>a) Project evaluation</p>
+<p>b) Financing a skyscraper</p>
+</td>
+<td>
+<p>Assignment 2a spreadsheet (<a href="6/assign_2a.xls">XLS</a>)</p>
+<p>Assignment 2b (<a href="6/assign_2b.pdf">PDF</a>)</p>
+</td>
+<td>L3</td>
+<td>
+<p>a) L5</p>
+<p>b) L6</p>
+</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>
+<p>a) Engineer selection</p>
+<p>b) Memo (choice/reason)</p>
+<p>c) Written trip report and thank-you letter</p>
+<p>d) Class discussion</p>
+</td>
+<td>(<a href="6/assign_3.pdf">PDF</a>)</td>
+<td>L4</td>
+<td>
+<p>a) S3</p>
+<p>b) S4</p>
+<p>c) S7</p>
+<p>d) L14</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>
+<p>a) Group letter of intent</p>
+<p>b) Draft proposal</p>
+<p>c) Final proposal</p>
+</td>
+<td>&nbsp;</td>
+<td>S3</td>
+<td>
+<p>a) S5</p>
+<p>b) S9</p>
+<p>c) S13</p>
+</td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td>
+<p>a) Activity network exercise: individual assignment</p>
+<p>b) Bridge construction: group presentation</p>
+</td>
+<td>(<a href="6/assign_5.pdf">PDF</a>)</td>
+<td>L7</td>
+<td>
+<p>a) L9</p>
+<p>b) L11</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td>Profile of an industry company</td>
+<td>(<a href="6/assign_6.pdf">PDF</a>)</td>
+<td>L12</td>
+<td>L15</td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>Professional ethics debates</td>
+<td>(<a href="6/assign_7.pdf">PDF</a>)</td>
+<td>L18</td>
+<td>L19</td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td>Critique of oral presentations</td>
+<td>&nbsp;</td>
+<td>S13</td>
+<td>L20</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><strong>&nbsp;Student Example Work</strong></p>
+<p>Profile an industry company: Jones &amp; Stokes,&nbsp;courtesy of&nbsp;Percy Link, used with permission.&nbsp;(<a href="6/percy_link.pdf">PDF</a>)</p>
+</br>
+
 
 
