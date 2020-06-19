@@ -14,7 +14,7 @@
 <li><a href="#course13">Project Management</a></li>
 <li><a href="#course14">Advanced Soil Mechanics</a></li>
 <li><a href="#course15">Introduction to Network Models</a></li>
-<li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
+<li><a href="#course16">Mechanics of Material Systems: An Energy Approach</a></li>
 <li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
 <li><a href="#course18">The Bible</a></li>
 <li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
@@ -2049,5 +2049,104 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course16">Mechanics of Material Systems: An Energy Approach</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">WEEK&nbsp;#</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Part I: Deformation and Strain</strong></td>
+</tr>
+<tr class="alt-row">
+<td>1</td>
+<td>Description of Finite Deformation (<a href="3/lecture_i1_new.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2</td>
+<td>Infinitesimal Deformation &mdash;&nbsp;Part a (<a href="3/lecture_i2.pdf">PDF</a>), Part b (<a href="3/lecturei2mohrstr.pdf">PDF</a>), and Part c (<a href="3/lecturei2gageros.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part II: Momentum Balance and Stresses</strong></td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>Momentum Balance (<a href="3/lecture_ii_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>Stress States/Failure Criterion (<a href="3/lecture_ii_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part III: Elasticity and Elasticity Bounds</strong></td>
+</tr>
+<tr class="alt-row">
+<td>5</td>
+<td>Thermoelasticity (<a href="3/lecture_iii_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>6</td>
+<td>Variational Methods (<a href="3/lecture_iii_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part IV: Plasticity and Yield Design</strong></td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>1D-Plasticity&ndash;An Energy Approach (<a href="3/lecture_iv_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td>Plasticity Models (<a href="3/lecture_iv_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>9</td>
+<td>Limit Analysis and Yield Design (<a href="3/lecture_iv_9.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="3/hw1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;2 (<a href="3/hw2.pdf">PDF</a>)</td>
+<td>(<a href="3/hw2solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;3 (<a href="3/hw3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;4 (<a href="3/hw4.pdf">PDF</a>)</td>
+<td>(<a href="3/hw4solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Recitation: Why do sandcastles fall? (<a href="3/sandcastles.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<ul>
+<li class="maintabletemplate">Quiz 1 with Solutions (<a href="3/quiz1_solution.pdf">PDF</a>)</li>
+<li class="maintabletemplate">Quiz&nbsp;2 with Solutions (<a href="3/quiz2_solution.pdf">PDF</a>)</li>
+</ul>
 </br>
 
