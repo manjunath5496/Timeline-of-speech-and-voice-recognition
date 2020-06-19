@@ -25,7 +25,7 @@
 <li><a href="#course24">Transportation Systems</a></li>
 <li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
 <li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
-<li><a href="#course27">Small Wonders: Media, Modernity, and the Moment: Experiments in Time</a></li>
+<li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
 <li><a href="#course28">The Art of the Probable: Literature and Probability</a></li>
 <li><a href="#course29">Learning from the Past: Drama, Science, Performance</a></li>
 
@@ -3363,3 +3363,6 @@
 </tbody>
 </table>
 </br>
+<h2 id="course27">Masters of Engineering Concepts of Engineering Practice</h2>
+
+
