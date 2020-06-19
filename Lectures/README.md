@@ -23,7 +23,7 @@
 <li><a href="#course22">Introduction to Transportation Systems</a></li>
 <li><a href="#course23">Probability and Statistics in Engineering</a></li>
 <li><a href="#course24">Transportation Systems</a></li>
-<li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
+<li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
 <li><a href="#course26">Comedy</a></li>
 <li><a href="#course27">Small Wonders: Media, Modernity, and the Moment: Experiments in Time</a></li>
 <li><a href="#course28">The Art of the Probable: Literature and Probability</a></li>
@@ -3084,4 +3084,148 @@
 </tbody>
 </table>
 </br>
+<h2 id="course25">An Introduction to Intelligent Transportation Systems</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl828id0_1" scope="col">TOPICS</th>
+<th id="tbl828id0_2" scope="col">GUEST LECTURERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl828id0_1">Introduction to ITS (<a href="5/lec1.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">Introduction to ITS (cont.) (<a href="5/lec2.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Introduction to ITS (cont.) (<a href="5/lec3.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">Advanced Traveler Information Systems (ATIS) (<a href="5/lec4.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">ATIS (cont.)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">Smartroute Site Visit</td>
+<td headers="tbl828id0_2">Jeff Larson and Cindy Campbell, Smartroute Systems</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Student Report-out on Smartroute Site Visit</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">ATIS</td>
+<td headers="tbl828id0_2">Jane Lappin and Sean Pierce, Volpe National Transportation Center</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Advanced Transportation Management Systems (ATMS)&nbsp;<span class="nobr">(<a href="5/bottom.pdf">PDF - 1.9 MB</a>)</span></td>
+<td headers="tbl828id0_2">Jon Bottom, Charles River Associates</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">Advanced Public Transportation Systems (APTS) (<a href="5/lec10.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">ITS and Flexibility (<a href="5/mcconnell.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">Josh McConnell, MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">Commercial Vehicle Operations (CVO) (<a href="5/wright.pdf">PDF - 1.8 MB</a>)</td>
+<td headers="tbl828id0_2">Brad Wright and William Guiffre, Cambridge Systematics</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">ITS and Customer-centricity (<a href="5/horan.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">Tom Horan, Claremont Graduate School</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">ITS Massachusetts Annual Meeting</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Student Report-out on ITS Massachusetts Annual Meeting</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">ITS and the Environment (<a href="5/dodder.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">Rebecca Dodder, MIT</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Congestion and Regional Operations Collaborations and Coordination (ROCC)</td>
+<td headers="tbl828id0_2">Jonathan Gifford, George Mason University</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">APTS (<a href="5/lec18.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Regional Operations and Planning Architecture (ROPA)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">ROPA (cont.)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">ROPA (cont.) (<a href="5/lec21.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">ROPA (cont.) (<a href="5/lec22.pdf">PDF</a>)</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">ITS Policy Issues</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl828id0_1">Class Wrap-up</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl828id0_1">Group Presentations</td>
+<td headers="tbl828id0_2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Group Project Assignment (<a href="5/project.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl278id0_0" scope="col">SITES</th>
+<th id="tbl278id0_1" scope="col">PRESENTATIONS</th>
+<th id="tbl278id0_2" scope="col">PAPERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl278id0_0">Boston - Steve Alpert, Angela Ho, Lev Pinelis, and Tyler Smith</td>
+<td headers="tbl278id0_1">(<a href="5/boston_presentat.pdf">PDF</a>)</td>
+<td headers="tbl278id0_2">(<a href="5/boston_report.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl278id0_0">Seattle - Bridget Downey, Travis Dunn, and Patrick Hart</td>
+<td headers="tbl278id0_1">(<a href="5/seattle_presenta.pdf">PDF</a>)</td>
+<td headers="tbl278id0_2">(<a href="5/seattle_report.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl278id0_0">Mexico City - Fabio Gordillo, Rich Israels, Goldie Katzoff, John Ward, and Bernardo Ortiz</td>
+<td headers="tbl278id0_1">(<a href="5/mexicocity_prese.pdf">PDF</a>)</td>
+<td headers="tbl278id0_2">(<a href="5/mexicocity_repor.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
 
