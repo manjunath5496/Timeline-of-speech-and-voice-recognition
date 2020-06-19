@@ -5386,3 +5386,78 @@
 <h2 id="course49">Design for Sustainability</h2>
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction (<a href="12/lect1.pdf">PDF</a>)</p>
+<p>The Green Engineer<br />Chris Schaffner, The Green Engineer, LLP</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Sustainability and the Building Industry<br />Prof. John Ochsendorf, MIT Architecture (<a href="12/lect3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Current U.S. Trends<br />Prof. John Ochsendorf, MIT Architecture (<a href="12/lect4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Life Cycle Assessment (LCA) (<a href="12/lect5.pdf">PDF - 1.0 MB</a>)<br />Dana Ozik, MIT Civil and Environmental Engineering</td>
+</tr>
+<tr class="row">
+<td>Sustainable Design in Practice<br />Mark Webster, SGH Consulting Engineers</td>
+</tr>
+<tr class="alt-row">
+<td>The Genzyme Building<br />Rick Aimes, Next Phase Studios<br />Byron Stigge, Buro Happold Consulting Engineers</td>
+</tr>
+<tr class="row">
+<td>Student Presentations</td>
+</tr>
+<tr class="alt-row">
+<td>Energy in Buildings<br />Prof. Leslie Norford, MIT Architecture (<a href="12/lect7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Materials<br />Prof. John Fernandez, MIT Architecture (<a href="12/lect8.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Water and Sanitation<br />Dr. Eric Adams, MIT Civil and Environmental Engineering (<a href="12/lect9.pdf">PDF - 7.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Stata Center Tour<br />Robert Cunkelman, MIT</td>
+</tr>
+<tr class="alt-row">
+<td>Project Working Session</td>
+</tr>
+<tr class="row">
+<td>Final Presentations 1</td>
+</tr>
+<tr class="alt-row">
+<td>Final Presentations 2</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Alfred Navato (<a href="12/alfred_navato.pdf">PDF</a>)</p>
+<p>Bahjat Dagher (<a href="12/bahjat_dagher.pdf">PDF</a>)</p>
+<p>Celine Paoli (<a href="12/celine_paoli.pdf">PDF</a>)</p>
+<p>Helen McCreery (<a href="12/helen_mccreery.pdf">PDF</a>)</p>
+<p>Herve Favennec (<a href="12/herve_favennec.pdf">PDF</a>)</p>
+<p>Jeff Walker (<a href="12/jeff_walker.pdf">PDF</a>)</p>
+<p>Johan Leonard (<a href="12/johan_leonard.pdf">PDF</a>)</p>
+<p>Keith Coleman (<a href="12/keith_coleman.pdf">PDF</a>)</p>
+<p>Kelly Doyle (<a href="12/kelly_doyle.pdf">PDF</a>)</p>
+<p>Nasruddin Nazerali (<a href="12/nasrudin_nazrali.pdf">PDF</a>)</p>
+<p>Nina Mahjoub (<a href="12/nina_mahjoub.pdf">PDF</a>)</p>
+<p>Raymond Kwok (<a href="12/raymond_kwok.pdf">PDF</a>)</p>
+<p>Sean Homem (<a href="12/sean_homem.pdf">PDF</a>)</p>
+<p>Sophie Johnson (<a href="12/sophie_johnson.pdf">PDF</a>)</p>
+<p>Teshamulwa Okioga (<a href="12/teshamula_okioga.pdf">PDF</a>)</p>
+
+</br>
+
+
+
