@@ -5503,8 +5503,6 @@
 <p>Initial structure (<a href="13/geometry_start.pdb">PDB</a>) This is the initial structure (obtained from Protein Data Bank; after processing).<br />Structure file (<a href="13/out.psf">PSF</a>)<br />Initial fix.pdb file (specify fixed atoms) (<a href="13/fix.pdb">PBD</a>)<br />Initial smd.pdb file (specify atoms that are being pulled) (<a href="13/smd.pdb">PDB</a>)</p>
 <h3 class="subsubhead">Simulation Results</h3>
 <p>CMDF - Log file run mode I (short) (<a href="13/xrunmodeishort.xyz">XYZ</a>) This .xyz file shows a sequence of crack propagation (1,000 steps, as in the example script given above). Frequency of snapshot writing, time step etc. is the same in all examples, and equal to the example script. You may directly load this file into VMD and carry out the analysis.</p>
-<p>CMDF - Log file run mode II (<a href="13/all.xyz">XYZ</a>) Log file for 2,000 step mode II (shear run).</p>
-<p>CMDF - xyz file - mode II, shear (<a href="13/xrunshear.xyz">XYZ</a>) This .xyz file shows a sequence of 2,000 steps under shear loading. Frequency of snapshot writing, time step etc. is the same in all examples, and equal to the example script.</p>
 <p>NAMD - Initial geometry for pulling (<a href="13/1gk6s.coor">COOR</a>)</p>
 <p>NAMD - tensile deformation 0.002 rate (F-x-curve) (<a href="13/fxcurve_002.jpg">JPG</a>)</p>
 <p>NAMD - tensile deformation 0.001 rate (<a href="13/out_small_001.dcd">DCD</a>)</p>
