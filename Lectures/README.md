@@ -29,7 +29,7 @@
 <li><a href="#course28">Foundations of Software Engineering</a></li>
 <li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
 <li><a href="#course30">Urban Transportation Planning</a></li>
-<li><a href="#course24">Transportation Systems</a></li>
+<li><a href="#course31">The Impact of Globalization on the Built Environment</a></li>
 <li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
 <li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
 <li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
@@ -3712,5 +3712,82 @@
 <p>Lecture 11:&nbsp;<a href="7/MIT1_252JF16_Lec11.pdf">Parking (PDF)</a></p>
 <p>Lecture 14:&nbsp;<a href="7/MIT1_252JF16_Lec14.pdf">Parting Thoughts (PDF)</a></p>
 </br>
+<h2 id="course31">The Impact of Globalization on the Built Environment</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">SUPPLEMENTARY&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course introduction</td>
+<td>(<a href="7/MIT1_463JF09_lec01.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The growing globalization of the architecture, engineering, and construction (A/E/C) fields</td>
+<td>(<a href="7/MIT1_463JF09_lec02.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Impact of globalization and the current financial crisis on construction industry</td>
+<td>(<a href="7/MIT1_463JF09_lec03.pdf">PDF</a>)</td>
+<td>(<a href="7/MIT1_463JF09_notes03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>20/20: vision for the future of the A/E/C field</td>
+<td>(<a href="7/MIT1_463JF09_lec04.pdf">PDF</a>)</td>
+<td>(<a href="7/MIT1_463JF09_notes04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Marketing</td>
+<td>(<a href="7/MIT1_463JF09_lec05.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>International markets, networking/marketing and selecting the appropriate project delivery system</td>
+<td>(<a href="7/MIT1_463JF09_lec06.pdf">PDF</a>)</td>
+<td>(<a href="7/MIT1_463JF09_notes06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Infrastucture markets</td>
+<td>(<a href="7/MIT1_463JF09_lec07.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Navigating the increasingly treacherous global markets</td>
+<td>(<a href="7/MIT1_463JF09_lec08.pdf">PDF</a>)</td>
+<td>(<a href="7/MIT1_463JF09_notes08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Risk management opportunities and parochialism and other barriers to overseas involvement</td>
+<td>(<a href="7/MIT1_463JF09_lec09.pdf">PDF</a>)</td>
+<td>(<a href="7/MIT1_463JF09_notes09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Productivity, competitiveness, and innovation</td>
+<td>(<a href="7/MIT1_463JF09_lec10.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Project delivery systems</td>
+<td>(<a href="7/MIT1_463JF09_lec11.pdf">PDF</a>)</td>
+<td>(<a href="7/MIT1_463JF09_notes11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Megacities and the environment</td>
+<td>(<a href="7/MIT1_463JF09_lec12.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Report to board of directors</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
