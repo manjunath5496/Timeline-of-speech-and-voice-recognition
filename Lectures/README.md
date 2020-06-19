@@ -46,6 +46,13 @@
 <li><a href="#course45">Aquatic Chemistry</a></li>
 <li><a href="#course46">Database, Internet, and Systems Integration Technologies</a></li>
 <li><a href="#course47">Environmental Engineering Masters of Engineering Project</a></li>
+<li><a href="#course48">Chemicals in the Environment: Fate and Transport</a></li>
+<li><a href="#course45">Aquatic Chemistry</a></li>
+<li><a href="#course46">Database, Internet, and Systems Integration Technologies</a></li>
+<li><a href="#course47">Environmental Engineering Masters of Engineering Project</a></li>  
+  
+  
+  
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Computers and Engineering Problem Solving</h2>
@@ -5352,3 +5359,30 @@
 <p>Drugstore Cowboys Final Project Report (<a href="10/final_preport.pdf">PDF -&nbsp;1.9 MB</a>)</p>
 
 </br>
+<h2 id="course48">Chemicals in the Environment: Fate and Transport</h2>
+<ul>
+<li>Lecture Notes (<a href="11/1725NotesE.pdf">PDF - 1.8 MB</a>)</li>
+<li>Supplemental Flow Net Handout (<a href="11/FlownetSupplementalMaterial.PDF">PDF</a>)</li>
+<li>Problem Set 1 (<a href="11/PSet1_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set 2 (<a href="11/PSet2_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set 3 (<a href="11/PSet3_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;4 (<a href="11/PSet4_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;5 (<a href="11/PSet5_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;6 (<a href="11/PSet6_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;7 (<a href="11/PSet7_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;8 (<a href="11/PSet8_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;9 (<a href="11/PSet9_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set 10 (<a href="11/PSet10_Solutions.pdf">PDF</a>)</li>
+<li>Problem Set&nbsp;11 (<a href="11/PSet11_Solutions.pdf">PDF</a>)</li>
+<li>Midterm Exam (<a href="11/midterm_quiz1.pdf">PDF</a>)</li>
+<li>Midterm Solution (<a href="11/1725QUIZ1FALL2004solutions.PDF">PDF</a>)</li>
+<li>Final Exam Review Sheet (<a href="11/1725FINALEXAMREVIEWSHEETS.PDF">PDF</a>)</li>
+<li>Final Exam (<a href="11/final_quiz2.pdf">PDF</a>)</li>
+<li>Sample Exams from Past Classes (<a href="11/1725SAMPLEEXAMSSOLUTIONS.PDF">PDF</a>)</li>
+</ul>
+
+
+</br>
+
+
+
