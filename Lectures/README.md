@@ -5648,3 +5648,61 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="14/homework1.pdf">PDF</a>)</td>
+<td>(<a href="14/homework1soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="14/homework2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/homework2soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="14/homework3.pdf">PDF</a>)</td>
+<td>(<a href="14/homework3soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="14/homework4.pdf">PDF</a>)</td>
+<td>(<a href="14/homework4soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="14/homework5.pdf">PDF</a>)</td>
+<td>(<a href="14/homework5soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="14/homework6.pdf">PDF</a>)</td>
+<td>(<a href="14/homework6soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="14/homework7.pdf">PDF</a>)</td>
+<td>(<a href="14/homework7soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Problem Set 8 (<a href="14/homework8.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/homework8soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li>
+<p>Midterm Exam (<a href="14/midterm_exam.pdf">PDF</a>)</p>
+</li>
+<li>
+<p>Midterm Solution (<a href="14/midterm_exam_sol.pdf">PDF</a>)</p>
+</li>
+<li>
+<p>Final Exam (<a href="14/final_exam.pdf">PDF</a>)</p>
+</li>
+<li>
+<p>Final Exam Solution (<a href="14/final_exam_soln.pdf">PDF</a>)</p>
+</li>
+</ul>
+</br>
