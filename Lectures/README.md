@@ -49,7 +49,7 @@
 <li><a href="#course48">Chemicals in the Environment: Fate and Transport</a></li>
 <li><a href="#course49">Design for Sustainability</a></li>
 <li><a href="#course50">From Nano to Macro: Introduction to Atomistic Modeling Techniques</a></li>
-<li><a href="#course47">Environmental Engineering Masters of Engineering Project</a></li>  
+<li><a href="#course51">Water and Wastewater Treatment Engineering</a></li>  
   
   
   
@@ -5533,4 +5533,89 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course51">Water and Wastewater Treatment Engineering</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to Water Supply and Wastewater&nbsp;<span class="nobr">(<a href="13/l01_introduction.pdf">PDF - 2.0 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Why Treat Water and Wastewater? Water Quality Parameters and Standards&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l02_water_qualit.pdf">PDF - 1.2 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Reactor Tanks - Mixed Tanks, First-order Kinetics, Plug Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l03_react_tank_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactor Tanks - Dispersed Flow, Tanks-In-Series, Residence Time Distribution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l04_react_tank_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sedimentation-Flocculation - Part 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l05_sediment_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sedimentation-Flocculation - Part 2&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l06_sediment_2.pdf">PDF - 1.9 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Filtration&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l07_filtration.pdf">PDF - 2.3 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Chemical Treatment - Softening - Part 1&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l08_lime_soft_1.pdf">PDF - 1.5 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Chemical Treatment - Softening - Part 2 (<a href="13/l09_lime_soft_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chemical Treatment - Adsorption and Ion Exchange&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l10_adsor_ion_ex.pdf">PDF - 2.2 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Field Trip to City of Cambridge Water Treatment Plant</td>
+</tr>
+<tr class="alt-row">
+<td>Gas Transfer and Air Stripping&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l11_air_striping.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Disinfection&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l12_disinfection.pdf">PDF - 2.4 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Wastewater Screening, Primary Treatment&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l13_wastwatr_pr.pdf">PDF - 2.2 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Field Trip to Deer Island Wastewater Treatment Plant</td>
+</tr>
+<tr class="alt-row">
+<td>Biological Reaction Kinetics - Part 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l14_reac_kine_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Biological Reaction Kinetics - Part 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l15_reac_kine_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stabilization Ponds (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l16_stabili_pond.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Activated Sludge Treatment - Part 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l17_activ_slud_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Activated Sludge Treatment - Part 2&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l18_activ_slud_2.pdf">PDF - 2.0 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Trickling Filters, Biological Contactors&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l19_trick_filter.pdf">PDF - 2.1 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Nutrient Removal&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l20_nutrient_rem.pdf">PDF - 3.4 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Sludge Handling&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l21_sludge.pdf">PDF - 1.3 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Sludge Digestion&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/l22_sludge_stabi.pdf">PDF - 2.1 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+
 </br>
