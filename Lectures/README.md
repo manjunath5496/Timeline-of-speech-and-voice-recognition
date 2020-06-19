@@ -32,7 +32,7 @@
 <li><a href="#course31">The Impact of Globalization on the Built Environment</a></li>
 <li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
 <li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
-<li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
+<li><a href="#course34">Waste Containment and Remediation Technology</a></li>
 <li><a href="#course28">Foundations of Software Engineering</a></li>
 <li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
 
@@ -3941,4 +3941,93 @@
 </tbody>
 </table>
 </br>
+<h2 id="course34">Waste Containment and Remediation Technology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Introduction to Remediation Technology (<a href="7/lecture01.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Hazardous Waste Regulations and Hazardous Materials (<a href="7/lecture02.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Contaminant Transport Mechanisms and Principles (<a href="7/lecture03.pdf">PDF - 2.8 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Multi-phase Flow in Porous Media (<a href="7/lecture04.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">NAPL Fate and Transport (<a href="7/lecture05.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Site Characterization (<a href="7/lecture06_07a.pdf">PDF - 3.7 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Site Characterization (cont.) (<a href="7/lecture06_07a.pdf">PDF - 3.7 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Remediation Principles: Source Control and Management of Migration Covers, Cut-off Walls, Solidification / Stabilization (<a href="7/lecture08.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Pump-and-Treat Systems (<a href="7/lecture09.pdf">PDF - 3.5 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Solvent Vapor Extraction, Air Sparging, Soil Flushing (<a href="7/lecture10.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Funnel and Gate Systems, Permeable Treatment Walls (<a href="7/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Bioremediation (<a href="7/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Natural Attenuation (<a href="7/lecture13.pdf">PDF -&nbsp;1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 26px;">
+<td style="height: 26px;">New Remediation Technologies<br />Technical Impracticability (<a href="7/lecture14.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Remedy Selection and Risk Assessment (<a href="7/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Introduction to Solid, Hazardous, and Radioactive Waste Disposal and Containment (<a href="7/lecture16.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Design of Landfill (<a href="7/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Leachate and Gas Production in Landfill (<a href="7/lecture18.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Landfill Hydrology (<a href="7/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Field Trip to Crapo Hill Landfill</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Compacted Soil Liners (<a href="7/lecture21.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Synthetic Clay Liners and Geomembranes (<a href="7/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Landfill Construction QA, Monitoring, and Closure (<a href="7/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Brownfields (<a href="7/lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Hazardous Waste Practice (Regulatory Practice, Expert Testimony, Risk Assessment) (<a href="7/lecture25_ques.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
