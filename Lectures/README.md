@@ -33,7 +33,7 @@
 <li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
 <li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
 <li><a href="#course34">Waste Containment and Remediation Technology</a></li>
-<li><a href="#course28">Foundations of Software Engineering</a></li>
+<li><a href="#course35">Soil Behavior</a></li>
 <li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
 
 </ul>
@@ -4029,5 +4029,141 @@
 </table>
 </br>
 
-
-
+<h2 id="course35">Soil Behavior</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURERS</th>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>AJW and LCJ</td>
+<td>Overview, Organization, Soil Composition<br /><br />Clay-Water Forces</td>
+<td>Overview and Soil Composition (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/01partai.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Clay-Water Forces, Interparticle Forces</td>
+<td>Clay-Water Forces&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/02partaii.pdf">PDF - 1.0 MB</a>)</span><br /><br />Interparticle Forces: Components and Interaction (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/03partaiii.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LCJ</td>
+<td>Strength Generation in Soils<br /><br />Soil Structure</td>
+<td>Strength Generation in Soils (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/04partaiv.pdf">PDF</a>)<br /><br />Soil Structure: Effects of Clay Type and Environmental Factors</td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Basic Strength Principles<br /><br />Simple Clay (Laddite) - NC</td>
+<td>Basic Strength Principles and Stress-Strain-Strength; Behavior of "Simple Clay" (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/07partb.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LCJ</td>
+<td>Laddite - OC<br /><br />Hvorslev Parameters, SB Surface</td>
+<td>Soil Modeling&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/08soilmodeling.pdf">PDF - 1.2 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>AJW</td>
+<td>Plasticity<br /><br />Mechanisms Controlling Compressibility of Clays</td>
+<td>Mechanisms Controlling Compressibility of Clays</td>
+</tr>
+<tr class="row">
+<td>AJW</td>
+<td>Mechanisms Controlling Compressibility of Clays</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>AJW</td>
+<td>K0 and Stress History<br /><br />Stress History Profiling</td>
+<td>Consolidation Behavior of Saturated Soils&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/09consolidationi.pdf">PDF - 4.4 MB</a>)</span><br /><br />1-D Consolidation: Magnitude of Final Settlement&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/10consolidatnii.pdf">PDF - 3.3 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>AJW</td>
+<td>Rates of Consolidation<br /><br />Hydraulic Conductivity</td>
+<td>Rate of Consolidation and Coefficient of Permeability</td>
+</tr>
+<tr class="alt-row">
+<td>AJW</td>
+<td>2&deg; Compression</td>
+<td>Secondary Compression</td>
+</tr>
+<tr class="row">
+<td>AJW</td>
+<td>Non-Linear Consolidation<br /><br />2D/3D Effects</td>
+<td>Two and Three Dimensional Loadings--&gt;</td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Problem Soils - 1<br /><br />Structured Clays, Varved Clays and Peat</td>
+<td>Problem Soils&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/14consolidatnvi.pdf">PDF - 3.8 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>LCJ</td>
+<td>Problem Soils - 2<br /><br />Expansive Soils, Residual Soils</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Embankments on Peat<br /><br />Surcharging to Control 2&deg; Compression</td>
+<td>Strength-Deformation Behavior of Saturated Clays and Drained/Undrained Stability&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/15strengthdeform.pdf">PDF - 2.6 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>LCJ</td>
+<td>Strength 1A and 1B<br /><br />Strength 1C</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Strength 1C and IIA<br /><br />Strength IIB</td>
+<td>A Measurement of Undrained Strength for UU Case&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/16partiia.pdf">PDF - 2.4 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>LCJ</td>
+<td>Strength IIB</td>
+<td>Undrained Shear of Cohesive Soils</td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Strength IIC - Sample Disturbance</td>
+<td>Stress System: Experimental Techniques and Results&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/18partiic.pdf">PDF - 5.6 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>LCJ</td>
+<td>Strength IID</td>
+<td>Influence of Time on Stress-Strain-Strength Behavior of Clays During Undrained Shear&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/19partiid.pdf">PDF - 3.5 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>LCJ</td>
+<td>Strength IID<br /><br />Strength IID, IIE and IIF</td>
+<td>Staged Construction&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/20partiie.pdf">PDF - 3.3 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>AJW</td>
+<td>Shear Modes<br /><br />Clay Anisotropy and E3 Soil Model</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>AJW</td>
+<td>Sands</td>
+<td>Stress-Strain-Strength Behavior of Cohesionless Soils</td>
+</tr>
+<tr class="row">
+<td>AJW</td>
+<td>Sands (cont.)</td>
+<td>Effects of Sand Structure</td>
+</tr>
+<tr class="alt-row">
+<td>AJW</td>
+<td>Compacted Clay</td>
+<td>Behavior of Compacted Clays</td>
+</tr>
+<tr class="row">
+<td>AJW</td>
+<td>Compacted Clay (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
