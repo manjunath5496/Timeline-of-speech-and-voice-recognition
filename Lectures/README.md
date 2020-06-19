@@ -5362,7 +5362,7 @@
 <h2 id="course48">Chemicals in the Environment: Fate and Transport</h2>
 <ul>
 <li>Lecture Notes (<a href="11/1725NotesE.pdf">PDF - 1.8 MB</a>)</li>
-<li>Supplemental Flow Net Handout (<a href="11/FlownetSupplementalMaterial.PDF">PDF</a>)</li>
+<li>Supplemental Flow Net Handout (<a href="11/FlownetSupplementalMaterial.pdf">PDF</a>)</li>
 <li>Problem Set 1 (<a href="11/PSet1_Solutions.pdf">PDF</a>)</li>
 <li>Problem Set 2 (<a href="11/PSet2_Solutions.pdf">PDF</a>)</li>
 <li>Problem Set 3 (<a href="11/PSet3_Solutions.pdf">PDF</a>)</li>
@@ -5375,10 +5375,10 @@
 <li>Problem Set 10 (<a href="11/PSet10_Solutions.pdf">PDF</a>)</li>
 <li>Problem Set&nbsp;11 (<a href="11/PSet11_Solutions.pdf">PDF</a>)</li>
 <li>Midterm Exam (<a href="11/midterm_quiz1.pdf">PDF</a>)</li>
-<li>Midterm Solution (<a href="11/1725QUIZ1FALL2004solutions.PDF">PDF</a>)</li>
-<li>Final Exam Review Sheet (<a href="11/1725FINALEXAMREVIEWSHEETS.PDF">PDF</a>)</li>
+<li>Midterm Solution (<a href="11/1725QUIZ1FALL2004solutions.pdf">PDF</a>)</li>
+<li>Final Exam Review Sheet (<a href="11/1725FINALEXAMREVIEWSHEETS.pdf">PDF</a>)</li>
 <li>Final Exam (<a href="11/final_quiz2.pdf">PDF</a>)</li>
-<li>Sample Exams from Past Classes (<a href="11/1725SAMPLEEXAMSSOLUTIONS.PDF">PDF</a>)</li>
+<li>Sample Exams from Past Classes (<a href="11/1725SAMPLEEXAMSSOLUTIONS.pdf">PDF</a>)</li>
 </ul>
 
 
