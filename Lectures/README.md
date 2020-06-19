@@ -43,7 +43,7 @@
 <li><a href="#course42">A Sustainable Transportation Plan for MIT</a></li>
 <li><a href="#course43">Environmental Microbiology</a></li>
 <li><a href="#course44">Atmospheric Chemistry</a></li>
-<li><a href="#course41">Groundwater Hydrology</a></li>
+<li><a href="#course45">Aquatic Chemistry</a></li>
 <li><a href="#course42">A Sustainable Transportation Plan for MIT</a></li>
 <li><a href="#course43">Environmental Microbiology</a></li>
 </ul>
@@ -4821,3 +4821,20 @@
 </tbody>
 </table>
 </br>
+<h2 id="course45">Aquatic Chemistry</h2>
+
+<ul>
+<li>
+<p>Practice Exam (<a href="10/practice.pdf">PDF</a>)</p>
+</li>
+<li>
+<p>Solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="10/solution.pdf">PDF</a>)</p>
+</li>
+</ul>
+
+</br>
+
+
+
+
+
