@@ -26,7 +26,7 @@
 <li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
 <li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
 <li><a href="#course27">Masters of Engineering Concepts of Engineering Practice</a></li>
-<li><a href="#course28">The Art of the Probable: Literature and Probability</a></li>
+<li><a href="#course28">Foundations of Software Engineering</a></li>
 <li><a href="#course29">Learning from the Past: Drama, Science, Performance</a></li>
 
 
@@ -3621,6 +3621,67 @@
 <p><strong>&nbsp;Student Example Work</strong></p>
 <p>Profile an industry company: Jones &amp; Stokes,&nbsp;courtesy of&nbsp;Percy Link, used with permission.&nbsp;(<a href="6/percy_link.pdf">PDF</a>)</p>
 </br>
+<h2 id="course28">Foundations of Software Engineering</h2>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="7/ps1.pdf">PDF</a>)</td>
+<td>(<a href="7/sol1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="7/ps2.pdf">PDF</a>)</td>
+<td>(<a href="7/sol2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="7/ps3.pdf">PDF</a>)</td>
+<td>(<a href="7/sol3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="7/ps4.pdf">PDF</a>)</td>
+<td>(<a href="7/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="7/ps5.pdf">PDF</a>)</td>
+<td>(<a href="7/sol5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="7/ps6.pdf">PDF</a>)</td>
+<td>(<a href="7/sol6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="7/ps7.pdf">PDF</a>)<br />Pole Data for Problem Set 7 (<a href="7/pole.data">DATA</a>)</td>
+<td>(<a href="7/sol7.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Sample Quiz 1 (<a href="7/sample_quiz1.pdf">PDF</a>)</td>
+<td>(<a href="7/sample_quiz1_answers.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 1 (<a href="7/quiz1.pdf">PDF</a>)</td>
+<td>(<a href="7/quiz1_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 2 (<a href="7/quiz2.pdf">PDF</a>)</td>
+<td>(<a href="7/quiz2_solutions.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
