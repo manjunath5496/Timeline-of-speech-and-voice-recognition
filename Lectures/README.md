@@ -9,7 +9,7 @@
 <li><a href="#course8">Engineering Mechanics II</a></li>
 <li><a href="#course9">Mechanics and Design of Concrete Structures</a></li>
 <li><a href="#course10">Structural Engineering Design</a></li>
-<li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
+<li><a href="#course11">Solid Mechanics</a></li>
 <li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
 <li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
 <li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
@@ -1502,4 +1502,64 @@
 </tbody>
 </table>
 </br>
+<h2 id="course11">Solid Mechanics</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl62id0_1" scope="col">PROBLEM&nbsp;SETS&nbsp;AND&nbsp;SOLUTIONS</th>
+<th id="tbl62id0_2" scope="col">DESIGN&nbsp;EXERCISES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl62id0_1">Problem Set 1 (<a href="1/pset04_1.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_1soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">Design Exercise 1 (<a href="1/de04_1.pdf">PDF</a>)<br /><br />Reflections (<a href="1/reflectionsde041.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl62id0_1">Problem Set 2 (<a href="1/pset04_2.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_2soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl62id0_1">Problem Set 3 (<a href="1/pset04_3.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_3soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">Design Exercise 2 (<a href="1/de04_2.pdf">PDF</a>)<br /><br />Reflections (<a href="1/reflectionsde042.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl62id0_1">Problem Set 4 (<a href="1/pset04_4.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_4soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl62id0_1">Problem Set 5 (<a href="1/pset04_5.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_5soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl62id0_1">Problem Set 6 (<a href="1/pset04_6.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">Design Exercise 3 (<a href="1/de04_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl62id0_1">Problem Set 7 (<a href="1/pset04_7.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_7soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl62id0_1">Problem Set 8 (<a href="1/pset04_8.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_8soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">Design Exercise 4 (<a href="1/de04_4.pdf">PDF</a>)<br /><br />Reflections (<a href="1/reflectionsde044.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl62id0_1">Problem Set 9 (<a href="1/pset04_9.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_9soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl62id0_1">Problem Set 10 (<a href="1/pset04_10.pdf">PDF</a>)<br /><br />Solutions (<a href="1/pset04_10_soln.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">Design Exercise 5 (<a href="1/de04_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl62id0_1">Problem Set 11 (<a href="1/pset04_11.pdf">PDF</a>)</td>
+<td headers="tbl62id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl62id0_1">&nbsp;</td>
+<td headers="tbl62id0_2">Design Exercise 6 (<a href="1/de04_6.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
