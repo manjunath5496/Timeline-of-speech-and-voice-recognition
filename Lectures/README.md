@@ -16,7 +16,7 @@
 <li><a href="#course15">Introduction to Network Models</a></li>
 <li><a href="#course16">Mechanics of Material Systems: An Energy Approach</a></li>
 <li><a href="#course17">Transportation Flow Systems</a></li>
-<li><a href="#course18">The Bible</a></li>
+<li><a href="#course18">Carrier Systems</a></li>
 <li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
 <li><a href="#course20">The New Spain:1977-Present</a></li>
 <li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
@@ -2214,5 +2214,81 @@
 </tbody>
 </table>
 </br>
+<h2 id="course18">Carrier Systems</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Transportation Operations, Planning And Control:&nbsp;Carrier Systems&nbsp;(<a href="4/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Linear Programming (<a href="4/lecture2_3.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Integer Programming (<a href="4/lecture3_ip_intro.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Network Problems&nbsp;(<a href="4/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Freight Transportation I</td>
+</tr>
+<tr class="alt-row">
+<td>Freight Transportation III: Transportation Management</td>
+</tr>
+<tr class="row">
+<td>Transit Vehicle Scheduling: Problem Description (<a href="4/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transit Crew Scheduling (<a href="4/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Airline Crew Scheduling (<a href="4/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Real-time Operations Control (<a href="4/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Synthesis and Review (<a href="4/lec13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="4/ps1_2003.pdf">PDF</a>)</td>
+<td>(<a href="4/ps1_solution.xls">XLS</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="4/ps2_2003.pdf">PDF</a>)</td>
+<td>(<a href="4/ps2_solution.xls">XLS</a>)<br />(<a href="4/ps2_solution_word.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;3 (<a href="4/ps3_2003.pdf">PDF</a>)</td>
+<td>(<a href="4/ps3solution2003.pdf">PDF</a>)</td>
+<td>Additional Data (<a href="4/ps3_2003_data.xls">XLS</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;4 (<a href="4/ps4_2003.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>Additional Data (<a href="4/ps4_2003_data.xls">XLS</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
