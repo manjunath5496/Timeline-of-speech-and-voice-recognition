@@ -12,7 +12,7 @@
 <li><a href="#course11">Solid Mechanics</a></li>
 <li><a href="#course12">Engineering Mechanics I</a></li>
 <li><a href="#course13">Project Management</a></li>
-<li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
+<li><a href="#course14">Advanced Soil Mechanics</a></li>
 <li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
 <li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
 <li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
@@ -1959,3 +1959,28 @@
 </tbody>
 </table>
 </br>
+<h2 id="course14">Advanced Soil Mechanics</h2>
+
+<p>The following set of lecture notes cover every major topic discussed in class.</p>
+<p>Part II-1 Soil Composition, Index Properties&nbsp;and Soil Classification (<a href="2/part_ii_1.pdf">PDF - 1.6 MB</a>)</p>
+<p>Part II-2 Soil Structure and Environmental Effects (<a href="2/part_ii_2.pdf">PDF</a>)</p>
+<p>Part III-1 Dry Soil: Stresses (<a href="2/part_iii_1.pdf">PDF</a>)</p>
+<p>Part III-2 Stress-Strain-Strength Properties (<a href="2/part_iii_2.pdf">PDF - 1.0 MB</a>)</p>
+<p>Part III-3 Lateral Earth Pressures and Retaining Walls (<a href="2/part_iii_3.pdf">PDF</a>)</p>
+<p>Part III-4 Shallow Foundations on Sand: Bearing Capacity (<a href="2/part_iii_4.pdf">PDF - 3.0 MB</a>)</p>
+<p>Part IV-1 Effective Stress Principle and Capillarity (<a href="2/part_iv_1.pdf">PDF</a>)</p>
+<p>Part IV-2 One-Dimensional Flow (<a href="2/part_iv_2.pdf">PDF</a>)</p>
+<p>Part IV-2A Two-Dimensional Flow (<a href="2/part_iv_2a.pdf">PDF</a>)</p>
+<p>Part IV-3 Coefficient of Permeability (<a href="2/part_iv_3.pdf">PDF 1 of 2</a>) (<a href="2/part_iv_3a.pdf">PDF 2 of 2 - 2.0 MB</a>)</p>
+<p>Part IV-4 Stress-Strain-Strength Behavior of Saturated Clays (<a href="2/part_iv_4.pdf">PDF - 2.4 MB</a>)</p>
+<p>Part IV-5 Lateral Earth Pressures (<a href="2/part_iv_5.pdf">PDF</a>)</p>
+<p>Part IV-6 Slope Stability (<a href="2/part_iv_6.pdf">PDF</a>)</p>
+<p>Part IV-7 Bearing Capacity (<a href="2/part_iv_7.pdf">PDF</a>)</p>
+<p>Part V-1 Introduction, Pore Pressure Parameters and Undrained Shear (<a href="2/part_v_1.pdf">PDF</a>)</p>
+<p>Part V-2 Consolidation and Secondary Compression (<a href="2/part_v_2.pdf">PDF</a>)</p>
+<p>Part V-3 Stability Evaluation: Cohesive Soils (<a href="2/part_v_3.pdf">PDF</a>)</p>
+<p>Part V-4 Estimation of Design&nbsp;<em>s<sub>u</sub></em>&nbsp;in Practice (<a href="2/part_v_4.pdf">PDF - 2.0 MB</a>)</p>
+<p>Part V-5 Settlement Analyses (<a href="2/part_v_5.pdf">PDF - 3.0 MB</a>)</p>
+
+</br>
+
