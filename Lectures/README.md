@@ -5619,3 +5619,32 @@
 </table>
 
 </br>
+<p>Design Project Ideas (<a href="13/design_proj_idea.pdf">PDF</a>)</p>
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">AUTHORS</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Elizabeth Walker</td>
+<td>MIT Kresge Parking Lot: Development of Rain Garden to Control Stormwater Runoff&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/liz_walker.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Kathy Lin</td>
+<td>Distributing Responsibility for Clean Water: The Total Maximum Daily Load (TDML) Program (<a href="13/kcl_1_85_des_pro.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Holly Johnson</td>
+<td>Water Stabilization Pond Design for Puerto Ayoro, Galapagos Islands (<a href="13/holly_johnson.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ben Ward</td>
+<td>Irvine Ranch Water District of California's Water Reclaimation Plant&nbsp;<span class="nobr">(<a href="13/wastewater.pdf">PDF - 2.6 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
