@@ -3,7 +3,7 @@
 <li><a href="#course2">Uncertainty in Engineering</a></li>
 <li><a href="#course3">Computing and Data Analysis for Environmental Applications</a></li>
 <li><a href="#course4">Project Evaluation</a></li>
-<li><a href="#course5">The Film Experience</a></li>
+<li><a href="#course5">Ecology I: The Earth System</a></li>
 <li><a href="#course6">Forms of Western Narrative</a></li>
 <li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
 <li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
@@ -690,7 +690,177 @@
 
 </br>
 
+<h2 id="course5">Ecology I: The Earth System</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: what is ecology?</td>
+<td>(<a href="MIT1_018JF09_Lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How to be alive/thermodynamics of life</td>
+<td>
+<p>(<a href="MIT1_018JF09_Lec03.pdf">PDF - 1.3MB</a>)</p>
+<p>Redox handout (<a href="MIT1_018JF09_lec03_Redox.pdf">PDF</a>)</p>
+<p>Photosynthesis handout (<a href="MIT1_018JF09_lec03_Photo.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>CI lecture: getting started with the term project</td>
+<td>(<a href="MIT1_018JF09_Lec04.pdf">PDF</a>) (Courtesy of Harlan Breindel. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>Primary productivity I and II</td>
+<td>(<a href="MIT1_018JF09_Lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Biogeochemical cycles</td>
+<td>(<a href="MIT1_018JF09_Lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Limiting factors and Redfield</td>
+<td>(<a href="MIT1_018JF09_Lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ecosystem experiments/geoengineering</td>
+<td>(<a href="MIT1_018JF09_Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Secondary productivity/food webs</td>
+<td>(<a href="MIT1_018JF09_Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Population growth</td>
+<td>
+<p>Introduction (<a href="MIT1_018JF09_Lec13.pdf">PDF</a>)</p>
+<p>Slides (<a href="MIT1_018JF09_Lec13_Slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Chemostats/life tables</td>
+<td>
+<p>(<a href="MIT1_018JF09_Lec14.pdf">PDF</a>)</p>
+<p>Chemostat handout (<a href="MIT1_018JF09_Lec14_chemo.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Competition and the niche</td>
+<td>(<a href="MIT1_018JF09_Lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Predation/symbiosis/mutualism</td>
+<td>(<a href="MIT1_018JF09_Lec18.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">FILES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1</td>
+<td>(<a href="MIT1_018JF09_hw1.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_hw1_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2</td>
+<td>(<a href="MIT1_018JF09_hw2.pdf">PDF - 3.1MB</a>)</td>
+<td>(<a href="MIT1_018JF09_hw2_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3</td>
+<td>(<a href="MIT1_018JF09_hw3.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_hw3_ans.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAM&nbsp;#</th>
+<th scope="col">STUDY GUIDES</th>
+<th scope="col">PRACTICE EXAMS</th>
+<th scope="col">PRACTICE EXAM SOLUTIONS</th>
+<th scope="col">EXAM SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>(<a href="MIT1_018JF09_guide_1.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_study_1.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_study_sol_1.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_exam_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>(<a href="MIT1_018JF09_guide_2.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_study_2.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_study_sol_2.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_exam_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>(<a href="MIT1_018JF09_guide_3.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_study_3.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_study_sol_3.pdf">PDF</a>)</td>
+<td>(<a href="MIT1_018JF09_exam_3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
+<ul class="foot-bullet">
+<li>
+<p>Term project instructions (<a href="MIT1_018JF09_Term_Project.pdf">PDF</a>)</p>
+</li>
+<li>
+<p>Project description instructions (<a href="MIT1_018JF09_Proj_Desc.pdf">PDF</a>)</p>
+<p>All student work is used with permission.</p>
+</br>
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">STUDENT&nbsp;EXAMPLE&nbsp;PAPERS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>A proposal for limited implementation of a sunshade to evaluate the effects of albedo modification on global biogeochemical cycles</td>
+<td>(<a href="MIT1_018JF09_sw_paper1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Testing the unintended consequences of lignin reduction in genetically modified trees on trophic interactions</td>
+<td>(<a href="MIT1_018JF09_sw_paper2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Investigation of the effects of stratospheric sulfur injection on terrestrial autotroph productivity via experimentation with diffuse radiation controlled greenhouses</td>
+<td>(<a href="MIT1_018JF09_sw_paper3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The unintended consequences of sulfate aerosols in the troposphere and lower stratosphere</td>
+<td>(<a href="MIT1_018JF09_sw_paper4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assessing excess carbon emissions and soil toxicity as unintended consequences in applying biochar as a geoengineering scheme</td>
+<td>(<a href="MIT1_018JF09_sw_paper5.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
