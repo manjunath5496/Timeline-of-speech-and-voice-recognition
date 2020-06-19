@@ -4,7 +4,7 @@
 <li><a href="#course3">Computing and Data Analysis for Environmental Applications</a></li>
 <li><a href="#course4">Project Evaluation</a></li>
 <li><a href="#course5">Ecology I: The Earth System</a></li>
-<li><a href="#course6">Forms of Western Narrative</a></li>
+<li><a href="#course6">Ecology II: Engineering for Sustainability</a></li>
 <li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
 <li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
 <li><a href="#course9">Ethnic Literature in America</a></li>
@@ -863,4 +863,165 @@
 </tbody>
 </table>
 </br>
+<h2 id="course6">Ecology II: Engineering for Sustainability</h2>
 
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Mass balance</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Introduction, basic concepts (<a href="lec1_2.pdf">PDF</a>)</p>
+<p>Modeling: Everglades</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Mass conservation</p>
+<p>Modeling: Everglades</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chemical kinetics (<a href="lec3.pdf">PDF</a>)</p>
+<p>Modeling: dechlorination</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Population modeling (<a href="lec4.pdf">PDF</a>)</p>
+<p>Modeling: pesticide impact</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Closed cycles (<a href="lec5.pdf">PDF</a>)</p>
+<p>Modeling: nutrient enrichment</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Networks (<a href="lec6_7.pdf">PDF</a>)</p>
+<p>Modeling: traffic</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Networks</p>
+<p>Modeling: vehicle emissions</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Energy balance</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Basic thermodynamic concepts (<a href="lec8_9.pdf">PDF</a>)</p>
+<p>Modeling: building energy</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>First law, heat capacity, conduction and convection</p>
+<p>Modeling: building energy</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Radiative energy transfer (<a href="lec10.pdf">PDF</a>)</p>
+<p>Modeling: building energy</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Open system thermodynamics (<a href="lec11.pdf">PDF</a>)</p>
+<p>Modeling: heat discharge to a stream</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Mass and energy transport</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p>Mass transport: advection, diffusion (<a href="lec12_13.pdf">PDF</a>)</p>
+<p>Modeling: air quality</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Mass transport: spatial moments</p>
+<p>Modeling: air quality</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Mass transport: concentrations</p>
+<p>Modeling: air quality</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Resource economics and life cycle analysis</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p>Present value, discounting (<a href="lec15.pdf">PDF</a>)</p>
+<p>Modeling: building energy revisited</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Optimization problems, resource allocation (<a href="lec16_17.pdf">PDF</a>)</p>
+<p>Modeling: crop irrigation</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Derived demand</p>
+<p>Modeling: crop irrigation</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>MATLAB optimization tutorial</td>
+</tr>
+<tr class="row">
+<td>
+<p>Derived supply, equilibrium analysis (<a href="lec19.pdf">PDF</a>)</p>
+<p>Modeling: groundwater supply</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Multiple objectives, Pareto optimality (<a href="lec20.pdf">PDF</a>)</p>
+<p>Modeling: revenue vs. environmental quality</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Life cycle analysis (<a href="lec21_22.pdf">PDF</a>)</p>
+<p>Modeling: life cycle example</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Life cycle analysis (cont.)</p>
+<p>Modeling: life cycle example</p>
+</td>
+</tr>
+<tr class="row">
+<td>Student presentations</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentations (cont.)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
