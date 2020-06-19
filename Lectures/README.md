@@ -40,7 +40,7 @@
 <li><a href="#course39">Water Quality Control</a></li>
 <li><a href="#course40">Environmental Engineering Applications of Geographic Information Systems</a></li>
 <li><a href="#course41">Groundwater Hydrology</a></li>
-<li><a href="#course35">Soil Behavior</a></li>
+<li><a href="#course42">A Sustainable Transportation Plan for MIT</a></li>
 <li><a href="#course36">Public Transportation Systems</a></li>
 
 </ul>
@@ -4636,3 +4636,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course42">A Sustainable Transportation Plan for MIT</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+<th scope="col">PRESENTATIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to transportation at MIT</td>
+<td>(<a href="10/lect1.pdf">PDF</a>)</td>
+<td>(<a href="10/lect1a.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Choice of policy options</td>
+<td>(<a href="10/lect2.pdf">PDF</a>)</td>
+<td>(<a href="10/lect2a.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Working session</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Discussion of analysis issues</td>
+<td>(<a href="10/lect4.pdf">PDF</a>)</td>
+<td>(<a href="10/lect4a.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Current status of MIT parking</td>
+<td>(<a href="10/lect5.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Definition of goals and questions</td>
+<td>(<a href="10/lect6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>U-pass and transit subsidies</td>
+<td>(<a href="10/lect7.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Defining scope of project</td>
+<td>(<a href="10/lect8.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Discussion of draft report</td>
+<td>(<a href="10/lect9.pdf">PDF</a>)</td>
+<td>(<a href="10/lect9a.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Current use of public transit</td>
+<td>(<a href="10/lect10.pdf">PDF</a>)</td>
+<td>(<a href="10/lect10a.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Model details and parking price structure</td>
+<td>(<a href="10/lect11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Preliminary conclusions</td>
+<td>(<a href="10/lect12.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Practice presentation</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Final presentation to MIT community</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
