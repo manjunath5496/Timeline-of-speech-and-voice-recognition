@@ -5,7 +5,7 @@
 <li><a href="#course4">Project Evaluation</a></li>
 <li><a href="#course5">Ecology I: The Earth System</a></li>
 <li><a href="#course6">Ecology II: Engineering for Sustainability</a></li>
-<li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
+<li><a href="#course7">Transport Processes in the Environment</a></li>
 <li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
 <li><a href="#course9">Ethnic Literature in America</a></li>
 <li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
@@ -1020,6 +1020,90 @@
 </tr>
 <tr class="alt-row">
 <td>Student presentations (cont.)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<h2 id="course7">Transport Processes in the Environment</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">EXAMPLE&nbsp;PROBLEMS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1. Conceptual model of diffusion (<a href="1/lec_01.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems1.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>2. Conservation of mass (<a href="1/lec_02.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems2.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>3. Diffusion of an instantaneous point release (<a href="1/lec_03.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems3.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>4. Boundary conditions (<a href="1/lec_04.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems4.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions4.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>5. Advection and diffusion of an instantaneous release (<a href="1/lec_05.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems5.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>6. Continuous point source (<a href="1/lec_06.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems6.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions6.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>7. Velocity profiles and turbulence (<a href="1/lec_07.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems7.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions7.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>8. Dispersion processes (<a href="1/lec_08.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems8.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions8.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>9. Reaction and interfacial exchange (<a href="1/lec_09.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems9.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions9.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>10. Transport of particles (<a href="1/lec_10.pdf">PDF</a>)</td>
+<td>
+<p>Problems (<a href="1/problems10.pdf">PDF</a>)</p>
+<p>Solutions (<a href="1/solutions10.pdf">PDF</a>)</p>
+</td>
 </tr>
 </tbody>
 </table>
