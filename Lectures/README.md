@@ -36,7 +36,7 @@
 <li><a href="#course35">Soil Behavior</a></li>
 <li><a href="#course36">Public Transportation Systems</a></li>
 <li><a href="#course37">Transit Management</a></li>
-<li><a href="#course31">The Impact of Globalization on the Built Environment</a></li>
+<li><a href="#course38">Water Resource Systems</a></li>
 <li><a href="#course32">Strategic Management in the Design and Construction Value Chain</a></li>
 <li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
 <li><a href="#course34">Waste Containment and Remediation Technology</a></li>
@@ -4366,4 +4366,141 @@
 </tbody>
 </table>
 </br>
+<h2 id="course38">Water Resource Systems</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Introduction, Optimization Concepts</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Introduction (<a href="9/lect1.pdf">PDF</a>)</p>
+<p>Example: Irrigation and Salination</p>
+</td>
+<td>irrigation.m (<a href="9/irrigation.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear Algebra Review (<a href="9/lect2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>General Optimization Concepts (<a href="9/lect3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>General Optimization Concepts (cont.) (<a href="9/lect4.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Optimality Conditions (<a href="9/lect5_6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Optimality Conditions (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Optimization Methods</strong></td>
+</tr>
+<tr class="row">
+<td>Linear Programming Overview (<a href="9/lect7.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Duality, Linear Programming Solution Strategies</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Linear Programming Sensitivity Analysis (<a href="9/lect9.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Quadratic Programming</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Differential Constraints (<a href="9/lect11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Nonlinear Programming Algorithms (<a href="9/lect12_13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Nonlinear Programming Algorithms (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Economic Aspects</strong></td>
+</tr>
+<tr class="row">
+<td>Optimization over Time, Discounting (<a href="9/lect14.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Multiobjective Optimization, Utility, Risk Aversion (<a href="9/lect15.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Supply and Demand, Groundwater Management (<a href="9/lect16.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Water Resource Applications/Case Studies</strong></td>
+</tr>
+<tr class="row">
+<td>River Basin Planning - Screening (<a href="9/lect17.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>River Basin Planning - Simulation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Real-time Optimization, Dynamic Programming (<a href="9/lect19_20.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Real-time Optimization, Dynamic Programming (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Capacity Expansion (<a href="9/lect21.pdf">PDF</a>)</td>
+<td>
+<p>Lecture06_21.m (<a href="9/Lecture06_21.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Common Pool Problems</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Variational and Adjoint Methods, Data Assimilation (<a href="9/lect23.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Review</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Project Presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Project Presentations (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
