@@ -1,0 +1,16 @@
+<classlist class="1264">
+    <group number="1">
+        <groupname>Rapid Development</groupname>
+        <grouplist>
+            <name>Steve Bell</name>
+            <name>Jo McDuff</name>
+        </grouplist>
+    </group>
+    <group number="2">
+	<groupname>Rapid Development</groupname>
+        <grouplist>
+            <name>Steve Smith</name>
+            <name>Jo Brown</name>
+        </grouplist>
+    </group>
+</classlist>
