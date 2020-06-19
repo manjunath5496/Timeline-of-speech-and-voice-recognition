@@ -7,7 +7,7 @@
 <li><a href="#course6">Ecology II: Engineering for Sustainability</a></li>
 <li><a href="#course7">Transport Processes in the Environment</a></li>
 <li><a href="#course8">Engineering Mechanics II</a></li>
-<li><a href="#course9">Ethnic Literature in America</a></li>
+<li><a href="#course9">Mechanics and Design of Concrete Structures</a></li>
 <li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
 <li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
 <li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
@@ -1241,4 +1241,123 @@
 <p>2005 Final Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/final2005.pdf">PDF - 2.2 MB</a>)</p>
 
 </br>
+<h2 id="course9">Mechanics and Design of Concrete Structures</h2>
 
+
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">DESIGN EXAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction; Design Criteria for Reinforced Concrete Structures (<a href="1/o_01_int_dsg_crt.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Micro-cracking of Concrete; Stress-strain Behavior in Multiaxial Loading (<a href="1/Outline_02.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Failure Theories (<a href="1/Outline_03.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Concrete Plasticity (<a href="1/Outline_03.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Fracture Concepts (<a href="1/o_04_frctr_cncpt.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Creep and Shrinkage Deformation (<a href="1/Outline_05.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Ductility and Deflections (<a href="1/o_06_dcty_dflctn.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Shear Failures (<a href="1/o_07_shr_f_st_sd.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Shear Transfer; Shear Design (<a href="1/o_07_shr_f_st_sd.pdf">PDF</a>)</td>
+<td headers="col2">Failure Investigation of a Prestressed Concrete Bridge Girder (<a href="1/DesignExample2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Biaxial Bending (<a href="1/Outline_08.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Beam Column Joints (<a href="1/o_09_bm_clmn_jnt.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 1</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Torsion (<a href="1/Outline_10.pdf">PDF</a>)</td>
+<td headers="col2">Shear and Torsion (<a href="1/DesignExample4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Term Project Update &ndash; Progress Reports and Presentations</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Torsion, Shear, and Flexure (<a href="1/Outline_10.pdf">PDF</a>)</td>
+<td headers="col2">Shear and Torsion (<a href="1/DesignExample4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Yield Line Theory for Slabs (<a href="1/Outline_11.pdf">PDF</a>)</td>
+<td headers="col2">Analysis of Rectangular Slabs Using Yield Line Theory (<a href="1/DesignExample5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>R/C Thin Shell Structures (<a href="1/o_12_rc_th_sh_st.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>R/C Thin Shell and Structures (cont.) (<a href="1/o_12_rc_th_sh_st.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Segmental Bridges / Tall Buildings (<a href="1/o_15_hg_rs_cn_bl.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Term Project Update &ndash; Presentations</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Deterioration and Non-destructive Evaluation (NDE) of Concrete Structures (<a href="1/o_13_n_dstrc_evl.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Earthquake Resistant Design; Repair and Seismic Retrofit of Concrete Structures (<a href="1/o_14_e_rsk_a_h_m.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Final Presentations</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Final Presentations (cont.)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Review and Discussion</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
