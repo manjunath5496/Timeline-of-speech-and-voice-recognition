@@ -24,7 +24,7 @@
 <li><a href="#course23">Probability and Statistics in Engineering</a></li>
 <li><a href="#course24">Transportation Systems</a></li>
 <li><a href="#course25">An Introduction to Intelligent Transportation Systems</a></li>
-<li><a href="#course26">Comedy</a></li>
+<li><a href="#course26">Logistical and Transportation Planning Methods</a></li>
 <li><a href="#course27">Small Wonders: Media, Modernity, and the Moment: Experiments in Time</a></li>
 <li><a href="#course28">The Art of the Probable: Literature and Probability</a></li>
 <li><a href="#course29">Learning from the Past: Drama, Science, Performance</a></li>
@@ -3226,6 +3226,140 @@
 </table>
 
 </br>
+<h2 id="course26">Logistical and Transportation Planning Methods</h2>
 
+<p>A Jogger's Problem (<a href="6/lec1.pdf">PDF</a>)</p>
+<p>Functions of Random Variables 1 (<a href="6/lec2.pdf">PDF</a>)</p>
+<p>Functions of Random Variables 2 (<a href="6/lec3.pdf">PDF</a>)</p>
+<p>Functions of Random Variables 3 (<a href="6/lec4.pdf">PDF</a>)</p>
+<p>Queueing Systems 1 (<a href="6/lec5.pdf">PDF</a>)</p>
+<p>Queueing Systems 2 (<a href="6/lec6.pdf">PDF</a>)</p>
+<p>Queueing Systems 3 (<a href="6/lec7.pdf">PDF</a>)</p>
+<p>Queueing Systems 4 (<a href="6/lec8.pdf">PDF</a>)</p>
+<p>Queueing Systems 5 (<a href="6/lec9.pdf">PDF</a>)</p>
+<p>Queueing Systems 6 (<a href="6/lec10.pdf">PDF</a>)</p>
+<p>Congestion Pricing (<a href="6/lec11.pdf">PDF</a>)</p>
+<p>Spatial Queues 1 (<a href="6/lec12.pdf">PDF - 1.6 MB</a>)</p>
+<p>Spatial Queues 2 (<a href="6/lec13.pdf">PDF</a>)</p>
+<p>Networks 1 (<a href="6/lec14.pdf">PDF</a>)</p>
+<p>Networks 2 (<a href="6/lec15.pdf">PDF</a>)</p>
+<p>TSP Heuristics (<a href="6/lec16.pdf">PDF</a>)</p>
 
+</br>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="6/ps1.pdf">PDF</a>)</td>
+<td>(<a href="6/ps1sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="6/ps2.pdf">PDF</a>)</td>
+<td>(<a href="6/ps2sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="6/ps3.pdf">PDF</a>)</td>
+<td>(<a href="6/ps3sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="6/ps4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/ps4sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="6/ps5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/ps5sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="6/ps6.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/ps6sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>2000 Quiz 1 (<a href="6/00quiz1.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="6/00q1sol.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>2001 Quiz 1 (<a href="6/01quiz1.pdf">PDF</a>)</p>
+<p>2001 Quiz 2 (<a href="6/01quiz2.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+<td>
+<p>(<a href="6/01q1sol.pdf">PDF</a>)</p>
+<p>(<a href="6/01q2sol.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>2002 Quiz 1 (<a href="6/02quiz1.pdf">PDF</a>)</p>
+<p>2002 Quiz 2 (<a href="6/05quiz2.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+<td>
+<p>(<a href="6/02q1sol.pdf">PDF</a>)</p>
+<p>(<a href="6/05q2sol.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>2003 Quiz 1 (<a href="6/03quiz1.pdf">PDF</a>)</p>
+<p>2003 Quiz 2 (<a href="6/03quiz2.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+<td>
+<p>(<a href="6/03q1sol.pdf">PDF</a>)</p>
+<p>(<a href="6/03q2sol.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>2004 Quiz 1 (<a href="6/04quiz1.pdf">PDF</a>)</p>
+<p>2004 Quiz 2 (<a href="6/04quiz2.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+<td>
+<p>(<a href="6/04q1sol.pdf">PDF</a>)</p>
+<p>(<a href="6/04q2sol.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>2005 Quiz 1 (<a href="6/05quiz1.pdf">PDF</a>)</p>
+<p>2005 Quiz 2 (<a href="6/05quiz2.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+<td>
+<p>(<a href="6/05q1sol.pdf">PDF</a>)</p>
+<p>(<a href="6/05q2sol.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>2006 Quiz 1 (<a href="6/03quiz1.pdf">PDF</a>)</p>
+<p>2006 Quiz 2 (<a href="6/06quiz2.pdf">PDF</a>)<br />&nbsp;</p>
+</td>
+<td>
+<p>(<a href="6/06q1sol.pdf">PDF</a>)</p>
+<p>(<a href="6/06q2sol.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
