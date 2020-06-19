@@ -8,7 +8,7 @@
 <li><a href="#course7">Transport Processes in the Environment</a></li>
 <li><a href="#course8">Engineering Mechanics II</a></li>
 <li><a href="#course9">Mechanics and Design of Concrete Structures</a></li>
-<li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
+<li><a href="#course10">Structural Engineering Design</a></li>
 <li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
 <li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
 <li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
@@ -1361,3 +1361,145 @@
 </table>
 
 </br>
+<h2 id="course10">Structural Engineering Design</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">SES&nbsp;#</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>L1</td>
+<td>Introduction</td>
+</tr>
+<tr class="alt-row">
+<td>L2</td>
+<td>Planning and Design Process</td>
+</tr>
+<tr class="row">
+<td>L3</td>
+<td>Materials, Loads, and Design Safety</td>
+</tr>
+<tr class="alt-row">
+<td>L4</td>
+<td>Behavior and Properties of Concrete&nbsp;and Steel</td>
+</tr>
+<tr class="row">
+<td>L5</td>
+<td>Wind and Earthquake Loads</td>
+</tr>
+<tr class="alt-row">
+<td>L6</td>
+<td>Design of Reinforced Concrete Beams for Flexure</td>
+</tr>
+<tr class="row">
+<td>L7</td>
+<td>Design of Reinforced Concrete Beams for Flexure</td>
+</tr>
+<tr class="alt-row">
+<td>L8</td>
+<td>Design of Reinforced Concrete Beams for Shear</td>
+</tr>
+<tr class="row">
+<td>L9</td>
+<td>Guest Lecture: Project Introduction</td>
+</tr>
+<tr class="alt-row">
+<td>L10</td>
+<td>Design of Reinforced Concrete Beams for Shear</td>
+</tr>
+<tr class="row">
+<td>L11</td>
+<td>Project Hour:&nbsp;Group Presentations on Site Visit Observation</td>
+</tr>
+<tr class="alt-row">
+<td>L12</td>
+<td>Bond, Anchorage, and Serviceability</td>
+</tr>
+<tr class="row">
+<td>L13</td>
+<td>Bond, Anchorage, and Serviceability<br />Project Discussions</td>
+</tr>
+<tr class="alt-row">
+<td>L14</td>
+<td>Reinforced Concrete Columns</td>
+</tr>
+<tr class="row">
+<td>L15</td>
+<td>Discussion of Project Tasks</td>
+</tr>
+<tr class="alt-row">
+<td>L16</td>
+<td>Exam 1 Review</td>
+</tr>
+<tr class="row">
+<td>L17</td>
+<td>Exam 1</td>
+</tr>
+<tr class="alt-row">
+<td>L18</td>
+<td>Reinforced Concrete Columns</td>
+</tr>
+<tr class="row">
+<td>L19</td>
+<td>Special Topic Lecture: Prestressed Concrete</td>
+</tr>
+<tr class="alt-row">
+<td>L20</td>
+<td>Reinforced Concrete Slabs</td>
+</tr>
+<tr class="row">
+<td>L21</td>
+<td>Special Lecture: Bridge Design&mdash; Beyond the Calculations</td>
+</tr>
+<tr class="alt-row">
+<td>L22</td>
+<td>Introduction to Steel Design (<a href="1/L22_summary.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>L23</td>
+<td>Tension Members and Connections (<a href="1/L23_summary.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>L24</td>
+<td>Group Presentations</td>
+</tr>
+<tr class="row">
+<td>L25</td>
+<td>Compression Members (<a href="1/L25_summary.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>L26</td>
+<td>Guest Lecture: Prestressed Concrete Systems</td>
+</tr>
+<tr class="row">
+<td>L27</td>
+<td>Bending Members (<a href="1/L27_summary.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>L28</td>
+<td>Exam 2 Review</td>
+</tr>
+<tr class="row">
+<td>L29</td>
+<td>Exam 2</td>
+</tr>
+<tr class="alt-row">
+<td>L30</td>
+<td>Structural Systems</td>
+</tr>
+<tr class="row">
+<td>L31</td>
+<td>Final Project Presentations</td>
+</tr>
+<tr class="alt-row">
+<td>L32</td>
+<td>Final Project Presentations</td>
+</tr>
+</tbody>
+</table>
+</br>
+
