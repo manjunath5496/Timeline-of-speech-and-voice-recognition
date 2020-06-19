@@ -13,7 +13,7 @@
 <li><a href="#course12">Engineering Mechanics I</a></li>
 <li><a href="#course13">Project Management</a></li>
 <li><a href="#course14">Advanced Soil Mechanics</a></li>
-<li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
+<li><a href="#course15">Introduction to Network Models</a></li>
 <li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
 <li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
 <li><a href="#course18">The Bible</a></li>
@@ -1982,5 +1982,72 @@
 <p>Part V-4 Estimation of Design&nbsp;<em>s<sub>u</sub></em>&nbsp;in Practice (<a href="2/part_v_4.pdf">PDF - 2.0 MB</a>)</p>
 <p>Part V-5 Settlement Analyses (<a href="2/part_v_5.pdf">PDF - 3.0 MB</a>)</p>
 
+</br>
+
+<h2 id="course15">Introduction to Network Models</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec1.pdf">Course specifics, motivation, and intro to graph theory (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec2.pdf">Introduction to graph theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec3.pdf">Strong and weak ties, triadic closure, and homophily (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec4.pdf">Centrality measures (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec5.pdf">Centrality and web search, spectral graph theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec6.pdf">Spectral graph theory, spectral clustering, and community detection I (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec7.pdf">Spectral graph theory, spectral clustering, and community detection II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec8.pdf">Network models I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec9.pdf">Network models II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec10.pdf">Network models III (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec11.pdf">Configuration model and small-world graphs (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec12.pdf">Growing networks (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec13_and_lec14.pdf">Linear dynamical systems (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec15_lec_16_lec17.pdf">Markov chains /&nbsp;Information spread and distributed computation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec18_and_lec19.pdf">Learning and herding (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec20.pdf">Epidemics</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT1_022F18_lec21.pdf">Introduction to game theory I (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT1_022F18_lec22_and_lec23.pdf">Introduction to game theory II /&nbsp;Application of game theory to networks (PDF - 2.9MB)</a></td>
+</tr>
+</tbody>
+</table>
 </br>
 
