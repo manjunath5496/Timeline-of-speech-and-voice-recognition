@@ -34,7 +34,7 @@
 <li><a href="#course33">E-Commerce and the Internet in Real Estate and Construction</a></li>
 <li><a href="#course34">Waste Containment and Remediation Technology</a></li>
 <li><a href="#course35">Soil Behavior</a></li>
-<li><a href="#course29">Transportation Policy and Environmental Limits</a></li>
+<li><a href="#course36">Public Transportation Systems</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -4167,3 +4167,79 @@
 </tbody>
 </table>
 </br>
+<h2 id="course36">Public Transportation Systems</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec01.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec02.pdf">Data collection techniques and program design (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec03.pdf">Modal characteristics and roles (PDF - 2.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec04and05.pdf">Short-range planning (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec06.pdf">Modal capacities and costs (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec07.pdf">Cost estimation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec08.pdf">Ridership forecasting (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec09.pdf">Performance models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec10.pdf">Origin, destination, and transfer inference (PDF - 2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec11.pdf">Macro design models for a single route (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec12.pdf">Frequency determination (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec13.pdf">Vehicle scheduling (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec14.pdf">Crew scheduling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec15.pdf">Networks and route structure (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec16.pdf">Bus and Rail corridor strategies (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec17.pdf">Customer information strategies&mdash;guest lecture by John Attanucci (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec19.pdf">Transit signal priority&mdash;guest lecture by Peter G. Furth (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec20.pdf">Transit service reliability (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec21.pdf">Fare policy, structure, and technology (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT1_258JS17_lec22.pdf">Workforce planning (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT1_258JS17_lec24.pdf">Baumol's Disease&mdash;guest lecture by Frederick Salvucci (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
