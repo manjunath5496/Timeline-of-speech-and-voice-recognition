@@ -10,7 +10,7 @@
 <li><a href="#course9">Mechanics and Design of Concrete Structures</a></li>
 <li><a href="#course10">Structural Engineering Design</a></li>
 <li><a href="#course11">Solid Mechanics</a></li>
-<li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
+<li><a href="#course12">Engineering Mechanics I</a></li>
 <li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
 <li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
 <li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
@@ -1563,3 +1563,306 @@
 </tbody>
 </table>
 </br>
+<h2 id="course12">Engineering Mechanics I</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">SUMMARIES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and Galileo's problem</td>
+<td>
+<p>(<a href="2/lec1.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Dimensional analysis and atomic explosion</td>
+<td>
+<p>(<a href="2/lec2.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Dimensional analysis and application to engineering structures</td>
+<td>
+<p>(<a href="2/lec3.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Newton's laws of motion: the fall of the World Trade Center towers</td>
+<td>
+<p>(<a href="2/lec4.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary4.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Stress vector and stress tensor</td>
+<td>
+<p>(<a href="2/lec5.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Continuum model: hydrostatics example</td>
+<td>
+<p>(<a href="2/lec6.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary6.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Continuum model: geostatics example</td>
+<td>
+<p>(<a href="2/lec7.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary7.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Beam stress model</td>
+<td>
+<p>(<a href="2/lec8.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Beam model II and summary</td>
+<td>
+<p>(<a href="2/lec9.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Strength models</td>
+<td>
+<p>(<a href="2/lec10.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Mohr stress plane and strength criteria</td>
+<td>
+<p>(<a href="2/lec11.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Soil mechanics example</td>
+<td>
+<p>(<a href="2/lec12.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary12.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Beam section strength model (M/N interactions)</td>
+<td>
+<p>(<a href="2/lec13.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary13.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Strength of beam structures</td>
+<td>
+<p>(<a href="2/lec14.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary14.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Review of stresses and strength</td>
+<td>
+<p>(<a href="2/lec15.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Deformation and strain tensor</td>
+<td>
+<p>(<a href="2/lec16.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary16.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Strain tensor (cont.)</td>
+<td>
+<p>(<a href="2/lec17.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary17.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Mohr circle in strain space</td>
+<td>&nbsp;</td>
+<td>
+<p>(<a href="2/summary18.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Beam deformation</td>
+<td>
+<p>(<a href="2/lec19.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<a href="2/summary19.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Elasticity: energy approach</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Continuum elasticity</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Elasticity: properties</td>
+<td>
+<p>(<a href="2/lec22.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Elasticity solving methods</td>
+<td>
+<p>(<a href="2/lec23.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Beam elasticity I</td>
+<td>
+<p>(<a href="2/lec24.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Beam elasticity II</td>
+<td>
+<p>(<a href="2/lec25.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Beam elasticity III</td>
+<td>
+<p>(<a href="2/lec26.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Energy bounds: 1D system (minimum potential energy)</td>
+<td>
+<p>(<a href="2/lec27.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Energy bounds: 1D system (minimum complementary energy)</td>
+<td>
+<p>(<a href="2/lec28.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>1D energy methods: examples and applications</td>
+<td>
+<p>(<a href="2/lec29.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Generalization to 3D</td>
+<td>
+<p>(<a href="2/lec30.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Stress method for beam structures</td>
+<td>
+<p>(<a href="2/lec31.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Energy methods for beam structures, example</td>
+<td>
+<p>(<a href="2/lec32.pdf">PDF</a>)</p>
+<p>Clapeyron's formulas for 1D (<a href="2/lec32_clapeyron.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>How stuff fails: stability (Euler buckling)</td>
+<td>
+<p>(<a href="2/lec33.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Fracture mechanics I</td>
+<td>
+<p>(<a href="2/lec34.pdf">PDF</a>)</p>
+<p>Demonstration of buckling (<a href="2/lec34_buckling.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Fracture mechanics II</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Plastic collapse</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Last lecture: review and summary</td>
+<td>(<a href="2/lec37_review.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><strong>Variables and Concepts</strong></p>
+<p>Lectures 1-15 (<a href="2/variables1.pdf">PDF</a>)</p>
+<p>Lectures 16-26 (<a href="2/variables2.pdf">PDF</a>)</p>
+<p>Lectures 27-37 (<a href="2/variables3.pdf">PDF</a>)</p>
+</br>
+
+
+
