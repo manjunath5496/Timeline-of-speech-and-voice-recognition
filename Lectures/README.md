@@ -17,7 +17,7 @@
 <li><a href="#course16">Mechanics of Material Systems: An Energy Approach</a></li>
 <li><a href="#course17">Transportation Flow Systems</a></li>
 <li><a href="#course18">Carrier Systems</a></li>
-<li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
+<li><a href="#course19">Airline Schedule Planning</a></li>
 <li><a href="#course20">The New Spain:1977-Present</a></li>
 <li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
 <li><a href="#course22">Modern Drama</a></li>
@@ -2292,3 +2292,45 @@
 </tbody>
 </table>
 </br>
+<h2 id="course19">Airline Schedule Planning</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Course Introduction and Overview</strong><br />Airline Schedule Planning (<a href="4/lec1_rev_2003_schedule_planning_and_networks.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Optimizing Flows on Networks</strong><br />Multi-commodity Flows (<a href="4/lec2_2003_mcfs1.ppt">PPT</a>)<br />Multi-commodity Network Flows: A Keypath Formulation (<a href="4/lec3_mcf_keypaths_col_and_row_generation_2003.ppt">PPT</a>)<br />Multi-commodity Flows, Linear and Integer (<a href="4/lec4_mcfs_linear_and_integer_2003.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>The Passenger Mix Problem</strong>&nbsp;(<a href="4/lec5_passenger_mix_2003.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>The Fleet Assignment Problem</strong>&nbsp;(<a href="4/lec6_fleet_assignment_2003.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Crew Scheduling, the Aircraft Routing Problem, and the Integrated Crew Pairing-Aircraft Routing Problem</strong><br />The Crew Scheduling Problem (<a href="4/lec7_crew_scheduling_2003.ppt">PPT</a>)<br />Aircraft Maintenance Routing (<a href="4/lec8_aircraft_maintenance_routing_2003.ppt">PPT</a>)<br />The Extended Crew Pairing Problem with Aircraft Maintenance Routing (<a href="4/lec9_crew_pairing_and_aircraft_routing_2003.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Integrated Fleeting Models</strong></td>
+</tr>
+<tr class="row">
+<td><strong>The Schedule Design Problem</strong>&nbsp;(<a href="4/lec10_schedule_design_2003.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Operations Recovery</strong><br />Airline Operations - Lecture #1 (<a href="4/lec11_aop1.pdf">PDF</a>)<br />Airline Operations - Lecture #2 (<a href="4/lec12_aop2.pdf">PDF</a>)<br />Airline Operations - Lecture #3 (<a href="4/lec13_aop3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td><strong>Robust Scheduling</strong><br />New Approaches to Add Robustness into Airline Schedules (<a href="4/lec14_Shan_Lan_Robust_scheduling.ppt">PPT</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
