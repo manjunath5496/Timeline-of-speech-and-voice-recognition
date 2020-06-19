@@ -44,7 +44,7 @@
 <li><a href="#course43">Environmental Microbiology</a></li>
 <li><a href="#course44">Atmospheric Chemistry</a></li>
 <li><a href="#course45">Aquatic Chemistry</a></li>
-<li><a href="#course42">A Sustainable Transportation Plan for MIT</a></li>
+<li><a href="#course46">Database, Internet, and Systems Integration Technologies</a></li>
 <li><a href="#course43">Environmental Microbiology</a></li>
 </ul>
 <p>&nbsp;</p>
@@ -4834,7 +4834,514 @@
 
 </br>
 
+<h2 id="course46">Database, Internet, and Systems Integration Technologies</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;TOPICS</th>
+<th scope="col">SUPPORTING FILES FOR EXCERCISES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_lect_1.pdf">System process: Introduction (PDF)</a></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_2.pdf">System process: Fundamentals (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_lect_3.pdf">System process: Time and resource estimation, part 1 (PDF)</a></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_lect_4.pdf">System process: Time and resource estimation, part 2 (PDF)</a></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_5.pdf">System process: CMMI, ISO (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT1_264JF13_lect_6.pdf">System process: UML, part 1 (PDF)</a></td>
+<td>
+<p><a href="10/L6_input.vpp">UML exercise 1 - input file (VPP)</a></p>
+<p><a href="10/L6_sol.vpp">UML exercise 1 - solution (VPP)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_7.pdf">System process: UML, part 2 (PDF)</a></p>
+</td>
+<td>
+<p><a href="10/L7_input.vpp">UML exercise 2 - input file (VPP)</a></p>
+<p><a href="10/L7_sol.vpp">UML exercise 2 - solution (VPP)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT1_264JF13_lect_8.pdf">Database: Data modeling, part 1 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_9.pdf">Database: Data modeling, part 2 (PDF)</a></p>
+</td>
+<td><a href="10/L9_input.vpp">Data modeling exercise 2 - input file (VPP)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_10.pdf">Database: Data normalization (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_lect_11.pdf">Database: SQL basics: SELECT, INSERT (PDF)</a></span></p>
+</td>
+<td>
+<p><a href="10/L11_input.sql">SQL: Basics, SELECT exercise 1 - input file (SQL)</a></p>
+<p><a href="10/L11_sol.sql">SQL: Basics, SELECT exercise 1 - solution (SQL)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_12.pdf">Database: SQL lab (PDF)</a></p>
+</td>
+<td>
+<p><a href="10/L12_sol.sql">SQL: Basics, SELECT exercise 2 - solution (SQL)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_lect_13.pdf">Database: SQL joins, subqueries, views (PDF)</a></span></p>
+</td>
+<td>
+<p><a href="10/L13_sol.sql">SQL: Joins, views exercise - solution (SQL)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_14.pdf">Database: SQL homework 5 (PDF)</a></p>
+</td>
+<td><a href="10/L14_part1_input.zip">SQL exercise 1 - input aircraft parts data part 1 (ZIP - 2.2MB)&nbsp;</a>(This ZIP file contains: 1 .mdf file.) &amp;&nbsp;<a href="10/L14_part2_input.zip">part 2 (ZIP - 3.6MB)</a>&nbsp;(This ZIP file contains: 1 .mdf file.)</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_15.pdf">Database: SQL transactions, connections (PDF)</a></p>
+</td>
+<td><a href="10/L15_input.csv">SQL exercise 2 - input beef data (CSV)</a>&nbsp;&amp;&nbsp;<a href="10/L15_input.sql">SQL file (SQL)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT1_264JF13_lect_16.pdf">Web: Introduction, HTTP (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_17.pdf">Web: XHTML, CSS (PDF)</a></p>
+</td>
+<td>
+<p><a href="10/L17_input.zip">XHTML, CSS exercise - input data (ZIP)</a>&nbsp;(This ZIP file contains: 2 .jpg files.)</p>
+<p><a href="10/L17_sol.zip">XHTML, CSS exercise - solution (ZIP)</a>&nbsp;(This ZIP file contains: 2 folders, 2 .jpg files, 3 .html files and 1 .xml file.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><a href="10/MIT1_264JF13_lect_18.pdf">Web: Connecting Web and database (PDF)</a></span></td>
+<td>
+<p><a href="10/L18_input.zip">Connecting Web and database - input data (ZIP)</a>&nbsp;(This ZIP file contains: 1 folder, 1 .sitemap file and 1 .master file.)</p>
+<p><a href="10/L18_sol.zip">Connecting Web and database - solution (ZIP)</a>&nbsp;(This ZIP file contains: 1 folder, 2 .aspx files, 1 .sitemap file and 1 .master file.)</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT1_264JF13_lect_19.pdf">Web: Web and database: Forms (PDF)</a></td>
+<td>
+<p><a href="10/L19_sol.zip">Web database: Forms and controls exercise 1 - solution (ZIP - 11.5MB)</a>&nbsp;(This ZIP file contains: 2 folders, 5 .aspx files, 1. sitemap file and 1. master file.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT1_264JF13_lect_20.pdf">Web: Web and database (PDF)</a></td>
+<td>
+<p><a href="10/L20_sol.zip">Web database: Forms and controls exercise 2 - solution (ZIP)</a>&nbsp;(This ZIP file contains: 1 folder, 1 .asax file, 9 .aspx files, 1 .sitemap file and 1 .master file.)</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT1_264JF13_lect_21.pdf">Web: XML (PDF)</a></td>
+<td>
+<p><a href="10/L21_input.zip">XML exercise - input data (ZIP)</a>&nbsp;(This ZIP file contains: 1 folder, 1 .asmx file and 3 .aspx files.)</p>
+<p><a href="10/L21_sol.xml">XML exercise - solution (XML)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT1_264JF13_lect_22.pdf">Web: Web services (PDF)</a></td>
+<td><a href="10/L22_input.zip">Web services exercise - input data (ZIP)</a>&nbsp;(This ZIP file contains: 1 folder, 1 .asmx file and 4 .sql files.)</td>
+</tr>
+<tr class="row">
+<td><span class="nobr"><a href="10/MIT1_264JF13_lect_23.pdf">Web: Web services: WSDL, registries (PDF)</a></span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_lect_24.pdf">Web: Service oriented architecture, EDI (PDF)</a></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT1_264JF13_lect_25.pdf">Security: Framework, concepts (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_26.pdf">Security: Protocols, part 1 (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_27.pdf">Security: Protocols, part 2 (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_28.pdf">Security: Cryptography (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_29.pdf">Security: SSL, Internet (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT1_264JF13_lect_30.pdf">Networks: System architecture, part 1 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_31.pdf">Networks: System architecture, part 2 (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><a href="10/MIT1_264JF13_lect_32.pdf">Networks: Basic telecom technology (PDF)</a></span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT1_264JF13_lect_33.pdf">Networks: Wired LANs, WANs (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><a href="10/MIT1_264JF13_lect_34.pdf">Networks: Connecting wired LANs, WANs (PDF)</a></span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_35.pdf">Networks: Fiber optics (PDF - 1.5MB)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_36.pdf">Networks: Wireless (PDF - 1.1MB)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="10/MIT1_264JF13_lect_37.pdf">Networks: Enterprise, VPN, MPLS. Course summary (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;TOPICS</th>
+<th scope="col">CASE&nbsp;STUDIES</th>
+<th scope="col">HOMEWORKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>System process: Introduction</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>System process: Fundamentals</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L2_case.pdf">Lecture 2 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L2_sol.pdf">Lecture 2 case study - solution (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>System process: Time and resource estimation, part 1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>System process: Time and resource estimation, part 2</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_HW1.pdf">Homework 1 software process (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_HW1_sol.pdf">Homework 1 software process - solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>System process: CMMI, ISO</p>
+</td>
+<td>&nbsp;
+<p><span class="nobr"><a href="10/MIT1_264JF13_L5_case.pdf">Lecture 5 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L5_sol.pdf">Lecture 5 case study - solution (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>System process: UML, part 1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>System process: UML, part 2</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_HW2.pdf">Homework 2 requirements, software estimation (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_HW2_sol.pdf">Homework 2 requirements, software estimation - solution (PDF - 1.3MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Database: Data modeling, part 1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Database: Data modeling, part 2</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Database: Data normalization</td>
+<td>&nbsp;</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW3.pdf">Homework 3 UML model (PDF)</a></p>
+<p><a href="10/HW3_sol.vpp">Homework 3 UML model - solution (VPP)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Database: SQL basics: SELECT, INSERT</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Database: SQL lab</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Database: SQL joins, subqueries, views</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Database: SQL homework 5</td>
+<td>&nbsp;</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW4.pdf">Homework 4 data model (PDF)</a></p>
+<p><a href="10/HW4_sol.vpp">Homework 4 data model - solution (VPP)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Database: SQL transactions, connections</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Web: Introduction, HTTP</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Web: XHTML, CSS</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Web: Connecting Web and database</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Web: Web and database: Forms</td>
+<td>&nbsp;</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW5.pdf">Homework 5 database implementation (PDF)</a></p>
+<p><a href="10/HW5_sol.sql">Homework 5 database implementation - solution (SQL)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Web: Web and database</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Web: XML</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Web: Web services</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Web: Web services: WSDL, registries</td>
+<td>&nbsp;</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW6.pdf">Homework 6 Web basics (PDF)</a></p>
+<p><a href="10/HW6_sol.zip">Homework 6 Web basics - solution (ZIP)</a>&nbsp;(This ZIP file contains: 3 folders, 14 .aspx files, 1 .sitemap file and 1 .master file.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Midterm Exam</strong></td>
+</tr>
+<tr class="row">
+<td>Web: Service oriented architecture, EDI</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L24_case.pdf">Lecture 24 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L24_case_sol.pdf"><span class="nobr">Lecture 24 case study- solution (PDF)</span></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Security: Framework, concepts</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L25_case.pdf">Lecture 25 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L25_sol.pdf">Lecture 25 case study - solution (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Security: Protocols, part 1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Security: Protocols, part 2</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L27_case.pdf">Lecture 27 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L27_sol.pdf">Lecture 27 case study - solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW7.pdf">Homework 7 Web site (PDF)</a></p>
+<p><a href="10/HW7_sol.zip">Homework 7 Web site - solution (ZIP)</a>&nbsp;(This ZIP file contains: 2 folders, 14 .aspx files, 1 .sitemap file and 1 .master file.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Security: Cryptography</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Security: SSL, Internet</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L29_case.pdf">Lecture 29 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L29_sol.pdf">Lecture 29 case study - solution (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Networks: System architecture, part 1</td>
+<td>&nbsp;</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW8.pdf">Homework 8 XML (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_HW8_sol.pdf">Homework 8 XML - solution (PDF)</a></p>
+<p><a href="10/HW8_sol.zip">Homework 8 XML - solution (ZIP)</a>&nbsp;(This ZIP file contains: 1 folder, 2 .aspx files and 1 .asmx file.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Networks: System architecture, part 2</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Networks: Basic telecom technology</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L32_case.pdf">Lecture 32 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L32_case_sol.pdf"><span class="nobr">Lecture 32 case study- solution (PDF)</span></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Networks: Wired LANs, WANs</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L33_case.pdf">Lecture 33 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L33_case_sol.pdf"><span class="nobr">Lecture 33 case study- solution (PDF)</span></a></p>
+</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW9.pdf">Homework 9 security (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_HW9_sol.pdf">Homework 9 security - solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Networks: Connecting wired LANs, WANs</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L34_case.pdf">Lecture 34 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L34_case_sol.pdf"><span class="nobr">Lecture 34 case study- solution (PDF)</span></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Networks: Fiber optics</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L35_case.pdf">Lecture 35 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L35_case_sol.pdf"><span class="nobr">Lecture 35 case study- solution (PDF)</span></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Networks: Wireless</td>
+<td>
+<p><span class="nobr"><a href="10/MIT1_264JF13_L36_case.pdf">Lecture 36 case study (PDF)</a></span></p>
+<p><a href="10/MIT1_264JF13_L36_case_sol.pdf"><span class="nobr">Lecture 36 case study- solution (PDF)</span></a></p>
+</td>
+<td>
+<p><a href="10/MIT1_264JF13_HW10.pdf">Homework 10 communications (PDF)</a>&nbsp;based on&nbsp;<a href="10/MIT1_264JF13_HW10_RFI.pdf">RFI article (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_HW10_sol.pdf">Homework 10 communications - solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Networks: Enterprise, VPN, MPLS. Course summary.</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Final&nbsp;Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="10/MIT1_264JF13_review.pdf">Fall 2013 Review for Quiz 1 (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_F13_Q1_sol.pdf">Fall 2013 Quiz 1 solutions (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_F12_Q1.pdf">Fall 2012 Quiz 1 (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_F12_Q1_sol.pdf">Fall 2012 Quiz 1 solutions (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_F12_Q2.pdf">Fall 2012 Quiz 2 (PDF)</a></p>
+<p><a href="10/MIT1_264JF13_F12_Q2_sol.pdf">Fall 2012 Quiz 2 solutions (PDF)</a></p>
+</br>
 
 
