@@ -15,7 +15,7 @@
 <li><a href="#course14">Advanced Soil Mechanics</a></li>
 <li><a href="#course15">Introduction to Network Models</a></li>
 <li><a href="#course16">Mechanics of Material Systems: An Energy Approach</a></li>
-<li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
+<li><a href="#course17">Transportation Flow Systems</a></li>
 <li><a href="#course18">The Bible</a></li>
 <li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
 <li><a href="#course20">The New Spain:1977-Present</a></li>
@@ -2149,4 +2149,70 @@
 <li class="maintabletemplate">Quiz&nbsp;2 with Solutions (<a href="3/quiz2_solution.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id="course17">Transportation Flow Systems</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="3/introduction.pdf">PDF</a>)<br />Cumulative Plots&nbsp;and Time-Space Diagrams (<a href="3/lecture1.pdf">PDF</a>)</td>
+<td>Cumulative Diagrams: An Example (<a href="3/lecture1cumdiag.pdf">PDF</a>)<br />Cumulative Diagrams: Figures (<a href="3/lecture1cumexbw.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling Air Traffic Flows (<a href="3/lecture2.pdf">PDF</a>)</td>
+<td>Example for Lecture&nbsp;(<a href="3/exampleforlecture2.xls">XLS</a>)</td>
+</tr>
+<tr class="row">
+<td>Modeling Road Traffic Flown on a Link (<a href="3/lecture3.pdf">PDF</a>)</td>
+<td>Data (<a href="3/data.xls">XLS</a>)<br />Car Following Models&nbsp;(<a href="3/carfollowinga.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Network Models and Shortest Paths (<a href="3/lec4networks2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Assignment on Traffic Networks (<a href="3/lecture51a.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Optimization (<a href="3/lecture6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Freeway Traffic Control:&nbsp;Pre-timed, Coordinated Ramp Metering (<a href="3/lecture7.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Delays in Probabilistic Models: Elements from Queueing Theory (<a href="3/lec8queues.pdf">PDF</a>)</td>
+<td>Example for Lecture (<a href="3/lec8_example.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Simulation Models (<a href="3/lecture9p.pdf">PDF</a>)</td>
+<td>Queueing Simulation (<a href="3/lec9QueueSimul.xls">XLS</a>)<br />Queue SimVar Reduct (<a href="3/lec9queuesimvarred.xls">XLS</a>)<br />Queue 1 (<a href="3/queue1.xls">XLS</a>)<br />Queue 2 (<a href="3/queue2.xls">XLS</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Control of Isolated Traffic Signals (<a href="3/lecture10intera.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Traffic Flow Models, and Traffic Flow Management in Road Networks (<a href="3/lecture11.pdf">PDF</a>)</td>
+<td>Shortest Paths from Node 2 to&nbsp;All Nodes (<a href="3/node2_to_all_sp.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Traffic Flow Wrap-up (<a href="3/trafficflowwrapup.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Wrap-up (<a href="3/wrap_up.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
