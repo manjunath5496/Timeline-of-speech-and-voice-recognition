@@ -21,7 +21,7 @@
 <li><a href="#course20">Computer Algorithms in Systems Engineering</a></li>
 <li><a href="#course21">Transportation Systems Analysis: Demand and Economics</a></li>
 <li><a href="#course22">Introduction to Transportation Systems</a></li>
-<li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
+<li><a href="#course23">Probability and Statistics in Engineering</a></li>
 <li><a href="#course24">Popular Narrative: Masterminds</a></li>
 <li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
 <li><a href="#course26">Comedy</a></li>
@@ -2822,4 +2822,101 @@
 </tbody>
 </table>
 </br>
+<h2 id="course23">Probability and Statistics in Engineering</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl800id0_1" scope="col">TOPICS</th>
+<th id="tbl800id0_2" scope="col">BRIEF NOTES</th>
+<th id="tbl800id0_3" scope="col">APPLICATION EXAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3" headers="tbl800id0_0"><strong>Part 1: Introduction to Probability</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl800id0_1">Events and their Probability, Elementary Operations with Events, Total Probability Theorem, Independence, Bayes' Theorem</td>
+<td headers="tbl800id0_2">1 (<a href="4/briefnts1_events.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">
+<p>1 (<a href="4/app1_reli_final.pdf">PDF</a>)</p>
+<p>2 (<a href="4/app2_hazards.pdf">PDF</a>)</p>
+<p>3 (<a href="4/app3_fedra.pdf">PDF</a>)</p>
+<p>4 (<a href="4/app4_eqk_pred.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl800id0_1">Random Variables and Vectors, Discrete and Continuous Probability Distributions</td>
+<td headers="tbl800id0_2">
+<p>2 (<a href="4/briefnts2_disdbn.pdf">PDF</a>)</p>
+<p>3 (<a href="4/briefnts3_contdb.pdf">PDF</a>)</p>
+<p>4 (<a href="4/briefnts4_randvt.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl800id0_3">
+<p>5 (<a href="4/app5_rain_norain.pdf">PDF</a>)</p>
+<p>6 (<a href="4/app6_buses_eqs.pdf">PDF</a>)</p>
+<p>7 (<a href="4/app7_mixtures_fin.pdf">PDF</a>)</p>
+<p>8 (<a href="4/app8_hazard_func.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl800id0_1">Functions of Random Variables and Derived Distributions</td>
+<td headers="tbl800id0_2">5 (<a href="4/briefnts5_funct.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">
+<p>9 (<a href="4/app9_wind_reliab.pdf">PDF</a>)</p>
+<p>10 (<a href="4/app10_storm_ty.pdf">PDF</a>)</p>
+<p>11 (<a href="4/app11_max.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl800id0_1">
+<p>Expectation of Random Variables and Functions of Random Variables</p>
+<p>Moments of Variables and Vectors</p>
+</td>
+<td headers="tbl800id0_2">6 (<a href="4/briefnts6_smfosm.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">
+<p>12 (<a href="4/app12_waveloads.pdf">PDF</a>)</p>
+<p>13 (<a href="4/app13_col_loads.pdf">PDF</a>)</p>
+<p>14 (<a href="4/app14_settlem.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl800id0_1">Conditional Second Moment Analysis</td>
+<td headers="tbl800id0_2">7 (<a href="4/briefnts7_con_sm.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">
+<p>15 (<a href="4/app15_noisy_obs.pdf">PDF</a>)</p>
+<p>16 (<a href="4/app16_rain_pred.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl800id0_1">Selected Distribution Models: Normal, Lognormal, Extreme, Multivariate Normal Distributions</td>
+<td headers="tbl800id0_2">8 (<a href="4/briefnts8_relnl.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3" headers="tbl800id0_0"><strong>Part 2: Introduction to System Reliability</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl800id0_1">Time-invariant Second-Moment Reliability Analysis and Time-Invariant Full-Distribution Reliability Analysis</td>
+<td headers="tbl800id0_2">9 (<a href="4/briefnts9_reliab.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">17 (<a href="4/app17_slope_rel.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3" headers="tbl800id0_0"><strong>Part 3: Introduction to Statistics</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl800id0_1">Point Estimation of Distribution Parameters: Methods of Moments and Maximum Likelihood, Bayesian Analysis</td>
+<td headers="tbl800id0_2">10 (<a href="4/briefnts10_estmn.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">18 (<a href="4/app18_est_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl800id0_1">Simple and Multiple Linear Regression</td>
+<td headers="tbl800id0_2">11 (<a href="4/briefnts11_regrs.pdf">PDF</a>)</td>
+<td headers="tbl800id0_3">19 (<a href="4/app19_fin_regs.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
