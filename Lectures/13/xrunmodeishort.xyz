@@ -1,0 +1,2200 @@
+modBUILDER:  Read cell file
+cells to be created =  2400
+i=  1
+i=  2
+i=  3
+i=  4
+i=  5
+i=  6
+i=  7
+i=  8
+i=  9
+i=  10
+i=  11
+i=  12
+i=  13
+i=  14
+i=  15
+i=  16
+i=  17
+i=  18
+i=  19
+i=  20
+i=  21
+i=  22
+i=  23
+i=  24
+i=  25
+i=  26
+i=  27
+i=  28
+i=  29
+i=  30
+i=  31
+i=  32
+i=  33
+i=  34
+i=  35
+i=  36
+i=  37
+i=  38
+i=  39
+i=  40
+modBUILDER:  Created 28801 atoms total 
+Cell parameter before straining  [266.50400000000002, 565.34100000000001, 3.84666]
+Cell parameter after straining  [287.82432000000006, 565.34100000000001, 3.84666]
+Have 28712 atoms total 
+df= 86136
+df= 80016
+Temperature is 0.381150
+CM Initial linear momentum: -158.583203	126.005323	286.533192
+CM Scaled linear momentum:  -11.267405	8.952733	20.358307
+Search region crack  [30.0, 257.82432000000006, 30.0, 525.34100000000001, -1, 100.0]
+Set up Tersoff force field (based on ITAP IMD code)
+Read force field parameters from TrTERSOFF. 
+Initialize TERSOFF force field parameters 
+Minimal cell size: 
+	 ( 3.000000 0.000000 0.000000 ) 
+	 ( 0.000000 3.000000 0.000000 ) 
+	 ( 0.000000 0.000000 3.000000 )
+Actual cell size: 
+	 ( 3.017885 0.000000 0.000000 ) 
+	 ( 0.000000 3.001749 0.000000 ) 
+	 ( 0.000000 0.000000 3.846660 )
+Global cell array dimensions: 102 195 1
+Local cell array dimensions: 102 195 1
+ReaxFF version 2.0
+Compiled on:        Thu Mar 11 11:24:48 PST 2004
+Tersoff module:  E_pot= -129741.938859   avg. E_pot per atom=    -4.518736   E_kin=    0.000000   Temp (in K)=    0.000000 
+Start dynamics 
+TIMING:  ITERATION INTEGR_PART_1    REAX   IMD    FORCE_COMB   INTEGR_PART_2     XYZ_UPDATE  IMD_UPDATE  SCALE_VEL     TOTAL 
+i=  0
+Temperature (K)= 277.02204803
+Current temperature=277.022048
+Factor=1.012365
+dump the content of an OBMol object to XYZ file results/all.00000.xyz
+dump the content of an OBMol object to XYZ file results/filter.00000.xyz
+dump the content of an OBMol object to XYZ file results/reax.00000.xyz
+Temperature 283.915 
+Update simulation regions (depending on crack tip position)
+ITER  00000  CRACK_TIP  148.469 303.786 0.319 
+*** Time to update the regions 25.760
+TIMING: 00000  0.040  1.880  0.320  0.080  0.040  0.050  0.040  0.700 3.150
+Tersoff module:  E_pot= -129731.627592   avg. E_pot per atom=    -4.518377   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  0 Temperature (K)= 283.915433621  ReaxFF/Tersoff atom numbers 403 28712 
+i=  1
+i=  2
+i=  3
+i=  4
+i=  5
+TIMING: 00005  0.040  1.860  0.320  0.090  0.040  0.060  0.040  0.000 2.450
+Tersoff module:  E_pot= -129621.810356   avg. E_pot per atom=    -4.514552   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  5 Temperature (K)= 254.486041344  ReaxFF/Tersoff atom numbers 403 28712 
+i=  6
+i=  7
+i=  8
+i=  9
+i=  10
+Temperature (K)= 215.030494913
+Current temperature=215.030495
+Factor=1.057613
+TIMING: 00010  0.050  1.860  0.320  0.090  0.040  0.050  0.040  0.710 3.160
+Tersoff module:  E_pot= -129474.731602   avg. E_pot per atom=    -4.509429   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  10 Temperature (K)= 240.521346439  ReaxFF/Tersoff atom numbers 403 28712 
+i=  11
+i=  12
+i=  13
+i=  14
+i=  15
+TIMING: 00015  0.040  1.870  0.320  0.080  0.040  0.060  0.040  0.000 2.450
+Tersoff module:  E_pot= -129338.156338   avg. E_pot per atom=    -4.504672   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  15 Temperature (K)= 203.795466316  ReaxFF/Tersoff atom numbers 403 28712 
+i=  16
+i=  17
+i=  18
+i=  19
+i=  20
+Temperature (K)= 188.338848645
+Current temperature=188.338849
+Factor=1.085294
+Update simulation regions (depending on crack tip position)
+ITER  00020  CRACK_TIP  148.598 304.104 0.322 
+*** Time to update the regions 25.760
+TIMING: 00020  0.050  1.870  0.320  0.080  0.040  0.050  0.040  0.720 3.170
+Tersoff module:  E_pot= -129280.081682   avg. E_pot per atom=    -4.502650   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  20 Temperature (K)= 221.837194052  ReaxFF/Tersoff atom numbers 404 28712 
+i=  21
+i=  22
+i=  23
+i=  24
+i=  25
+TIMING: 00025  0.050  1.880  0.320  0.080  0.040  0.050  0.040  0.000 2.460
+Tersoff module:  E_pot= -129292.777540   avg. E_pot per atom=    -4.503092   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  25 Temperature (K)= 225.584387513  ReaxFF/Tersoff atom numbers 404 28712 
+i=  26
+i=  27
+i=  28
+i=  29
+i=  30
+Temperature (K)= 224.522285602
+Current temperature=224.522286
+Factor=1.049215
+TIMING: 00030  0.050  1.870  0.330  0.080  0.040  0.050  0.040  0.700 3.160
+Tersoff module:  E_pot= -129288.091260   avg. E_pot per atom=    -4.502929   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  30 Temperature (K)= 247.165599922  ReaxFF/Tersoff atom numbers 404 28712 
+i=  31
+i=  32
+i=  33
+i=  34
+i=  35
+TIMING: 00035  0.040  1.880  0.320  0.090  0.030  0.050  0.040  0.000 2.450
+Tersoff module:  E_pot= -129225.564203   avg. E_pot per atom=    -4.500751   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  35 Temperature (K)= 230.578110997  ReaxFF/Tersoff atom numbers 404 28712 
+i=  36
+i=  37
+i=  38
+i=  39
+i=  40
+Temperature (K)= 220.901874921
+Current temperature=220.901875
+Factor=1.052341
+Update simulation regions (depending on crack tip position)
+ITER  00040  CRACK_TIP  148.597 304.391 0.291 
+*** Time to update the regions 25.780
+TIMING: 00040  0.050  1.880  0.320  0.090  0.040  0.050  0.040  0.700 3.170
+Tersoff module:  E_pot= -129187.825715   avg. E_pot per atom=    -4.499437   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  40 Temperature (K)= 244.631312445  ReaxFF/Tersoff atom numbers 406 28712 
+i=  41
+i=  42
+i=  43
+i=  44
+i=  45
+TIMING: 00045  0.040  1.910  0.320  0.090  0.040  0.060  0.030  0.000 2.490
+Tersoff module:  E_pot= -129231.873977   avg. E_pot per atom=    -4.500971   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  45 Temperature (K)= 257.030729305  ReaxFF/Tersoff atom numbers 406 28712 
+i=  46
+i=  47
+i=  48
+i=  49
+i=  50
+Temperature (K)= 271.206157175
+Current temperature=271.206157
+Factor=1.015801
+dump the content of an OBMol object to XYZ file results/all.00001.xyz
+dump the content of an OBMol object to XYZ file results/filter.00001.xyz
+dump the content of an OBMol object to XYZ file results/reax.00001.xyz
+Temperature 279.844 
+TIMING: 00050  0.040  1.900  0.320  0.090  0.030  0.060  0.040  0.710 3.190
+Tersoff module:  E_pot= -129283.155247   avg. E_pot per atom=    -4.502757   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  50 Temperature (K)= 279.844310023  ReaxFF/Tersoff atom numbers 406 28712 
+i=  51
+i=  52
+i=  53
+i=  54
+i=  55
+TIMING: 00055  0.050  1.920  0.320  0.080  0.040  0.050  0.040  0.000 2.500
+Tersoff module:  E_pot= -129280.401149   avg. E_pot per atom=    -4.502661   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  55 Temperature (K)= 279.510656948  ReaxFF/Tersoff atom numbers 406 28712 
+i=  56
+i=  57
+i=  58
+i=  59
+i=  60
+Temperature (K)= 273.036262023
+Current temperature=273.036262
+Factor=1.014705
+Update simulation regions (depending on crack tip position)
+ITER  00060  CRACK_TIP  148.624 304.528 0.244 
+*** Time to update the regions 25.750
+TIMING: 00060  0.040  1.900  0.320  0.080  0.040  0.060  0.040  0.700 3.180
+Tersoff module:  E_pot= -129254.357302   avg. E_pot per atom=    -4.501754   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  60 Temperature (K)= 281.125383416  ReaxFF/Tersoff atom numbers 423 28712 
+i=  61
+i=  62
+i=  63
+i=  64
+i=  65
+TIMING: 00065  0.040  2.040  0.330  0.080  0.040  0.060  0.040  0.000 2.630
+Tersoff module:  E_pot= -129241.598052   avg. E_pot per atom=    -4.501309   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  65 Temperature (K)= 278.116301874  ReaxFF/Tersoff atom numbers 423 28712 
+i=  66
+i=  67
+i=  68
+i=  69
+i=  70
+Temperature (K)= 277.005822125
+Current temperature=277.005822
+Factor=1.012375
+TIMING: 00070  0.040  2.060  0.330  0.080  0.040  0.060  0.030  0.700 3.340
+Tersoff module:  E_pot= -129236.569535   avg. E_pot per atom=    -4.501134   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  70 Temperature (K)= 283.904075487  ReaxFF/Tersoff atom numbers 423 28712 
+i=  71
+i=  72
+i=  73
+i=  74
+i=  75
+TIMING: 00075  0.040  2.050  0.320  0.090  0.040  0.060  0.040  0.000 2.640
+Tersoff module:  E_pot= -129229.499355   avg. E_pot per atom=    -4.500888   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  75 Temperature (K)= 282.277144294  ReaxFF/Tersoff atom numbers 423 28712 
+i=  76
+i=  77
+i=  78
+i=  79
+i=  80
+Temperature (K)= 268.485323315
+Current temperature=268.485323
+Factor=1.017455
+Update simulation regions (depending on crack tip position)
+ITER  00080  CRACK_TIP  148.624 304.528 0.244 
+*** Time to update the regions 25.790
+TIMING: 00080  0.040  2.050  0.320  0.090  0.040  0.060  0.040  0.700 3.340
+Tersoff module:  E_pot= -129176.336163   avg. E_pot per atom=    -4.499037   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  80 Temperature (K)= 277.93972632  ReaxFF/Tersoff atom numbers 441 28712 
+i=  81
+i=  82
+i=  83
+i=  84
+i=  85
+TIMING: 00085  0.050  2.220  0.330  0.090  0.040  0.050  0.040  0.000 2.820
+Tersoff module:  E_pot= -129108.149761   avg. E_pot per atom=    -4.496662   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  85 Temperature (K)= 260.216403352  ReaxFF/Tersoff atom numbers 441 28712 
+i=  86
+i=  87
+i=  88
+i=  89
+i=  90
+Temperature (K)= 268.523502574
+Current temperature=268.523503
+Factor=1.017431
+TIMING: 00090  0.050  2.230  0.320  0.080  0.040  0.050  0.040  0.700 3.510
+Tersoff module:  E_pot= -129137.210863   avg. E_pot per atom=    -4.497674   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  90 Temperature (K)= 277.966451801  ReaxFF/Tersoff atom numbers 441 28712 
+i=  91
+i=  92
+i=  93
+i=  94
+i=  95
+TIMING: 00095  0.050  2.270  0.320  0.080  0.040  0.050  0.040  0.000 2.850
+Tersoff module:  E_pot= -129212.086977   avg. E_pot per atom=    -4.500282   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  95 Temperature (K)= 298.419826255  ReaxFF/Tersoff atom numbers 441 28712 
+i=  96
+i=  97
+i=  98
+i=  99
+i=  100
+Temperature (K)= 291.648263561
+Current temperature=291.648264
+Factor=1.004286
+dump the content of an OBMol object to XYZ file results/all.00002.xyz
+dump the content of an OBMol object to XYZ file results/filter.00002.xyz
+dump the content of an OBMol object to XYZ file results/reax.00002.xyz
+Temperature 294.154 
+Update simulation regions (depending on crack tip position)
+ITER  00100  CRACK_TIP  152.529 304.594 2.241 
+*** Time to update the regions 25.880
+TIMING: 00100  0.040  2.220  0.330  0.080  0.040  0.060  0.040  0.700 3.510
+Tersoff module:  E_pot= -129185.129145   avg. E_pot per atom=    -4.499343   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  100 Temperature (K)= 294.153784492  ReaxFF/Tersoff atom numbers 450 28712 
+i=  101
+i=  102
+i=  103
+i=  104
+i=  105
+TIMING: 00105  0.040  2.310  0.320  0.090  0.030  0.060  0.040  0.000 2.890
+Tersoff module:  E_pot= -129128.133231   avg. E_pot per atom=    -4.497358   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  105 Temperature (K)= 279.169195555  ReaxFF/Tersoff atom numbers 450 28712 
+i=  106
+i=  107
+i=  108
+i=  109
+i=  110
+Temperature (K)= 289.237081348
+Current temperature=289.237081
+Factor=1.005566
+TIMING: 00110  0.040  2.330  0.320  0.080  0.040  0.060  0.030  0.700 3.600
+Tersoff module:  E_pot= -129164.889434   avg. E_pot per atom=    -4.498638   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  110 Temperature (K)= 292.465956944  ReaxFF/Tersoff atom numbers 450 28712 
+i=  111
+i=  112
+i=  113
+i=  114
+i=  115
+TIMING: 00115  0.040  2.330  0.320  0.080  0.040  0.060  0.040  0.000 2.910
+Tersoff module:  E_pot= -129214.065116   avg. E_pot per atom=    -4.500351   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  115 Temperature (K)= 306.0685534  ReaxFF/Tersoff atom numbers 450 28712 
+i=  116
+i=  117
+i=  118
+i=  119
+i=  120
+Temperature (K)= 301.050659003
+Current temperature=301.050659
+Factor=0.999476
+Update simulation regions (depending on crack tip position)
+ITER  00120  CRACK_TIP  152.337 304.712 2.174 
+*** Time to update the regions 25.900
+TIMING: 00120  0.050  2.330  0.320  0.090  0.030  0.050  0.040  0.710 3.620
+Tersoff module:  E_pot= -129193.193051   avg. E_pot per atom=    -4.499624   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  120 Temperature (K)= 300.735461302  ReaxFF/Tersoff atom numbers 465 28712 
+i=  121
+i=  122
+i=  123
+i=  124
+i=  125
+TIMING: 00125  0.040  2.470  0.320  0.080  0.040  0.060  0.040  0.000 3.050
+Tersoff module:  E_pot= -129135.216740   avg. E_pot per atom=    -4.497604   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  125 Temperature (K)= 285.559969102  ReaxFF/Tersoff atom numbers 465 28712 
+i=  126
+i=  127
+i=  128
+i=  129
+i=  130
+Temperature (K)= 283.747339055
+Current temperature=283.747339
+Factor=1.008555
+TIMING: 00130  0.040  2.470  0.320  0.080  0.040  0.060  0.030  0.700 3.740
+Tersoff module:  E_pot= -129127.150524   avg. E_pot per atom=    -4.497323   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  130 Temperature (K)= 288.623137339  ReaxFF/Tersoff atom numbers 465 28712 
+i=  131
+i=  132
+i=  133
+i=  134
+i=  135
+TIMING: 00135  0.050  2.460  0.320  0.090  0.040  0.050  0.040  0.000 3.050
+Tersoff module:  E_pot= -129234.112562   avg. E_pot per atom=    -4.501049   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  135 Temperature (K)= 317.650107474  ReaxFF/Tersoff atom numbers 465 28712 
+i=  136
+i=  137
+i=  138
+i=  139
+i=  140
+Temperature (K)= 339.89352796
+Current temperature=339.893528
+Factor=0.982237
+Update simulation regions (depending on crack tip position)
+ITER  00140  CRACK_TIP  152.337 304.712 2.174 
+*** Time to update the regions 25.820
+TIMING: 00140  0.040  2.470  0.320  0.090  0.030  0.060  0.040  0.710 3.760
+Tersoff module:  E_pot= -129316.119709   avg. E_pot per atom=    -4.503905   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  140 Temperature (K)= 327.925469572  ReaxFF/Tersoff atom numbers 469 28712 
+i=  141
+i=  142
+i=  143
+i=  144
+i=  145
+TIMING: 00145  0.050  2.510  0.320  0.080  0.040  0.050  0.040  0.000 3.090
+Tersoff module:  E_pot= -129221.611016   avg. E_pot per atom=    -4.500613   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  145 Temperature (K)= 302.687407092  ReaxFF/Tersoff atom numbers 469 28712 
+i=  146
+i=  147
+i=  148
+i=  149
+i=  150
+Temperature (K)= 264.864537858
+Current temperature=264.864538
+Factor=1.019704
+dump the content of an OBMol object to XYZ file results/all.00003.xyz
+dump the content of an OBMol object to XYZ file results/filter.00003.xyz
+dump the content of an OBMol object to XYZ file results/reax.00003.xyz
+Temperature 275.405 
+TIMING: 00150  0.040  2.520  0.320  0.090  0.030  0.060  0.030  0.710 3.800
+Tersoff module:  E_pot= -129079.607651   avg. E_pot per atom=    -4.495668   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  150 Temperature (K)= 275.4051765  ReaxFF/Tersoff atom numbers 469 28712 
+i=  151
+i=  152
+i=  153
+i=  154
+i=  155
+TIMING: 00155  0.050  2.520  0.320  0.080  0.040  0.050  0.040  0.000 3.100
+Tersoff module:  E_pot= -129097.399710   avg. E_pot per atom=    -4.496287   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  155 Temperature (K)= 280.558220065  ReaxFF/Tersoff atom numbers 469 28712 
+i=  156
+i=  157
+i=  158
+i=  159
+i=  160
+Temperature (K)= 311.730167001
+Current temperature=311.730167
+Factor=0.994340
+Update simulation regions (depending on crack tip position)
+ITER  00160  CRACK_TIP  148.060 304.804 0.233 
+*** Time to update the regions 25.870
+TIMING: 00160  0.040  2.510  0.320  0.080  0.040  0.060  0.040  0.710 3.800
+Tersoff module:  E_pot= -129212.561063   avg. E_pot per atom=    -4.500298   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  160 Temperature (K)= 308.2111169  ReaxFF/Tersoff atom numbers 471 28712 
+i=  161
+i=  162
+i=  163
+i=  164
+i=  165
+TIMING: 00165  0.050  2.540  0.320  0.080  0.040  0.050  0.040  0.000 3.120
+Tersoff module:  E_pot= -129216.683961   avg. E_pot per atom=    -4.500442   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  165 Temperature (K)= 309.621201213  ReaxFF/Tersoff atom numbers 471 28712 
+i=  166
+i=  167
+i=  168
+i=  169
+i=  170
+Temperature (K)= 277.629829897
+Current temperature=277.629830
+Factor=1.012014
+TIMING: 00170  0.040  2.530  0.320  0.090  0.040  0.060  0.040  0.700 3.820
+Tersoff module:  E_pot= -129096.146164   avg. E_pot per atom=    -4.496244   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  170 Temperature (K)= 284.340880928  ReaxFF/Tersoff atom numbers 471 28712 
+i=  171
+i=  172
+i=  173
+i=  174
+i=  175
+TIMING: 00175  0.050  2.530  0.320  0.090  0.040  0.050  0.040  0.000 3.120
+Tersoff module:  E_pot= -129022.832394   avg. E_pot per atom=    -4.493690   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  175 Temperature (K)= 264.947459255  ReaxFF/Tersoff atom numbers 471 28712 
+i=  176
+i=  177
+i=  178
+i=  179
+i=  180
+Temperature (K)= 294.55364501
+Current temperature=294.553645
+Factor=1.002770
+Update simulation regions (depending on crack tip position)
+ITER  00180  CRACK_TIP  147.884 304.926 0.080 
+*** Time to update the regions 25.870
+TIMING: 00180  0.040  2.530  0.320  0.080  0.040  0.060  0.040  0.710 3.820
+Tersoff module:  E_pot= -129132.827667   avg. E_pot per atom=    -4.497521   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  180 Temperature (K)= 296.187551507  ReaxFF/Tersoff atom numbers 472 28712 
+i=  181
+i=  182
+i=  183
+i=  184
+i=  185
+TIMING: 00185  0.050  2.560  0.320  0.080  0.040  0.050  0.040  0.000 3.140
+Tersoff module:  E_pot= -129289.977670   avg. E_pot per atom=    -4.502994   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  185 Temperature (K)= 338.417248042  ReaxFF/Tersoff atom numbers 472 28712 
+i=  186
+i=  187
+i=  188
+i=  189
+i=  190
+Temperature (K)= 326.986238022
+Current temperature=326.986238
+Factor=0.987543
+TIMING: 00190  0.050  2.550  0.320  0.080  0.040  0.050  0.040  0.700 3.830
+Tersoff module:  E_pot= -129246.416322   avg. E_pot per atom=    -4.501477   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  190 Temperature (K)= 318.890366616  ReaxFF/Tersoff atom numbers 472 28712 
+i=  191
+i=  192
+i=  193
+i=  194
+i=  195
+TIMING: 00195  0.040  2.560  0.330  0.080  0.040  0.060  0.040  0.000 3.150
+Tersoff module:  E_pot= -129074.860481   avg. E_pot per atom=    -4.495502   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  195 Temperature (K)= 273.226591736  ReaxFF/Tersoff atom numbers 472 28712 
+i=  196
+i=  197
+i=  198
+i=  199
+i=  200
+Temperature (K)= 273.323185391
+Current temperature=273.323185
+Factor=1.014535
+dump the content of an OBMol object to XYZ file results/all.00004.xyz
+dump the content of an OBMol object to XYZ file results/filter.00004.xyz
+dump the content of an OBMol object to XYZ file results/reax.00004.xyz
+Temperature 281.326 
+Update simulation regions (depending on crack tip position)
+ITER  00200  CRACK_TIP  147.803 305.015 0.025 
+*** Time to update the regions 25.900
+TIMING: 00200  0.040  2.550  0.320  0.080  0.040  0.060  0.040  0.700 3.830
+Tersoff module:  E_pot= -129074.025870   avg. E_pot per atom=    -4.495473   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  200 Temperature (K)= 281.326229774  ReaxFF/Tersoff atom numbers 467 28712 
+i=  201
+i=  202
+i=  203
+i=  204
+i=  205
+TIMING: 00205  0.040  2.500  0.320  0.090  0.040  0.060  0.040  0.000 3.090
+Tersoff module:  E_pot= -129264.781883   avg. E_pot per atom=    -4.502117   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  205 Temperature (K)= 332.777371619  ReaxFF/Tersoff atom numbers 467 28712 
+i=  206
+i=  207
+i=  208
+i=  209
+i=  210
+Temperature (K)= 353.080701198
+Current temperature=353.080701
+Factor=0.977189
+TIMING: 00210  0.040  2.530  0.320  0.080  0.040  0.060  0.040  0.700 3.810
+Tersoff module:  E_pot= -129339.488158   avg. E_pot per atom=    -4.504719   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  210 Temperature (K)= 337.156490838  ReaxFF/Tersoff atom numbers 467 28712 
+i=  211
+i=  212
+i=  213
+i=  214
+i=  215
+TIMING: 00215  0.040  2.500  0.320  0.080  0.040  0.050  0.040  0.000 3.070
+Tersoff module:  E_pot= -129194.090397   avg. E_pot per atom=    -4.499655   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  215 Temperature (K)= 298.337696566  ReaxFF/Tersoff atom numbers 467 28712 
+i=  216
+i=  217
+i=  218
+i=  219
+i=  220
+Temperature (K)= 265.518100022
+Current temperature=265.518100
+Factor=1.019294
+Update simulation regions (depending on crack tip position)
+ITER  00220  CRACK_TIP  147.699 305.020 3.835 
+*** Time to update the regions 26.060
+TIMING: 00220  0.040  2.510  0.320  0.080  0.040  0.060  0.040  0.700 3.790
+Tersoff module:  E_pot= -129071.192547   avg. E_pot per atom=    -4.495374   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  220 Temperature (K)= 275.862670015  ReaxFF/Tersoff atom numbers 474 28712 
+i=  221
+i=  222
+i=  223
+i=  224
+i=  225
+TIMING: 00225  0.050  2.570  0.320  0.090  0.040  0.050  0.040  0.000 3.160
+Tersoff module:  E_pot= -129153.888284   avg. E_pot per atom=    -4.498255   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  225 Temperature (K)= 298.407425923  ReaxFF/Tersoff atom numbers 474 28712 
+i=  226
+i=  227
+i=  228
+i=  229
+i=  230
+Temperature (K)= 338.588439762
+Current temperature=338.588440
+Factor=0.982756
+TIMING: 00230  0.050  2.580  0.320  0.080  0.040  0.050  0.040  0.700 3.860
+Tersoff module:  E_pot= -129302.229767   avg. E_pot per atom=    -4.503421   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  230 Temperature (K)= 327.011907834  ReaxFF/Tersoff atom numbers 474 28712 
+i=  231
+i=  232
+i=  233
+i=  234
+i=  235
+TIMING: 00235  0.040  2.570  0.320  0.090  0.040  0.070  0.040  0.000 3.170
+Tersoff module:  E_pot= -129274.225629   avg. E_pot per atom=    -4.502446   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  235 Temperature (K)= 319.814293214  ReaxFF/Tersoff atom numbers 474 28712 
+i=  236
+i=  237
+i=  238
+i=  239
+i=  240
+Temperature (K)= 272.293565223
+Current temperature=272.293565
+Factor=1.015148
+Update simulation regions (depending on crack tip position)
+ITER  00240  CRACK_TIP  154.963 307.708 2.136 
+*** Time to update the regions 25.950
+TIMING: 00240  0.040  2.580  0.320  0.090  0.040  0.060  0.030  0.700 3.860
+Tersoff module:  E_pot= -129096.169164   avg. E_pot per atom=    -4.496244   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  240 Temperature (K)= 280.605495656  ReaxFF/Tersoff atom numbers 492 28712 
+i=  241
+i=  242
+i=  243
+i=  244
+i=  245
+TIMING: 00245  0.040  2.750  0.320  0.080  0.040  0.050  0.040  0.000 3.320
+Tersoff module:  E_pot= -129016.524921   avg. E_pot per atom=    -4.493470   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  245 Temperature (K)= 259.362415213  ReaxFF/Tersoff atom numbers 492 28712 
+i=  246
+i=  247
+i=  248
+i=  249
+i=  250
+Temperature (K)= 293.562143987
+Current temperature=293.562144
+Factor=1.003284
+dump the content of an OBMol object to XYZ file results/all.00005.xyz
+dump the content of an OBMol object to XYZ file results/filter.00005.xyz
+dump the content of an OBMol object to XYZ file results/reax.00005.xyz
+Temperature 295.494 
+TIMING: 00250  0.040  2.770  0.320  0.080  0.040  0.060  0.030  0.700 4.040
+Tersoff module:  E_pot= -129143.640262   avg. E_pot per atom=    -4.497898   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  250 Temperature (K)= 295.493500791  ReaxFF/Tersoff atom numbers 492 28712 
+i=  251
+i=  252
+i=  253
+i=  254
+i=  255
+TIMING: 00255  0.050  2.770  0.320  0.080  0.040  0.050  0.040  0.000 3.350
+Tersoff module:  E_pot= -129269.639594   avg. E_pot per atom=    -4.502286   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  255 Temperature (K)= 329.589605478  ReaxFF/Tersoff atom numbers 492 28712 
+i=  256
+i=  257
+i=  258
+i=  259
+i=  260
+Temperature (K)= 309.127864015
+Current temperature=309.127864
+Factor=0.995561
+Update simulation regions (depending on crack tip position)
+ITER  00260  CRACK_TIP  153.473 308.196 0.129 
+*** Time to update the regions 26.000
+TIMING: 00260  0.050  2.750  0.330  0.090  0.030  0.050  0.040  0.710 4.050
+Tersoff module:  E_pot= -129191.691751   avg. E_pot per atom=    -4.499571   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  260 Temperature (K)= 306.389504811  ReaxFF/Tersoff atom numbers 495 28712 
+i=  261
+i=  262
+i=  263
+i=  264
+i=  265
+TIMING: 00265  0.040  2.770  0.320  0.080  0.040  0.060  0.040  0.000 3.350
+Tersoff module:  E_pot= -129048.808256   avg. E_pot per atom=    -4.494595   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  265 Temperature (K)= 268.405597968  ReaxFF/Tersoff atom numbers 495 28712 
+i=  266
+i=  267
+i=  268
+i=  269
+i=  270
+Temperature (K)= 278.204716683
+Current temperature=278.204717
+Factor=1.011683
+TIMING: 00270  0.040  2.770  0.330  0.080  0.040  0.060  0.030  0.700 4.050
+Tersoff module:  E_pot= -129085.279815   avg. E_pot per atom=    -4.495865   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  270 Temperature (K)= 284.743301678  ReaxFF/Tersoff atom numbers 495 28712 
+i=  271
+i=  272
+i=  273
+i=  274
+i=  275
+TIMING: 00275  0.040  2.780  0.320  0.080  0.040  0.060  0.030  0.000 3.350
+Tersoff module:  E_pot= -129251.495365   avg. E_pot per atom=    -4.501654   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  275 Temperature (K)= 329.583738498  ReaxFF/Tersoff atom numbers 495 28712 
+i=  276
+i=  277
+i=  278
+i=  279
+i=  280
+Temperature (K)= 342.505260455
+Current temperature=342.505260
+Factor=0.981208
+Update simulation regions (depending on crack tip position)
+ITER  00280  CRACK_TIP  153.447 308.314 0.106 
+*** Time to update the regions 26.010
+TIMING: 00280  0.040  2.790  0.320  0.090  0.040  0.060  0.040  0.710 4.090
+Tersoff module:  E_pot= -129298.725933   avg. E_pot per atom=    -4.503299   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  280 Temperature (K)= 329.753682318  ReaxFF/Tersoff atom numbers 495 28712 
+i=  281
+i=  282
+i=  283
+i=  284
+i=  285
+TIMING: 00285  0.040  2.770  0.330  0.090  0.030  0.060  0.030  0.000 3.350
+Tersoff module:  E_pot= -129178.507660   avg. E_pot per atom=    -4.499112   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  285 Temperature (K)= 297.781828412  ReaxFF/Tersoff atom numbers 495 28712 
+i=  286
+i=  287
+i=  288
+i=  289
+i=  290
+Temperature (K)= 276.085785419
+Current temperature=276.085785
+Factor=1.012909
+TIMING: 00290  0.050  2.780  0.320  0.080  0.040  0.050  0.040  0.700 4.060
+Tersoff module:  E_pot= -129096.966496   avg. E_pot per atom=    -4.496272   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  290 Temperature (K)= 283.260049793  ReaxFF/Tersoff atom numbers 495 28712 
+i=  291
+i=  292
+i=  293
+i=  294
+i=  295
+TIMING: 00295  0.040  2.790  0.320  0.080  0.040  0.060  0.030  0.000 3.360
+Tersoff module:  E_pot= -129180.068362   avg. E_pot per atom=    -4.499166   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  295 Temperature (K)= 306.07800267  ReaxFF/Tersoff atom numbers 495 28712 
+i=  296
+i=  297
+i=  298
+i=  299
+i=  300
+Temperature (K)= 336.343249747
+Current temperature=336.343250
+Factor=0.983658
+dump the content of an OBMol object to XYZ file results/all.00006.xyz
+dump the content of an OBMol object to XYZ file results/filter.00006.xyz
+dump the content of an OBMol object to XYZ file results/reax.00006.xyz
+Temperature 325.440 
+Update simulation regions (depending on crack tip position)
+ITER  00300  CRACK_TIP  153.447 308.314 0.106 
+*** Time to update the regions 26.300
+TIMING: 00300  0.050  2.760  0.320  0.090  0.030  0.060  0.040  0.710 4.060
+Tersoff module:  E_pot= -129291.762679   avg. E_pot per atom=    -4.503057   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  300 Temperature (K)= 325.440274823  ReaxFF/Tersoff atom numbers 500 28712 
+i=  301
+i=  302
+i=  303
+i=  304
+i=  305
+TIMING: 00305  0.050  2.850  0.320  0.080  0.040  0.050  0.040  0.000 3.430
+Tersoff module:  E_pot= -129263.720220   avg. E_pot per atom=    -4.502080   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  305 Temperature (K)= 318.165137696  ReaxFF/Tersoff atom numbers 500 28712 
+i=  306
+i=  307
+i=  308
+i=  309
+i=  310
+Temperature (K)= 290.851503911
+Current temperature=290.851504
+Factor=1.004707
+TIMING: 00310  0.050  2.840  0.320  0.080  0.040  0.050  0.040  0.700 4.120
+Tersoff module:  E_pot= -129160.695560   avg. E_pot per atom=    -4.498492   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  310 Temperature (K)= 293.596052738  ReaxFF/Tersoff atom numbers 500 28712 
+i=  311
+i=  312
+i=  313
+i=  314
+i=  315
+TIMING: 00315  0.040  2.830  0.320  0.090  0.040  0.060  0.030  0.000 3.410
+Tersoff module:  E_pot= -129142.533054   avg. E_pot per atom=    -4.497859   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  315 Temperature (K)= 289.07012021  ReaxFF/Tersoff atom numbers 500 28712 
+i=  316
+i=  317
+i=  318
+i=  319
+i=  320
+Temperature (K)= 307.380806919
+Current temperature=307.380807
+Factor=0.996392
+Update simulation regions (depending on crack tip position)
+ITER  00320  CRACK_TIP  154.569 308.333 0.197 
+*** Time to update the regions 26.200
+TIMING: 00320  0.040  2.850  0.320  0.080  0.040  0.060  0.050  0.700 4.140
+Tersoff module:  E_pot= -129208.262687   avg. E_pot per atom=    -4.500148   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  320 Temperature (K)= 305.166564843  ReaxFF/Tersoff atom numbers 507 28712 
+i=  321
+i=  322
+i=  323
+i=  324
+i=  325
+TIMING: 00325  0.040  2.910  0.320  0.090  0.040  0.060  0.040  0.000 3.500
+Tersoff module:  E_pot= -129236.357177   avg. E_pot per atom=    -4.501127   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  325 Temperature (K)= 312.94320594  ReaxFF/Tersoff atom numbers 507 28712 
+i=  326
+i=  327
+i=  328
+i=  329
+i=  330
+Temperature (K)= 296.968969426
+Current temperature=296.968969
+Factor=1.001530
+TIMING: 00330  0.040  2.930  0.320  0.080  0.040  0.060  0.030  0.700 4.200
+Tersoff module:  E_pot= -129175.323960   avg. E_pot per atom=    -4.499001   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  330 Temperature (K)= 297.878278598  ReaxFF/Tersoff atom numbers 507 28712 
+i=  331
+i=  332
+i=  333
+i=  334
+i=  335
+TIMING: 00335  0.050  2.930  0.320  0.080  0.040  0.060  0.040  0.000 3.520
+Tersoff module:  E_pot= -129114.466852   avg. E_pot per atom=    -4.496882   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  335 Temperature (K)= 281.817138799  ReaxFF/Tersoff atom numbers 507 28712 
+i=  336
+i=  337
+i=  338
+i=  339
+i=  340
+Temperature (K)= 288.191827252
+Current temperature=288.191827
+Factor=1.006127
+Update simulation regions (depending on crack tip position)
+ITER  00340  CRACK_TIP  153.658 310.574 0.260 
+*** Time to update the regions 26.250
+TIMING: 00340  0.040  2.940  0.320  0.080  0.040  0.060  0.030  0.710 4.220
+Tersoff module:  E_pot= -129136.906094   avg. E_pot per atom=    -4.497663   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  340 Temperature (K)= 291.734279076  ReaxFF/Tersoff atom numbers 519 28712 
+i=  341
+i=  342
+i=  343
+i=  344
+i=  345
+TIMING: 00345  0.050  3.070  0.320  0.090  0.040  0.050  0.040  0.010 3.670
+Tersoff module:  E_pot= -129194.227342   avg. E_pot per atom=    -4.499660   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  345 Temperature (K)= 307.284852645  ReaxFF/Tersoff atom numbers 519 28712 
+i=  346
+i=  347
+i=  348
+i=  349
+i=  350
+Temperature (K)= 310.215689357
+Current temperature=310.215689
+Factor=0.995048
+dump the content of an OBMol object to XYZ file results/all.00007.xyz
+dump the content of an OBMol object to XYZ file results/filter.00007.xyz
+dump the content of an OBMol object to XYZ file results/reax.00007.xyz
+Temperature 307.151 
+TIMING: 00350  0.040  3.090  0.320  0.080  0.040  0.060  0.030  0.700 4.360
+Tersoff module:  E_pot= -129204.074074   avg. E_pot per atom=    -4.500003   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  350 Temperature (K)= 307.15098255  ReaxFF/Tersoff atom numbers 519 28712 
+i=  351
+i=  352
+i=  353
+i=  354
+i=  355
+TIMING: 00355  0.040  3.090  0.320  0.080  0.040  0.060  0.030  0.000 3.660
+Tersoff module:  E_pot= -129184.243700   avg. E_pot per atom=    -4.499312   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  355 Temperature (K)= 302.167224505  ReaxFF/Tersoff atom numbers 519 28712 
+i=  356
+i=  357
+i=  358
+i=  359
+i=  360
+Temperature (K)= 304.344126558
+Current temperature=304.344127
+Factor=0.997857
+Update simulation regions (depending on crack tip position)
+ITER  00360  CRACK_TIP  153.651 310.641 0.259 
+*** Time to update the regions 26.410
+TIMING: 00360  0.050  3.090  0.330  0.090  0.030  0.050  0.040  0.710 4.390
+Tersoff module:  E_pot= -129192.412866   avg. E_pot per atom=    -4.499596   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  360 Temperature (K)= 303.040888591  ReaxFF/Tersoff atom numbers 532 28712 
+i=  361
+i=  362
+i=  363
+i=  364
+i=  365
+TIMING: 00365  0.050  3.270  0.320  0.090  0.040  0.050  0.040  0.000 3.860
+Tersoff module:  E_pot= -129213.096388   avg. E_pot per atom=    -4.500317   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  365 Temperature (K)= 308.765620749  ReaxFF/Tersoff atom numbers 532 28712 
+i=  366
+i=  367
+i=  368
+i=  369
+i=  370
+Temperature (K)= 309.043486862
+Current temperature=309.043487
+Factor=0.995601
+TIMING: 00370  0.040  3.240  0.320  0.090  0.040  0.060  0.030  0.710 4.530
+Tersoff module:  E_pot= -129211.978556   avg. E_pot per atom=    -4.500278   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  370 Temperature (K)= 306.330440803  ReaxFF/Tersoff atom numbers 532 28712 
+i=  371
+i=  372
+i=  373
+i=  374
+i=  375
+TIMING: 00375  0.050  3.240  0.320  0.090  0.040  0.050  0.040  0.000 3.830
+Tersoff module:  E_pot= -129210.844550   avg. E_pot per atom=    -4.500238   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  375 Temperature (K)= 306.569509423  ReaxFF/Tersoff atom numbers 532 28712 
+i=  376
+i=  377
+i=  378
+i=  379
+i=  380
+Temperature (K)= 312.47497486
+Current temperature=312.474975
+Factor=0.993993
+Update simulation regions (depending on crack tip position)
+ITER  00380  CRACK_TIP  153.651 310.641 0.259 
+*** Time to update the regions 26.480
+TIMING: 00380  0.050  3.220  0.320  0.080  0.040  0.050  0.040  0.710 4.510
+Tersoff module:  E_pot= -129230.877554   avg. E_pot per atom=    -4.500936   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  380 Temperature (K)= 308.732482402  ReaxFF/Tersoff atom numbers 553 28712 
+i=  381
+i=  382
+i=  383
+i=  384
+i=  385
+TIMING: 00385  0.040  3.480  0.320  0.090  0.030  0.060  0.040  0.000 4.060
+Tersoff module:  E_pot= -129249.516587   avg. E_pot per atom=    -4.501585   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  385 Temperature (K)= 314.242879944  ReaxFF/Tersoff atom numbers 553 28712 
+i=  386
+i=  387
+i=  388
+i=  389
+i=  390
+Temperature (K)= 307.834537309
+Current temperature=307.834537
+Factor=0.996175
+TIMING: 00390  0.050  3.470  0.330  0.080  0.040  0.050  0.040  0.700 4.760
+Tersoff module:  E_pot= -129224.469097   avg. E_pot per atom=    -4.500713   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  390 Temperature (K)= 305.484176116  ReaxFF/Tersoff atom numbers 553 28712 
+i=  391
+i=  392
+i=  393
+i=  394
+i=  395
+TIMING: 00395  0.050  3.500  0.320  0.080  0.040  0.050  0.040  0.000 4.080
+Tersoff module:  E_pot= -129175.987049   avg. E_pot per atom=    -4.499024   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  395 Temperature (K)= 292.694913451  ReaxFF/Tersoff atom numbers 553 28712 
+i=  396
+i=  397
+i=  398
+i=  399
+i=  400
+Temperature (K)= 296.924107834
+Current temperature=296.924108
+Factor=1.001553
+dump the content of an OBMol object to XYZ file results/all.00008.xyz
+dump the content of an OBMol object to XYZ file results/filter.00008.xyz
+dump the content of an OBMol object to XYZ file results/reax.00008.xyz
+Temperature 297.847 
+Update simulation regions (depending on crack tip position)
+ITER  00400  CRACK_TIP  152.254 311.114 2.217 
+*** Time to update the regions 26.580
+TIMING: 00400  0.040  3.480  0.330  0.080  0.040  0.060  0.040  0.700 4.770
+Tersoff module:  E_pot= -129189.739279   avg. E_pot per atom=    -4.499503   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  400 Temperature (K)= 297.846875484  ReaxFF/Tersoff atom numbers 556 28712 
+i=  401
+i=  402
+i=  403
+i=  404
+i=  405
+TIMING: 00405  0.050  3.520  0.320  0.080  0.040  0.050  0.040  0.000 4.100
+Tersoff module:  E_pot= -129250.426248   avg. E_pot per atom=    -4.501617   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  405 Temperature (K)= 314.836224681  ReaxFF/Tersoff atom numbers 556 28712 
+i=  406
+i=  407
+i=  408
+i=  409
+i=  410
+Temperature (K)= 311.406975825
+Current temperature=311.406976
+Factor=0.994490
+TIMING: 00410  0.050  3.540  0.320  0.090  0.030  0.050  0.040  0.700 4.820
+Tersoff module:  E_pot= -129237.189187   avg. E_pot per atom=    -4.501156   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  410 Temperature (K)= 307.984883078  ReaxFF/Tersoff atom numbers 556 28712 
+i=  411
+i=  412
+i=  413
+i=  414
+i=  415
+TIMING: 00415  0.050  3.540  0.320  0.080  0.040  0.050  0.040  0.000 4.120
+Tersoff module:  E_pot= -129153.618837   avg. E_pot per atom=    -4.498245   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  415 Temperature (K)= 285.609680082  ReaxFF/Tersoff atom numbers 556 28712 
+i=  416
+i=  417
+i=  418
+i=  419
+i=  420
+Temperature (K)= 280.508479462
+Current temperature=280.508479
+Factor=1.010369
+Update simulation regions (depending on crack tip position)
+ITER  00420  CRACK_TIP  154.865 314.022 1.950 
+*** Time to update the regions 26.720
+TIMING: 00420  0.040  3.550  0.320  0.080  0.040  0.060  0.030  0.700 4.820
+Tersoff module:  E_pot= -129133.359802   avg. E_pot per atom=    -4.497540   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  420 Temperature (K)= 286.355935624  ReaxFF/Tersoff atom numbers 572 28712 
+i=  421
+i=  422
+i=  423
+i=  424
+i=  425
+TIMING: 00425  0.040  3.760  0.330  0.080  0.040  0.060  0.040  0.000 4.350
+Tersoff module:  E_pot= -129207.349762   avg. E_pot per atom=    -4.500117   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  425 Temperature (K)= 306.219016118  ReaxFF/Tersoff atom numbers 572 28712 
+i=  426
+i=  427
+i=  428
+i=  429
+i=  430
+Temperature (K)= 320.165973324
+Current temperature=320.165973
+Factor=0.990507
+TIMING: 00430  0.050  3.720  0.320  0.090  0.040  0.050  0.040  0.700 5.010
+Tersoff module:  E_pot= -129259.642280   avg. E_pot per atom=    -4.501938   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  430 Temperature (K)= 314.116181327  ReaxFF/Tersoff atom numbers 572 28712 
+i=  431
+i=  432
+i=  433
+i=  434
+i=  435
+TIMING: 00435  0.050  3.710  0.320  0.090  0.040  0.050  0.040  0.000 4.300
+Tersoff module:  E_pot= -129212.112924   avg. E_pot per atom=    -4.500283   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  435 Temperature (K)= 301.622498962  ReaxFF/Tersoff atom numbers 572 28712 
+i=  436
+i=  437
+i=  438
+i=  439
+i=  440
+Temperature (K)= 281.989930613
+Current temperature=281.989931
+Factor=1.009535
+Update simulation regions (depending on crack tip position)
+ITER  00440  CRACK_TIP  154.865 314.022 1.950 
+*** Time to update the regions 26.690
+TIMING: 00440  0.040  3.730  0.320  0.090  0.040  0.050  0.040  0.700 5.010
+Tersoff module:  E_pot= -129136.521079   avg. E_pot per atom=    -4.497650   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  440 Temperature (K)= 287.392951429  ReaxFF/Tersoff atom numbers 576 28712 
+i=  441
+i=  442
+i=  443
+i=  444
+i=  445
+TIMING: 00445  0.040  3.800  0.320  0.080  0.040  0.060  0.040  0.000 4.380
+Tersoff module:  E_pot= -129159.587957   avg. E_pot per atom=    -4.498453   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  445 Temperature (K)= 294.111317431  ReaxFF/Tersoff atom numbers 576 28712 
+i=  446
+i=  447
+i=  448
+i=  449
+i=  450
+Temperature (K)= 323.910819771
+Current temperature=323.910820
+Factor=0.988865
+dump the content of an OBMol object to XYZ file results/all.00009.xyz
+dump the content of an OBMol object to XYZ file results/filter.00009.xyz
+dump the content of an OBMol object to XYZ file results/reax.00009.xyz
+Temperature 316.738 
+TIMING: 00450  0.040  3.780  0.320  0.090  0.040  0.060  0.040  0.700 5.070
+Tersoff module:  E_pot= -129268.145438   avg. E_pot per atom=    -4.502234   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  450 Temperature (K)= 316.73757384  ReaxFF/Tersoff atom numbers 576 28712 
+i=  451
+i=  452
+i=  453
+i=  454
+i=  455
+TIMING: 00455  0.040  3.840  0.320  0.090  0.040  0.060  0.040  0.000 4.430
+Tersoff module:  E_pot= -129308.986237   avg. E_pot per atom=    -4.503657   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  455 Temperature (K)= 328.247903146  ReaxFF/Tersoff atom numbers 576 28712 
+i=  456
+i=  457
+i=  458
+i=  459
+i=  460
+Temperature (K)= 307.090602201
+Current temperature=307.090602
+Factor=0.996531
+Update simulation regions (depending on crack tip position)
+ITER  00460  CRACK_TIP  155.342 314.046 1.946 
+*** Time to update the regions 26.740
+TIMING: 00460  0.050  3.780  0.320  0.090  0.040  0.050  0.040  0.700 5.070
+Tersoff module:  E_pot= -129228.426488   avg. E_pot per atom=    -4.500851   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  460 Temperature (K)= 304.963421541  ReaxFF/Tersoff atom numbers 587 28712 
+i=  461
+i=  462
+i=  463
+i=  464
+i=  465
+TIMING: 00465  0.050  3.930  0.320  0.090  0.030  0.050  0.040  0.000 4.510
+Tersoff module:  E_pot= -129164.273636   avg. E_pot per atom=    -4.498616   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  465 Temperature (K)= 287.898391428  ReaxFF/Tersoff atom numbers 587 28712 
+i=  466
+i=  467
+i=  468
+i=  469
+i=  470
+Temperature (K)= 303.969599637
+Current temperature=303.969600
+Factor=0.998039
+TIMING: 00470  0.040  3.930  0.320  0.080  0.040  0.060  0.040  0.710 5.220
+Tersoff module:  E_pot= -129224.252341   avg. E_pot per atom=    -4.500705   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  470 Temperature (K)= 302.778719746  ReaxFF/Tersoff atom numbers 587 28712 
+i=  471
+i=  472
+i=  473
+i=  474
+i=  475
+TIMING: 00475  0.040  3.990  0.330  0.080  0.040  0.060  0.040  0.000 4.580
+Tersoff module:  E_pot= -129316.395600   avg. E_pot per atom=    -4.503915   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  475 Temperature (K)= 327.997247998  ReaxFF/Tersoff atom numbers 587 28712 
+i=  476
+i=  477
+i=  478
+i=  479
+i=  480
+Temperature (K)= 321.622600243
+Current temperature=321.622600
+Factor=0.989864
+Update simulation regions (depending on crack tip position)
+ITER  00480  CRACK_TIP  155.788 314.125 2.052 
+*** Time to update the regions 26.920
+TIMING: 00480  0.050  3.910  0.320  0.090  0.040  0.050  0.040  0.700 5.200
+Tersoff module:  E_pot= -129290.601238   avg. E_pot per atom=    -4.503016   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  480 Temperature (K)= 315.13582017  ReaxFF/Tersoff atom numbers 595 28712 
+i=  481
+i=  482
+i=  483
+i=  484
+i=  485
+TIMING: 00485  0.040  4.020  0.320  0.080  0.040  0.060  0.030  0.000 4.590
+Tersoff module:  E_pot= -129172.770354   avg. E_pot per atom=    -4.498912   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  485 Temperature (K)= 283.799936612  ReaxFF/Tersoff atom numbers 595 28712 
+i=  486
+i=  487
+i=  488
+i=  489
+i=  490
+Temperature (K)= 275.664637542
+Current temperature=275.664638
+Factor=1.013155
+TIMING: 00490  0.050  4.050  0.320  0.090  0.030  0.050  0.040  0.710 5.340
+Tersoff module:  E_pot= -129140.750828   avg. E_pot per atom=    -4.497797   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  490 Temperature (K)= 282.96524628  ReaxFF/Tersoff atom numbers 595 28712 
+i=  491
+i=  492
+i=  493
+i=  494
+i=  495
+TIMING: 00495  0.040  4.030  0.320  0.080  0.040  0.060  0.040  0.000 4.610
+Tersoff module:  E_pot= -129239.279472   avg. E_pot per atom=    -4.501229   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  495 Temperature (K)= 309.744847876  ReaxFF/Tersoff atom numbers 595 28712 
+i=  496
+i=  497
+i=  498
+i=  499
+i=  500
+Temperature (K)= 326.060091408
+Current temperature=326.060091
+Factor=0.987939
+dump the content of an OBMol object to XYZ file results/all.00010.xyz
+dump the content of an OBMol object to XYZ file results/filter.00010.xyz
+dump the content of an OBMol object to XYZ file results/reax.00010.xyz
+Temperature 318.242 
+Update simulation regions (depending on crack tip position)
+ITER  00500  CRACK_TIP  156.281 314.333 2.223 
+*** Time to update the regions 26.860
+TIMING: 00500  0.050  4.020  0.330  0.080  0.040  0.060  0.030  0.700 5.310
+Tersoff module:  E_pot= -129298.914524   avg. E_pot per atom=    -4.503306   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  500 Temperature (K)= 318.242063985  ReaxFF/Tersoff atom numbers 619 28712 
+i=  501
+i=  502
+i=  503
+i=  504
+i=  505
+TIMING: 00505  0.050  4.370  0.310  0.090  0.040  0.050  0.040  0.000 4.950
+Tersoff module:  E_pot= -129230.230618   avg. E_pot per atom=    -4.500914   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  505 Temperature (K)= 300.200146115  ReaxFF/Tersoff atom numbers 619 28712 
+i=  506
+i=  507
+i=  508
+i=  509
+i=  510
+Temperature (K)= 278.35243637
+Current temperature=278.352436
+Factor=1.011598
+TIMING: 00510  0.040  4.380  0.320  0.090  0.040  0.060  0.040  0.700 5.670
+Tersoff module:  E_pot= -129145.082385   avg. E_pot per atom=    -4.497948   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  510 Temperature (K)= 284.846705459  ReaxFF/Tersoff atom numbers 619 28712 
+i=  511
+i=  512
+i=  513
+i=  514
+i=  515
+TIMING: 00515  0.040  4.390  0.320  0.080  0.040  0.060  0.040  0.000 4.970
+Tersoff module:  E_pot= -129164.828298   avg. E_pot per atom=    -4.498636   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  515 Temperature (K)= 291.285759878  ReaxFF/Tersoff atom numbers 619 28712 
+i=  516
+i=  517
+i=  518
+i=  519
+i=  520
+Temperature (K)= 316.040698423
+Current temperature=316.040698
+Factor=0.992358
+Update simulation regions (depending on crack tip position)
+ITER  00520  CRACK_TIP  154.040 317.255 0.142 
+*** Time to update the regions 27.270
+TIMING: 00520  0.040  4.400  0.330  0.080  0.040  0.060  0.040  0.700 5.690
+Tersoff module:  E_pot= -129253.052369   avg. E_pot per atom=    -4.501708   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  520 Temperature (K)= 311.228488896  ReaxFF/Tersoff atom numbers 656 28712 
+i=  521
+i=  522
+i=  523
+i=  524
+i=  525
+TIMING: 00525  0.050  4.900  0.320  0.090  0.030  0.050  0.040  0.000 5.480
+Tersoff module:  E_pot= -129285.670324   avg. E_pot per atom=    -4.502844   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  525 Temperature (K)= 320.876797914  ReaxFF/Tersoff atom numbers 656 28712 
+i=  526
+i=  527
+i=  528
+i=  529
+i=  530
+Temperature (K)= 307.038835279
+Current temperature=307.038835
+Factor=0.996555
+TIMING: 00530  0.040  4.900  0.320  0.090  0.030  0.060  0.030  0.710 6.180
+Tersoff module:  E_pot= -129232.586668   avg. E_pot per atom=    -4.500996   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  530 Temperature (K)= 304.927184695  ReaxFF/Tersoff atom numbers 656 28712 
+i=  531
+i=  532
+i=  533
+i=  534
+i=  535
+TIMING: 00535  0.050  4.900  0.320  0.090  0.030  0.050  0.040  0.000 5.480
+Tersoff module:  E_pot= -129192.460617   avg. E_pot per atom=    -4.499598   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  535 Temperature (K)= 294.276193102  ReaxFF/Tersoff atom numbers 656 28712 
+i=  536
+i=  537
+i=  538
+i=  539
+i=  540
+Temperature (K)= 307.330780375
+Current temperature=307.330780
+Factor=0.996416
+Update simulation regions (depending on crack tip position)
+ITER  00540  CRACK_TIP  154.421 317.439 0.035 
+*** Time to update the regions 27.710
+TIMING: 00540  0.040  4.950  0.320  0.090  0.030  0.060  0.030  0.710 6.230
+Tersoff module:  E_pot= -129240.422297   avg. E_pot per atom=    -4.501269   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  540 Temperature (K)= 305.131546262  ReaxFF/Tersoff atom numbers 679 28712 
+i=  541
+i=  542
+i=  543
+i=  544
+i=  545
+TIMING: 00545  0.050  5.280  0.320  0.090  0.040  0.050  0.040  0.000 5.870
+Tersoff module:  E_pot= -129308.794006   avg. E_pot per atom=    -4.503650   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  545 Temperature (K)= 323.846047118  ReaxFF/Tersoff atom numbers 679 28712 
+i=  546
+i=  547
+i=  548
+i=  549
+i=  550
+Temperature (K)= 322.71698646
+Current temperature=322.716986
+Factor=0.989385
+dump the content of an OBMol object to XYZ file results/all.00011.xyz
+dump the content of an OBMol object to XYZ file results/filter.00011.xyz
+dump the content of an OBMol object to XYZ file results/reax.00011.xyz
+Temperature 315.902 
+TIMING: 00550  0.050  5.340  0.320  0.080  0.040  0.050  0.040  0.710 6.630
+Tersoff module:  E_pot= -129302.228905   avg. E_pot per atom=    -4.503421   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  550 Temperature (K)= 315.901890522  ReaxFF/Tersoff atom numbers 679 28712 
+i=  551
+i=  552
+i=  553
+i=  554
+i=  555
+TIMING: 00555  0.050  5.340  0.320  0.080  0.040  0.050  0.040  0.000 5.920
+Tersoff module:  E_pot= -129246.103396   avg. E_pot per atom=    -4.501466   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  555 Temperature (K)= 301.685390258  ReaxFF/Tersoff atom numbers 679 28712 
+i=  556
+i=  557
+i=  558
+i=  559
+i=  560
+Temperature (K)= 296.569111948
+Current temperature=296.569112
+Factor=1.001734
+Update simulation regions (depending on crack tip position)
+ITER  00560  CRACK_TIP  153.605 319.879 0.214 
+*** Time to update the regions 27.760
+TIMING: 00560  0.050  5.360  0.320  0.080  0.040  0.050  0.040  0.700 6.640
+Tersoff module:  E_pot= -129224.719593   avg. E_pot per atom=    -4.500722   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  560 Temperature (K)= 297.598378363  ReaxFF/Tersoff atom numbers 697 28712 
+i=  561
+i=  562
+i=  563
+i=  564
+i=  565
+TIMING: 00565  0.040  5.610  0.320  0.090  0.040  0.060  0.040  0.000 6.200
+Tersoff module:  E_pot= -129254.823326   avg. E_pot per atom=    -4.501770   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  565 Temperature (K)= 306.050497989  ReaxFF/Tersoff atom numbers 697 28712 
+i=  566
+i=  567
+i=  568
+i=  569
+i=  570
+Temperature (K)= 313.056749301
+Current temperature=313.056749
+Factor=0.993724
+TIMING: 00570  0.050  5.600  0.320  0.090  0.040  0.050  0.040  0.700 6.890
+Tersoff module:  E_pot= -129280.559641   avg. E_pot per atom=    -4.502666   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  570 Temperature (K)= 309.139724511  ReaxFF/Tersoff atom numbers 697 28712 
+i=  571
+i=  572
+i=  573
+i=  574
+i=  575
+TIMING: 00575  0.040  5.590  0.320  0.090  0.040  0.060  0.030  0.000 6.170
+Tersoff module:  E_pot= -129263.759056   avg. E_pot per atom=    -4.502081   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  575 Temperature (K)= 304.838090009  ReaxFF/Tersoff atom numbers 697 28712 
+i=  576
+i=  577
+i=  578
+i=  579
+i=  580
+Temperature (K)= 298.088300215
+Current temperature=298.088300
+Factor=1.000962
+Update simulation regions (depending on crack tip position)
+ITER  00580  CRACK_TIP  156.329 320.457 0.202 
+*** Time to update the regions 27.710
+TIMING: 00580  0.050  5.590  0.320  0.090  0.030  0.050  0.040  0.710 6.880
+Tersoff module:  E_pot= -129237.377861   avg. E_pot per atom=    -4.501163   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  580 Temperature (K)= 298.661810151  ReaxFF/Tersoff atom numbers 718 28712 
+i=  581
+i=  582
+i=  583
+i=  584
+i=  585
+TIMING: 00585  0.050  5.880  0.330  0.080  0.040  0.050  0.040  0.000 6.470
+Tersoff module:  E_pot= -129237.471145   avg. E_pot per atom=    -4.501166   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  585 Temperature (K)= 298.995879777  ReaxFF/Tersoff atom numbers 718 28712 
+i=  586
+i=  587
+i=  588
+i=  589
+i=  590
+Temperature (K)= 301.489016479
+Current temperature=301.489016
+Factor=0.999259
+TIMING: 00590  0.050  5.910  0.320  0.090  0.040  0.050  0.040  0.700 7.200
+Tersoff module:  E_pot= -129246.055151   avg. E_pot per atom=    -4.501465   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  590 Temperature (K)= 301.042311536  ReaxFF/Tersoff atom numbers 718 28712 
+i=  591
+i=  592
+i=  593
+i=  594
+i=  595
+TIMING: 00595  0.050  5.920  0.320  0.090  0.030  0.050  0.040  0.000 6.500
+Tersoff module:  E_pot= -129244.725588   avg. E_pot per atom=    -4.501418   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  595 Temperature (K)= 301.749672949  ReaxFF/Tersoff atom numbers 718 28712 
+i=  596
+i=  597
+i=  598
+i=  599
+i=  600
+Temperature (K)= 303.790772124
+Current temperature=303.790772
+Factor=0.998127
+dump the content of an OBMol object to XYZ file results/all.00012.xyz
+dump the content of an OBMol object to XYZ file results/filter.00012.xyz
+dump the content of an OBMol object to XYZ file results/reax.00012.xyz
+Temperature 302.654 
+Update simulation regions (depending on crack tip position)
+ITER  00600  CRACK_TIP  156.329 320.457 0.202 
+*** Time to update the regions 27.550
+TIMING: 00600  0.040  5.840  0.320  0.090  0.040  0.060  0.040  0.710 7.140
+Tersoff module:  E_pot= -129248.120452   avg. E_pot per atom=    -4.501537   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  600 Temperature (K)= 302.653540487  ReaxFF/Tersoff atom numbers 730 28712 
+i=  601
+i=  602
+i=  603
+i=  604
+i=  605
+TIMING: 00605  0.050  6.070  0.320  0.080  0.040  0.050  0.040  0.000 6.650
+Tersoff module:  E_pot= -129250.465495   avg. E_pot per atom=    -4.501618   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  605 Temperature (K)= 303.988177821  ReaxFF/Tersoff atom numbers 730 28712 
+i=  606
+i=  607
+i=  608
+i=  609
+i=  610
+Temperature (K)= 303.206239015
+Current temperature=303.206239
+Factor=0.998413
+TIMING: 00610  0.050  6.060  0.320  0.090  0.030  0.050  0.040  0.710 7.350
+Tersoff module:  E_pot= -129245.607309   avg. E_pot per atom=    -4.501449   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  610 Temperature (K)= 302.24436731  ReaxFF/Tersoff atom numbers 730 28712 
+i=  611
+i=  612
+i=  613
+i=  614
+i=  615
+TIMING: 00615  0.040  6.050  0.320  0.080  0.040  0.060  0.040  0.000 6.630
+Tersoff module:  E_pot= -129253.241102   avg. E_pot per atom=    -4.501715   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  615 Temperature (K)= 304.941618135  ReaxFF/Tersoff atom numbers 730 28712 
+i=  616
+i=  617
+i=  618
+i=  619
+i=  620
+Temperature (K)= 313.335056764
+Current temperature=313.335057
+Factor=0.993596
+Update simulation regions (depending on crack tip position)
+ITER  00620  CRACK_TIP  157.401 320.907 0.262 
+*** Time to update the regions 27.750
+TIMING: 00620  0.040  6.040  0.320  0.090  0.030  0.060  0.040  0.710 7.330
+Tersoff module:  E_pot= -129282.429705   avg. E_pot per atom=    -4.502732   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  620 Temperature (K)= 309.334539735  ReaxFF/Tersoff atom numbers 753 28712 
+i=  621
+i=  622
+i=  623
+i=  624
+i=  625
+TIMING: 00625  0.040  6.470  0.330  0.090  0.040  0.060  0.040  0.000 7.070
+Tersoff module:  E_pot= -129312.791861   avg. E_pot per atom=    -4.503789   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  625 Temperature (K)= 318.33034723  ReaxFF/Tersoff atom numbers 753 28712 
+i=  626
+i=  627
+i=  628
+i=  629
+i=  630
+Temperature (K)= 319.068797067
+Current temperature=319.068797
+Factor=0.990995
+TIMING: 00630  0.050  6.440  0.320  0.090  0.030  0.050  0.040  0.700 7.720
+Tersoff module:  E_pot= -129313.782348   avg. E_pot per atom=    -4.503824   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  630 Temperature (K)= 313.348157947  ReaxFF/Tersoff atom numbers 753 28712 
+i=  631
+i=  632
+i=  633
+i=  634
+i=  635
+TIMING: 00635  0.050  6.440  0.330  0.080  0.040  0.050  0.040  0.000 7.030
+Tersoff module:  E_pot= -129281.445597   avg. E_pot per atom=    -4.502697   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  635 Temperature (K)= 305.066969694  ReaxFF/Tersoff atom numbers 753 28712 
+i=  636
+i=  637
+i=  638
+i=  639
+i=  640
+Temperature (K)= 299.729557754
+Current temperature=299.729558
+Factor=1.000135
+Update simulation regions (depending on crack tip position)
+ITER  00640  CRACK_TIP  157.415 321.181 0.322 
+*** Time to update the regions 27.920
+TIMING: 00640  0.040  6.460  0.320  0.090  0.040  0.060  0.030  0.700 7.740
+Tersoff module:  E_pot= -129260.339788   avg. E_pot per atom=    -4.501962   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  640 Temperature (K)= 299.810690428  ReaxFF/Tersoff atom numbers 767 28712 
+i=  641
+i=  642
+i=  643
+i=  644
+i=  645
+TIMING: 00645  0.050  6.710  0.320  0.080  0.040  0.060  0.040  0.000 7.300
+Tersoff module:  E_pot= -129280.708548   avg. E_pot per atom=    -4.502672   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  645 Temperature (K)= 305.906056321  ReaxFF/Tersoff atom numbers 767 28712 
+i=  646
+i=  647
+i=  648
+i=  649
+i=  650
+Temperature (K)= 314.057198912
+Current temperature=314.057199
+Factor=0.993263
+dump the content of an OBMol object to XYZ file results/all.00013.xyz
+dump the content of an OBMol object to XYZ file results/filter.00013.xyz
+dump the content of an OBMol object to XYZ file results/reax.00013.xyz
+Temperature 309.840 
+TIMING: 00650  0.040  6.710  0.320  0.080  0.040  0.060  0.030  0.700 7.980
+Tersoff module:  E_pot= -129308.157790   avg. E_pot per atom=    -4.503628   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  650 Temperature (K)= 309.840039238  ReaxFF/Tersoff atom numbers 767 28712 
+i=  651
+i=  652
+i=  653
+i=  654
+i=  655
+TIMING: 00655  0.050  6.650  0.320  0.080  0.040  0.050  0.040  0.000 7.230
+Tersoff module:  E_pot= -129292.755035   avg. E_pot per atom=    -4.503091   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  655 Temperature (K)= 306.458533207  ReaxFF/Tersoff atom numbers 767 28712 
+i=  656
+i=  657
+i=  658
+i=  659
+i=  660
+Temperature (K)= 295.956920718
+Current temperature=295.956921
+Factor=1.002047
+Update simulation regions (depending on crack tip position)
+ITER  00660  CRACK_TIP  154.710 323.698 2.295 
+*** Time to update the regions 28.240
+TIMING: 00660  0.040  6.690  0.320  0.080  0.040  0.060  0.030  0.710 7.970
+Tersoff module:  E_pot= -129249.427343   avg. E_pot per atom=    -4.501582   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  660 Temperature (K)= 297.169844503  ReaxFF/Tersoff atom numbers 801 28712 
+i=  661
+i=  662
+i=  663
+i=  664
+i=  665
+TIMING: 00665  0.050  7.230  0.320  0.090  0.040  0.050  0.040  0.000 7.820
+Tersoff module:  E_pot= -129239.020756   avg. E_pot per atom=    -4.501220   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  665 Temperature (K)= 295.31887525  ReaxFF/Tersoff atom numbers 801 28712 
+i=  666
+i=  667
+i=  668
+i=  669
+i=  670
+Temperature (K)= 306.160575582
+Current temperature=306.160576
+Factor=0.996977
+TIMING: 00670  0.040  7.240  0.320  0.090  0.040  0.060  0.040  0.700 8.530
+Tersoff module:  E_pot= -129278.141266   avg. E_pot per atom=    -4.502582   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  670 Temperature (K)= 304.312402907  ReaxFF/Tersoff atom numbers 801 28712 
+i=  671
+i=  672
+i=  673
+i=  674
+i=  675
+TIMING: 00675  0.040  7.280  0.320  0.080  0.040  0.060  0.030  0.000 7.850
+Tersoff module:  E_pot= -129307.705506   avg. E_pot per atom=    -4.503612   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  675 Temperature (K)= 312.557904144  ReaxFF/Tersoff atom numbers 801 28712 
+i=  676
+i=  677
+i=  678
+i=  679
+i=  680
+Temperature (K)= 304.752727879
+Current temperature=304.752728
+Factor=0.997658
+Update simulation regions (depending on crack tip position)
+ITER  00680  CRACK_TIP  154.731 323.826 2.237 
+*** Time to update the regions 28.380
+TIMING: 00680  0.050  7.290  0.320  0.080  0.040  0.050  0.040  0.700 8.570
+Tersoff module:  E_pot= -129275.562586   avg. E_pot per atom=    -4.502492   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  680 Temperature (K)= 303.326909515  ReaxFF/Tersoff atom numbers 806 28712 
+i=  681
+i=  682
+i=  683
+i=  684
+i=  685
+TIMING: 00685  0.040  7.380  0.330  0.080  0.040  0.060  0.030  0.000 7.960
+Tersoff module:  E_pot= -129224.264719   avg. E_pot per atom=    -4.500706   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  685 Temperature (K)= 290.031394396  ReaxFF/Tersoff atom numbers 806 28712 
+i=  686
+i=  687
+i=  688
+i=  689
+i=  690
+Temperature (K)= 293.398204524
+Current temperature=293.398205
+Factor=1.003369
+TIMING: 00690  0.040  7.400  0.320  0.080  0.040  0.060  0.030  0.700 8.670
+Tersoff module:  E_pot= -129235.698414   avg. E_pot per atom=    -4.501104   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  690 Temperature (K)= 295.378743167  ReaxFF/Tersoff atom numbers 806 28712 
+i=  691
+i=  692
+i=  693
+i=  694
+i=  695
+TIMING: 00695  0.040  7.360  0.320  0.090  0.040  0.060  0.040  0.000 7.950
+Tersoff module:  E_pot= -129304.803345   avg. E_pot per atom=    -4.503511   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  695 Temperature (K)= 314.069525944  ReaxFF/Tersoff atom numbers 806 28712 
+i=  696
+i=  697
+i=  698
+i=  699
+i=  700
+Temperature (K)= 322.559072414
+Current temperature=322.559072
+Factor=0.989454
+dump the content of an OBMol object to XYZ file results/all.00014.xyz
+dump the content of an OBMol object to XYZ file results/filter.00014.xyz
+dump the content of an OBMol object to XYZ file results/reax.00014.xyz
+Temperature 315.791 
+Update simulation regions (depending on crack tip position)
+ITER  00700  CRACK_TIP  159.009 324.555 0.259 
+*** Time to update the regions 28.490
+TIMING: 00700  0.040  7.440  0.320  0.090  0.040  0.060  0.030  0.700 8.720
+Tersoff module:  E_pot= -129335.476454   avg. E_pot per atom=    -4.504579   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  700 Temperature (K)= 315.79135069  ReaxFF/Tersoff atom numbers 822 28712 
+i=  701
+i=  702
+i=  703
+i=  704
+i=  705
+TIMING: 00705  0.040  7.660  0.320  0.080  0.040  0.060  0.040  0.000 8.240
+Tersoff module:  E_pot= -129295.709194   avg. E_pot per atom=    -4.503194   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  705 Temperature (K)= 305.846280241  ReaxFF/Tersoff atom numbers 822 28712 
+i=  706
+i=  707
+i=  708
+i=  709
+i=  710
+Temperature (K)= 298.413420778
+Current temperature=298.413421
+Factor=1.000797
+TIMING: 00710  0.040  7.680  0.320  0.090  0.040  0.060  0.040  0.700 8.970
+Tersoff module:  E_pot= -129264.453813   avg. E_pot per atom=    -4.502106   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  710 Temperature (K)= 298.889394544  ReaxFF/Tersoff atom numbers 822 28712 
+i=  711
+i=  712
+i=  713
+i=  714
+i=  715
+TIMING: 00715  0.040  7.740  0.320  0.090  0.040  0.060  0.040  0.010 8.340
+Tersoff module:  E_pot= -129301.963162   avg. E_pot per atom=    -4.503412   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  715 Temperature (K)= 309.730190916  ReaxFF/Tersoff atom numbers 822 28712 
+i=  716
+i=  717
+i=  718
+i=  719
+i=  720
+Temperature (K)= 324.818502129
+Current temperature=324.818502
+Factor=0.988472
+Update simulation regions (depending on crack tip position)
+ITER  00720  CRACK_TIP  159.009 324.555 0.259 
+*** Time to update the regions 28.360
+TIMING: 00720  0.040  7.680  0.320  0.080  0.040  0.060  0.040  0.700 8.960
+Tersoff module:  E_pot= -129355.117944   avg. E_pot per atom=    -4.505263   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  720 Temperature (K)= 317.372951491  ReaxFF/Tersoff atom numbers 834 28712 
+i=  721
+i=  722
+i=  723
+i=  724
+i=  725
+TIMING: 00725  0.040  7.890  0.320  0.090  0.040  0.060  0.030  0.000 8.470
+Tersoff module:  E_pot= -129348.909866   avg. E_pot per atom=    -4.505047   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  725 Temperature (K)= 316.317069531  ReaxFF/Tersoff atom numbers 834 28712 
+i=  726
+i=  727
+i=  728
+i=  729
+i=  730
+Temperature (K)= 302.611779719
+Current temperature=302.611780
+Factor=0.998705
+TIMING: 00730  0.050  7.880  0.320  0.080  0.040  0.050  0.040  0.700 9.160
+Tersoff module:  E_pot= -129296.576348   avg. E_pot per atom=    -4.503224   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  730 Temperature (K)= 301.828245803  ReaxFF/Tersoff atom numbers 834 28712 
+i=  731
+i=  732
+i=  733
+i=  734
+i=  735
+TIMING: 00735  0.050  7.920  0.320  0.090  0.030  0.050  0.040  0.000 8.500
+Tersoff module:  E_pot= -129271.504274   avg. E_pot per atom=    -4.502351   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  735 Temperature (K)= 295.458673404  ReaxFF/Tersoff atom numbers 834 28712 
+i=  736
+i=  737
+i=  738
+i=  739
+i=  740
+Temperature (K)= 305.452272715
+Current temperature=305.452273
+Factor=0.997319
+Update simulation regions (depending on crack tip position)
+ITER  00740  CRACK_TIP  165.099 326.977 2.182 
+*** Time to update the regions 28.370
+TIMING: 00740  0.050  7.900  0.320  0.080  0.040  0.050  0.040  0.700 9.180
+Tersoff module:  E_pot= -129305.765329   avg. E_pot per atom=    -4.503544   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  740 Temperature (K)= 303.8165909  ReaxFF/Tersoff atom numbers 874 28712 
+i=  741
+i=  742
+i=  743
+i=  744
+i=  745
+TIMING: 00745  0.050  8.600  0.320  0.090  0.040  0.050  0.040  0.000 9.190
+Tersoff module:  E_pot= -129341.504743   avg. E_pot per atom=    -4.504789   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  745 Temperature (K)= 313.989195502  ReaxFF/Tersoff atom numbers 874 28712 
+i=  746
+i=  747
+i=  748
+i=  749
+i=  750
+Temperature (K)= 307.302835405
+Current temperature=307.302835
+Factor=0.996429
+dump the content of an OBMol object to XYZ file results/all.00015.xyz
+dump the content of an OBMol object to XYZ file results/filter.00015.xyz
+dump the content of an OBMol object to XYZ file results/reax.00015.xyz
+Temperature 305.112 
+TIMING: 00750  0.050  8.740  0.320  0.080  0.040  0.050  0.040  0.700 10.020
+Tersoff module:  E_pot= -129314.169982   avg. E_pot per atom=    -4.503837   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  750 Temperature (K)= 305.111984784  ReaxFF/Tersoff atom numbers 874 28712 
+i=  751
+i=  752
+i=  753
+i=  754
+i=  755
+TIMING: 00755  0.050  8.610  0.330  0.080  0.040  0.050  0.040  0.000 9.200
+Tersoff module:  E_pot= -129264.788219   avg. E_pot per atom=    -4.502117   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  755 Temperature (K)= 292.61184577  ReaxFF/Tersoff atom numbers 874 28712 
+i=  756
+i=  757
+i=  758
+i=  759
+i=  760
+Temperature (K)= 295.245543708
+Current temperature=295.245544
+Factor=1.002413
+Update simulation regions (depending on crack tip position)
+ITER  00760  CRACK_TIP  158.349 327.221 0.347 
+*** Time to update the regions 28.600
+TIMING: 00760  0.040  8.610  0.320  0.080  0.040  0.060  0.040  0.700 9.890
+Tersoff module:  E_pot= -129272.403043   avg. E_pot per atom=    -4.502382   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  760 Temperature (K)= 296.671880595  ReaxFF/Tersoff atom numbers 868 28712 
+i=  761
+i=  762
+i=  763
+i=  764
+i=  765
+TIMING: 00765  0.040  8.630  0.320  0.080  0.040  0.060  0.040  0.000 9.210
+Tersoff module:  E_pot= -129321.068713   avg. E_pot per atom=    -4.504077   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  765 Temperature (K)= 310.324416623  ReaxFF/Tersoff atom numbers 868 28712 
+i=  766
+i=  767
+i=  768
+i=  769
+i=  770
+Temperature (K)= 315.034713756
+Current temperature=315.034714
+Factor=0.992816
+TIMING: 00770  0.050  8.530  0.320  0.090  0.040  0.050  0.040  0.710 9.830
+Tersoff module:  E_pot= -129334.861409   avg. E_pot per atom=    -4.504558   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  770 Temperature (K)= 310.524299629  ReaxFF/Tersoff atom numbers 868 28712 
+i=  771
+i=  772
+i=  773
+i=  774
+i=  775
+TIMING: 00775  0.050  8.620  0.320  0.090  0.040  0.060  0.030  0.000 9.210
+Tersoff module:  E_pot= -129300.519647   avg. E_pot per atom=    -4.503362   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  775 Temperature (K)= 302.386983566  ReaxFF/Tersoff atom numbers 868 28712 
+i=  776
+i=  777
+i=  778
+i=  779
+i=  780
+Temperature (K)= 296.918061346
+Current temperature=296.918061
+Factor=1.001556
+Update simulation regions (depending on crack tip position)
+ITER  00780  CRACK_TIP  157.099 327.424 2.365 
+*** Time to update the regions 28.730
+TIMING: 00780  0.040  8.630  0.320  0.080  0.040  0.060  0.040  0.700 9.910
+Tersoff module:  E_pot= -129277.750878   avg. E_pot per atom=    -4.502569   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  780 Temperature (K)= 297.842642942  ReaxFF/Tersoff atom numbers 896 28712 
+i=  781
+i=  782
+i=  783
+i=  784
+i=  785
+TIMING: 00785  0.040  9.140  0.320  0.090  0.040  0.060  0.040  0.000 9.730
+Tersoff module:  E_pot= -129305.701467   avg. E_pot per atom=    -4.503542   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  785 Temperature (K)= 306.128531391  ReaxFF/Tersoff atom numbers 896 28712 
+i=  786
+i=  787
+i=  788
+i=  789
+i=  790
+Temperature (K)= 319.276998356
+Current temperature=319.276998
+Factor=0.990902
+TIMING: 00790  0.040  9.140  0.320  0.090  0.040  0.060  0.030  0.700 10.420
+Tersoff module:  E_pot= -129351.899199   avg. E_pot per atom=    -4.505151   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  790 Temperature (K)= 313.493898849  ReaxFF/Tersoff atom numbers 896 28712 
+i=  791
+i=  792
+i=  793
+i=  794
+i=  795
+TIMING: 00795  0.050  9.210  0.320  0.090  0.040  0.050  0.040  0.000 9.800
+Tersoff module:  E_pot= -129358.680868   avg. E_pot per atom=    -4.505387   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  795 Temperature (K)= 315.876180852  ReaxFF/Tersoff atom numbers 896 28712 
+i=  796
+i=  797
+i=  798
+i=  799
+i=  800
+Temperature (K)= 310.231174916
+Current temperature=310.231175
+Factor=0.995041
+dump the content of an OBMol object to XYZ file results/all.00016.xyz
+dump the content of an OBMol object to XYZ file results/filter.00016.xyz
+dump the content of an OBMol object to XYZ file results/reax.00016.xyz
+Temperature 307.162 
+Update simulation regions (depending on crack tip position)
+ITER  00800  CRACK_TIP  159.988 329.816 2.185 
+*** Time to update the regions 28.900
+TIMING: 00800  0.050  9.290  0.320  0.080  0.040  0.050  0.040  0.700 10.570
+Tersoff module:  E_pot= -129335.053260   avg. E_pot per atom=    -4.504564   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  800 Temperature (K)= 307.161822441  ReaxFF/Tersoff atom numbers 920 28712 
+i=  801
+i=  802
+i=  803
+i=  804
+i=  805
+TIMING: 00805  0.050  9.720  0.320  0.100  0.030  0.050  0.040  0.000 10.310
+Tersoff module:  E_pot= -129332.733297   avg. E_pot per atom=    -4.504484   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  805 Temperature (K)= 307.416589304  ReaxFF/Tersoff atom numbers 920 28712 
+i=  806
+i=  807
+i=  808
+i=  809
+i=  810
+Temperature (K)= 314.017789824
+Current temperature=314.017790
+Factor=0.993281
+TIMING: 00810  0.040  9.710  0.320  0.080  0.040  0.060  0.030  0.700 10.980
+Tersoff module:  E_pot= -129353.488696   avg. E_pot per atom=    -4.505206   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  810 Temperature (K)= 309.812452877  ReaxFF/Tersoff atom numbers 920 28712 
+i=  811
+i=  812
+i=  813
+i=  814
+i=  815
+TIMING: 00815  0.040  9.760  0.320  0.090  0.040  0.060  0.040  0.000 10.350
+Tersoff module:  E_pot= -129362.939764   avg. E_pot per atom=    -4.505536   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  815 Temperature (K)= 313.269803945  ReaxFF/Tersoff atom numbers 920 28712 
+i=  816
+i=  817
+i=  818
+i=  819
+i=  820
+Temperature (K)= 310.093556791
+Current temperature=310.093557
+Factor=0.995106
+Update simulation regions (depending on crack tip position)
+ITER  00820  CRACK_TIP  152.057 330.031 2.219 
+*** Time to update the regions 29.100
+TIMING: 00820  0.040  9.750  0.320  0.090  0.040  0.060  0.040  0.700 11.040
+Tersoff module:  E_pot= -129347.766029   avg. E_pot per atom=    -4.505007   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  820 Temperature (K)= 307.065489754  ReaxFF/Tersoff atom numbers 923 28712 
+i=  821
+i=  822
+i=  823
+i=  824
+i=  825
+TIMING: 00825  0.050  9.780  0.320  0.090  0.040  0.050  0.040  0.000 10.370
+Tersoff module:  E_pot= -129327.388441   avg. E_pot per atom=    -4.504297   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  825 Temperature (K)= 302.482450734  ReaxFF/Tersoff atom numbers 923 28712 
+i=  826
+i=  827
+i=  828
+i=  829
+i=  830
+Temperature (K)= 303.109643948
+Current temperature=303.109644
+Factor=0.998460
+TIMING: 00830  0.040  9.830  0.330  0.090  0.030  0.060  0.030  0.710 11.120
+Tersoff module:  E_pot= -129326.460237   avg. E_pot per atom=    -4.504265   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  830 Temperature (K)= 302.176750763  ReaxFF/Tersoff atom numbers 923 28712 
+i=  831
+i=  832
+i=  833
+i=  834
+i=  835
+TIMING: 00835  0.040  9.850  0.320  0.090  0.040  0.060  0.040  0.000 10.440
+Tersoff module:  E_pot= -129337.024775   avg. E_pot per atom=    -4.504633   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  835 Temperature (K)= 305.819157276  ReaxFF/Tersoff atom numbers 923 28712 
+i=  836
+i=  837
+i=  838
+i=  839
+i=  840
+Temperature (K)= 305.855865948
+Current temperature=305.855866
+Factor=0.997124
+Update simulation regions (depending on crack tip position)
+ITER  00840  CRACK_TIP  152.013 330.084 2.148 
+*** Time to update the regions 29.160
+TIMING: 00840  0.040  9.770  0.320  0.090  0.040  0.060  0.030  0.700 11.050
+Tersoff module:  E_pot= -129334.353832   avg. E_pot per atom=    -4.504540   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  840 Temperature (K)= 304.099106163  ReaxFF/Tersoff atom numbers 929 28712 
+i=  841
+i=  842
+i=  843
+i=  844
+i=  845
+TIMING: 00845  0.050  9.930  0.320  0.090  0.040  0.050  0.040  0.000 10.520
+Tersoff module:  E_pot= -129327.086188   avg. E_pot per atom=    -4.504287   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  845 Temperature (K)= 303.019389972  ReaxFF/Tersoff atom numbers 929 28712 
+i=  846
+i=  847
+i=  848
+i=  849
+i=  850
+Temperature (K)= 306.349611594
+Current temperature=306.349612
+Factor=0.996886
+dump the content of an OBMol object to XYZ file results/all.00017.xyz
+dump the content of an OBMol object to XYZ file results/filter.00017.xyz
+dump the content of an OBMol object to XYZ file results/reax.00017.xyz
+Temperature 304.445 
+TIMING: 00850  0.050  9.940  0.320  0.090  0.040  0.050  0.040  0.700 11.230
+Tersoff module:  E_pot= -129334.633495   avg. E_pot per atom=    -4.504550   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  850 Temperature (K)= 304.444728115  ReaxFF/Tersoff atom numbers 929 28712 
+i=  851
+i=  852
+i=  853
+i=  854
+i=  855
+TIMING: 00855  0.050  10.030  0.320  0.090  0.030  0.050  0.040  0.000 10.610
+Tersoff module:  E_pot= -129342.408748   avg. E_pot per atom=    -4.504821   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  855 Temperature (K)= 308.240545772  ReaxFF/Tersoff atom numbers 929 28712 
+i=  856
+i=  857
+i=  858
+i=  859
+i=  860
+Temperature (K)= 309.527557756
+Current temperature=309.527558
+Factor=0.995372
+Update simulation regions (depending on crack tip position)
+ITER  00860  CRACK_TIP  163.846 331.903 0.324 
+*** Time to update the regions 29.250
+TIMING: 00860  0.050  9.990  0.320  0.090  0.040  0.050  0.040  0.700 11.280
+Tersoff module:  E_pot= -129342.847191   avg. E_pot per atom=    -4.504836   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  860 Temperature (K)= 306.669290429  ReaxFF/Tersoff atom numbers 972 28712 
+i=  861
+i=  862
+i=  863
+i=  864
+i=  865
+TIMING: 00865  0.040  10.870  0.320  0.080  0.040  0.060  0.040  0.000 11.450
+Tersoff module:  E_pot= -129350.013822   avg. E_pot per atom=    -4.505085   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  865 Temperature (K)= 309.476253593  ReaxFF/Tersoff atom numbers 972 28712 
+i=  866
+i=  867
+i=  868
+i=  869
+i=  870
+Temperature (K)= 314.193960342
+Current temperature=314.193960
+Factor=0.993201
+TIMING: 00870  0.040  10.900  0.320  0.080  0.040  0.060  0.040  0.700 12.180
+Tersoff module:  E_pot= -129365.245957   avg. E_pot per atom=    -4.505616   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  870 Temperature (K)= 309.935772239  ReaxFF/Tersoff atom numbers 972 28712 
+i=  871
+i=  872
+i=  873
+i=  874
+i=  875
+TIMING: 00875  0.050  10.980  0.320  0.090  0.040  0.060  0.030  0.000 11.570
+Tersoff module:  E_pot= -129373.945718   avg. E_pot per atom=    -4.505919   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  875 Temperature (K)= 312.974434068  ReaxFF/Tersoff atom numbers 972 28712 
+i=  876
+i=  877
+i=  878
+i=  879
+i=  880
+Temperature (K)= 313.231866926
+Current temperature=313.231867
+Factor=0.993643
+Update simulation regions (depending on crack tip position)
+ITER  00880  CRACK_TIP  150.815 333.080 0.099 
+*** Time to update the regions 29.470
+TIMING: 00880  0.040  11.030  0.320  0.090  0.040  0.060  0.030  0.700 12.310
+Tersoff module:  E_pot= -129373.399387   avg. E_pot per atom=    -4.505900   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  880 Temperature (K)= 309.262306848  ReaxFF/Tersoff atom numbers 990 28712 
+i=  881
+i=  882
+i=  883
+i=  884
+i=  885
+TIMING: 00885  0.040  11.360  0.320  0.080  0.040  0.060  0.030  0.000 11.930
+Tersoff module:  E_pot= -129371.864549   avg. E_pot per atom=    -4.505846   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  885 Temperature (K)= 309.489077694  ReaxFF/Tersoff atom numbers 990 28712 
+i=  886
+i=  887
+i=  888
+i=  889
+i=  890
+Temperature (K)= 313.16997537
+Current temperature=313.169975
+Factor=0.993672
+TIMING: 00890  0.040  11.370  0.320  0.080  0.040  0.060  0.040  0.700 12.650
+Tersoff module:  E_pot= -129381.229470   avg. E_pot per atom=    -4.506173   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  890 Temperature (K)= 309.218982759  ReaxFF/Tersoff atom numbers 990 28712 
+i=  891
+i=  892
+i=  893
+i=  894
+i=  895
+TIMING: 00895  0.040  11.280  0.320  0.090  0.030  0.060  0.040  0.000 11.860
+Tersoff module:  E_pot= -129396.579139   avg. E_pot per atom=    -4.506707   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  895 Temperature (K)= 314.749544647  ReaxFF/Tersoff atom numbers 990 28712 
+i=  896
+i=  897
+i=  898
+i=  899
+i=  900
+Temperature (K)= 315.026225019
+Current temperature=315.026225
+Factor=0.992819
+dump the content of an OBMol object to XYZ file results/all.00018.xyz
+dump the content of an OBMol object to XYZ file results/filter.00018.xyz
+dump the content of an OBMol object to XYZ file results/reax.00018.xyz
+Temperature 310.518 
+Update simulation regions (depending on crack tip position)
+ITER  00900  CRACK_TIP  150.815 333.080 0.099 
+*** Time to update the regions 29.780
+TIMING: 00900  0.040  11.460  0.320  0.090  0.040  0.060  0.030  0.700 12.740
+Tersoff module:  E_pot= -129393.658838   avg. E_pot per atom=    -4.506606   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  900 Temperature (K)= 310.518357513  ReaxFF/Tersoff atom numbers 1018 28712 
+i=  901
+i=  902
+i=  903
+i=  904
+i=  905
+TIMING: 00905  0.050  11.920  0.320  0.080  0.040  0.050  0.040  0.000 12.500
+Tersoff module:  E_pot= -129374.123042   avg. E_pot per atom=    -4.505925   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  905 Temperature (K)= 305.892802483  ReaxFF/Tersoff atom numbers 1018 28712 
+i=  906
+i=  907
+i=  908
+i=  909
+i=  910
+Temperature (K)= 305.213648232
+Current temperature=305.213648
+Factor=0.997434
+TIMING: 00910  0.040  12.030  0.330  0.090  0.030  0.060  0.040  0.710 13.330
+Tersoff module:  E_pot= -129370.324030   avg. E_pot per atom=    -4.505793   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  910 Temperature (K)= 303.649553763  ReaxFF/Tersoff atom numbers 1018 28712 
+i=  911
+i=  912
+i=  913
+i=  914
+i=  915
+TIMING: 00915  0.050  11.860  0.320  0.090  0.040  0.050  0.040  0.000 12.450
+Tersoff module:  E_pot= -129387.970900   avg. E_pot per atom=    -4.506407   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  915 Temperature (K)= 308.8451784  ReaxFF/Tersoff atom numbers 1018 28712 
+i=  916
+i=  917
+i=  918
+i=  919
+i=  920
+Temperature (K)= 311.854488801
+Current temperature=311.854489
+Factor=0.994282
+Update simulation regions (depending on crack tip position)
+ITER  00920  CRACK_TIP  150.815 333.080 0.099 
+*** Time to update the regions 29.360
+TIMING: 00920  0.050  11.840  0.330  0.090  0.040  0.050  0.040  0.700 13.140
+Tersoff module:  E_pot= -129395.127433   avg. E_pot per atom=    -4.506657   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  920 Temperature (K)= 308.29814216  ReaxFF/Tersoff atom numbers 1022 28712 
+i=  921
+i=  922
+i=  923
+i=  924
+i=  925
+TIMING: 00925  0.040  11.940  0.320  0.080  0.040  0.060  0.030  0.000 12.510
+Tersoff module:  E_pot= -129372.818054   avg. E_pot per atom=    -4.505880   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  925 Temperature (K)= 303.617697947  ReaxFF/Tersoff atom numbers 1022 28712 
+i=  926
+i=  927
+i=  928
+i=  929
+i=  930
+Temperature (K)= 298.001824431
+Current temperature=298.001824
+Factor=1.001005
+TIMING: 00930  0.050  12.000  0.320  0.080  0.040  0.050  0.040  0.700 13.280
+Tersoff module:  E_pot= -129347.028393   avg. E_pot per atom=    -4.504981   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  930 Temperature (K)= 298.601277101  ReaxFF/Tersoff atom numbers 1022 28712 
+i=  931
+i=  932
+i=  933
+i=  934
+i=  935
+TIMING: 00935  0.040  12.020  0.320  0.090  0.040  0.060  0.030  0.000 12.600
+Tersoff module:  E_pot= -129357.191046   avg. E_pot per atom=    -4.505335   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  935 Temperature (K)= 302.628393434  ReaxFF/Tersoff atom numbers 1022 28712 
+i=  936
+i=  937
+i=  938
+i=  939
+i=  940
+Temperature (K)= 313.438810545
+Current temperature=313.438811
+Factor=0.993548
+Update simulation regions (depending on crack tip position)
+ITER  00940  CRACK_TIP  160.741 333.120 2.078 
+*** Time to update the regions 29.600
+TIMING: 00940  0.060  11.940  0.330  0.090  0.030  0.050  0.040  0.710 13.250
+Tersoff module:  E_pot= -129393.288327   avg. E_pot per atom=    -4.506593   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  940 Temperature (K)= 309.407167381  ReaxFF/Tersoff atom numbers 1039 28712 
+i=  941
+i=  942
+i=  943
+i=  944
+i=  945
+TIMING: 00945  0.040  12.290  0.330  0.090  0.040  0.060  0.040  0.000 12.890
+Tersoff module:  E_pot= -129407.795661   avg. E_pot per atom=    -4.507098   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  945 Temperature (K)= 313.927029463  ReaxFF/Tersoff atom numbers 1039 28712 
+i=  946
+i=  947
+i=  948
+i=  949
+i=  950
+Temperature (K)= 310.124270023
+Current temperature=310.124270
+Factor=0.995091
+dump the content of an OBMol object to XYZ file results/all.00019.xyz
+dump the content of an OBMol object to XYZ file results/filter.00019.xyz
+dump the content of an OBMol object to XYZ file results/reax.00019.xyz
+Temperature 307.087 
+TIMING: 00950  0.040  12.380  0.320  0.080  0.040  0.060  0.040  0.700 13.660
+Tersoff module:  E_pot= -129391.176215   avg. E_pot per atom=    -4.506519   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  950 Temperature (K)= 307.086989016  ReaxFF/Tersoff atom numbers 1039 28712 
+i=  951
+i=  952
+i=  953
+i=  954
+i=  955
+TIMING: 00955  0.040  12.330  0.320  0.080  0.040  0.060  0.030  0.000 12.900
+Tersoff module:  E_pot= -129384.444159   avg. E_pot per atom=    -4.506285   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  955 Temperature (K)= 306.408794388  ReaxFF/Tersoff atom numbers 1039 28712 
+i=  956
+i=  957
+i=  958
+i=  959
+i=  960
+Temperature (K)= 314.230565866
+Current temperature=314.230566
+Factor=0.993184
+Update simulation regions (depending on crack tip position)
+ITER  00960  CRACK_TIP  158.694 335.841 0.234 
+*** Time to update the regions 29.990
+TIMING: 00960  0.050  12.320  0.320  0.090  0.030  0.050  0.040  0.710 13.610
+Tersoff module:  E_pot= -129407.998918   avg. E_pot per atom=    -4.507105   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  960 Temperature (K)= 309.961396106  ReaxFF/Tersoff atom numbers 1111 28712 
+i=  961
+i=  962
+i=  963
+i=  964
+i=  965
+TIMING: 00965  0.050  14.000  0.330  0.080  0.040  0.050  0.040  0.000 14.590
+Tersoff module:  E_pot= -129432.199923   avg. E_pot per atom=    -4.507948   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  965 Temperature (K)= 317.730984929  ReaxFF/Tersoff atom numbers 1111 28712 
+i=  966
+i=  967
+i=  968
+i=  969
+i=  970
+Temperature (K)= 317.077945766
+Current temperature=317.077946
+Factor=0.991888
+TIMING: 00970  0.040  14.070  0.320  0.090  0.040  0.060  0.040  0.700 15.360
+Tersoff module:  E_pot= -129424.362041   avg. E_pot per atom=    -4.507675   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  970 Temperature (K)= 311.954562036  ReaxFF/Tersoff atom numbers 1111 28712 
+i=  971
+i=  972
+i=  973
+i=  974
+i=  975
+TIMING: 00975  0.040  14.000  0.320  0.090  0.040  0.060  0.030  0.000 14.580
+Tersoff module:  E_pot= -129403.794208   avg. E_pot per atom=    -4.506959   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  975 Temperature (K)= 307.359668722  ReaxFF/Tersoff atom numbers 1111 28712 
+i=  976
+i=  977
+i=  978
+i=  979
+i=  980
+Temperature (K)= 307.853733451
+Current temperature=307.853733
+Factor=0.996166
+Update simulation regions (depending on crack tip position)
+ITER  00980  CRACK_TIP  161.611 336.043 0.054 
+*** Time to update the regions 30.240
+TIMING: 00980  0.040  13.980  0.320  0.090  0.040  0.060  0.040  0.700 15.270
+Tersoff module:  E_pot= -129402.059620   avg. E_pot per atom=    -4.506898   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  980 Temperature (K)= 305.497613416  ReaxFF/Tersoff atom numbers 1113 28712 
+i=  981
+i=  982
+i=  983
+i=  984
+i=  985
+TIMING: 00985  0.050  14.160  0.320  0.090  0.030  0.060  0.030  0.000 14.740
+Tersoff module:  E_pot= -129421.052573   avg. E_pot per atom=    -4.507560   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  985 Temperature (K)= 311.12657962  ReaxFF/Tersoff atom numbers 1113 28712 
+i=  986
+i=  987
+i=  988
+i=  989
+i=  990
+Temperature (K)= 313.637274586
+Current temperature=313.637275
+Factor=0.993456
+TIMING: 00990  0.040  14.110  0.320  0.090  0.030  0.060  0.040  0.710 15.400
+Tersoff module:  E_pot= -129427.570780   avg. E_pot per atom=    -4.507787   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  990 Temperature (K)= 309.54609221  ReaxFF/Tersoff atom numbers 1113 28712 
+i=  991
+i=  992
+i=  993
+i=  994
+i=  995
+TIMING: 00995  0.050  14.110  0.320  0.090  0.030  0.050  0.040  0.000 14.690
+Tersoff module:  E_pot= -129407.145001   avg. E_pot per atom=    -4.507075   E_kin=    0.000000   Temp (in K)=    0.000000 
+*** step  995 Temperature (K)= 304.84784322  ReaxFF/Tersoff atom numbers 1113 28712 
+i=  996
+i=  997
+i=  998
+i=  999
